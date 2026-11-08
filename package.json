@@ -1,0 +1,21 @@
+{
+  "name": "lyricsync",
+  "version": "1.0.0",
+  "description": "Juice WRLD Synced Lyrics & LRC Search Engine (DRFL & Outsiders Eras)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "node scripts/build-static.js"
+  },
+  "keywords": [
+    "lyrics",
+    "lrc",
+    "synced-lyrics",
+    "juice-wrld",
+    "drfl",
+    "outsiders"
+  ],
+  "author": "",
+  "license": "MIT"
+}
