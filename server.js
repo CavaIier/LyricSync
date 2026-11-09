@@ -1,7 +1,6 @@
 const http = require('http');
 const fs = require('fs');
 const path = require('path');
-const url = require('url');
 const parser = require('./lib/parser');
 
 const PORT = process.env.PORT || 3000;
@@ -27,7 +26,6 @@ let lastScanTime = 0;
 
 function getData(forceRefresh = false) {
   const now = Date.now();
-  // Cache for 10 seconds unless forced
   if (!cachedData || forceRefresh || (now - lastScanTime > 10000)) {
     cachedData = parser.scanWorkspace(__dirname);
     lastScanTime = now;
@@ -55,29 +53,8 @@ const server = http.createServer((req, res) => {
     // GET /api/songs
     if (pathname === '/api/songs') {
       const data = getData(reqUrl.searchParams.get('refresh') === 'true');
-      const summaries = data.songs.map(s => ({
-        id: s.id,
-        era: s.era,
-        eraName: s.eraName,
-        eraBadge: s.eraBadge,
-        eraColor: s.eraColor,
-        filename: s.filename,
-        rawName: s.rawName,
-        title: s.title,
-        artist: s.artist,
-        hasTimestamps: s.hasTimestamps,
-        durationSec: s.durationSec,
-        durationFormatted: s.durationFormatted,
-        lineCount: s.lineCount
-      }));
-
       res.writeHead(200, { 'Content-Type': 'application/json; charset=utf-8' });
-      res.end(JSON.stringify({
-        eras: data.eras,
-        songs: summaries,
-        totalSongs: data.totalSongs,
-        timestamp: data.timestamp
-      }));
+      res.end(JSON.stringify(data));
       return;
     }
 
@@ -145,7 +122,6 @@ const server = http.createServer((req, res) => {
 
   const filePath = path.join(PUBLIC_DIR, pathname);
 
-  // Security check: ensure within public directory
   if (!filePath.startsWith(PUBLIC_DIR)) {
     res.writeHead(403, { 'Content-Type': 'text/plain' });
     res.end('Access Denied');
@@ -154,17 +130,16 @@ const server = http.createServer((req, res) => {
 
   fs.stat(filePath, (err, stats) => {
     if (err || !stats.isFile()) {
-      // If file not found and doesn't have an extension, fall back to index.html (SPA routing)
       if (!path.extname(pathname)) {
         const indexPath = path.join(PUBLIC_DIR, 'index.html');
         fs.readFile(indexPath, (err2, content) => {
           if (err2) {
             res.writeHead(404, { 'Content-Type': 'text/plain' });
             res.end('404 Not Found');
-            return;
+          } else {
+            res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' });
+            res.end(content);
           }
-          res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' });
-          res.end(content);
         });
         return;
       }
@@ -177,30 +152,25 @@ const server = http.createServer((req, res) => {
     const ext = path.extname(filePath).toLowerCase();
     const contentType = MIME_TYPES[ext] || 'application/octet-stream';
 
-    res.writeHead(200, { 'Content-Type': contentType });
-    fs.createReadStream(filePath).pipe(res);
+    res.writeHead(200, {
+      'Content-Type': contentType,
+      'Cache-Control': 'no-cache'
+    });
+
+    const stream = fs.createReadStream(filePath);
+    stream.pipe(res);
   });
 });
 
-function startServer(port) {
-  server.listen(port, () => {
-    console.log(`\n=================================================`);
-    console.log(`  🎵 LyricSync - Juice WRLD Lyrics Engine`);
-    console.log(`=================================================`);
-    console.log(`  Local URL:   http://localhost:${port}`);
-    console.log(`  Network:     http://127.0.0.1:${port}`);
-    console.log(`  Loaded eras: DRFL & OUT (${getData().totalSongs} total songs)`);
-    console.log(`=================================================\n`);
-  });
-
-  server.on('error', (err) => {
-    if (err.code === 'EADDRINUSE') {
-      console.log(`Port ${port} is in use, trying ${port + 1}...`);
-      startServer(port + 1);
-    } else {
-      console.error('Server error:', err);
-    }
+if (require.main === module) {
+  server.listen(PORT, () => {
+    console.log(`\n===========================================`);
+    console.log(`🎵 LyricSync Server is running!`);
+    console.log(`🚀 URL: http://localhost:${PORT}`);
+    console.log(`📁 Static files served from: ${PUBLIC_DIR}`);
+    console.log(`💡 Press Ctrl+C to stop.`);
+    console.log(`===========================================\n`);
   });
 }
 
-startServer(PORT);
+module.exports = { server, getData };

@@ -1,0 +1,39 @@
+{
+  "latestUpdateDate": "2026-11-09",
+  "newSongIds": [
+    "drfl-rental",
+    "drfl-kiki",
+    "drfl-fast",
+    "drfl-robbery",
+    "out-astray",
+    "out-save-us",
+    "out-burn",
+    "out-blood-on-my-jeans"
+  ],
+  "changelog": [
+    {
+      "version": "v1.2.0",
+      "date": "November 9, 2026",
+      "title": "Community Tracker & Search Overhaul",
+      "changes": [
+        "Added Community Song Tracker with 1,201 Juice WRLD songs across DRFL, OUT, GBGR, and WOD eras",
+        "Added Live Sync Status indicators (🟢 Synced with direct LRC player vs ⚪ Not Yet Synced)",
+        "Added Full Lyrics Search engine with live line preview & keyword highlighting",
+        "Added Song Aliases support with personal custom nicknames saved in browser",
+        "Added 1-click 'Suggest Alternative Name' contribution via GitHub Issues",
+        "Added Crypto Donation support with 1-click address copy and QR codes (BTC, ETH, SOL, LTC)",
+        "Added 'NEW' badges and '⭐ Recently Added' filter button"
+      ]
+    },
+    {
+      "version": "v1.1.0",
+      "date": "November 8, 2026",
+      "title": "Initial Library Release",
+      "changes": [
+        "114 synchronized Juice WRLD tracks across DRFL and OUT eras",
+        "Interactive karaoke auto-scroller and LRC file downloads",
+        "Zero-dependency static compilation for GitHub Pages"
+      ]
+    }
+  ]
+}

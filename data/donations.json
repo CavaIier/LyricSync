@@ -1,0 +1,43 @@
+{
+  "heading": "Support LyricSync",
+  "message": "LyricSync is 100% free and open-source. Donations support hosting, maintenance, and continuous lyric syncing for the Juice WRLD community.",
+  "note": "You can replace these wallet addresses anytime by editing data/donations.json in your GitHub repository.",
+  "wallets": [
+    {
+      "id": "btc",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "network": "Bitcoin Mainnet",
+      "icon": "₿",
+      "color": "#f7931a",
+      "address": "bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh"
+    },
+    {
+      "id": "eth",
+      "name": "Ethereum / USDT",
+      "symbol": "ETH / ERC-20",
+      "network": "Ethereum / Arbitrum / Polygon",
+      "icon": "Ξ",
+      "color": "#627eea",
+      "address": "0x71C...YourEthereumAddressHere"
+    },
+    {
+      "id": "sol",
+      "name": "Solana",
+      "symbol": "SOL",
+      "network": "Solana Mainnet",
+      "icon": "◎",
+      "color": "#14f195",
+      "address": "YourSolanaWalletAddressHere"
+    },
+    {
+      "id": "ltc",
+      "name": "Litecoin",
+      "symbol": "LTC",
+      "network": "Litecoin Network",
+      "icon": "Ł",
+      "color": "#345d9d",
+      "address": "YourLitecoinWalletAddressHere"
+    }
+  ]
+}
