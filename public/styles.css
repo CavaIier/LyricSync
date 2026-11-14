@@ -504,6 +504,8 @@ body {
 }
 .drfl-dot { background: var(--drfl-primary); box-shadow: 0 0 8px var(--drfl-primary); }
 .out-dot { background: var(--out-primary); box-shadow: 0 0 8px var(--out-primary); }
+.gbgr-dot { background: #f59e0b; box-shadow: 0 0 8px #f59e0b; }
+.wod-dot { background: #10b981; box-shadow: 0 0 8px #10b981; }
 .new-dot { background: #10b981; box-shadow: 0 0 8px #10b981; }
 
 .filter-btn-new.active {
@@ -675,6 +677,16 @@ body {
   background: var(--out-bg);
   color: #67e8f9;
   border: 1px solid rgba(6, 182, 212, 0.3);
+}
+.badge-gbgr {
+  background: rgba(245, 158, 11, 0.15);
+  color: #fbbf24;
+  border: 1px solid rgba(245, 158, 11, 0.3);
+}
+.badge-wod {
+  background: rgba(16, 185, 129, 0.15);
+  color: #34d399;
+  border: 1px solid rgba(16, 185, 129, 0.3);
 }
 
 .card-meta-right {

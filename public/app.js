@@ -88,6 +88,8 @@
   const badgeAll = document.getElementById('badgeAll');
   const badgeDrfl = document.getElementById('badgeDrfl');
   const badgeOut = document.getElementById('badgeOut');
+  const badgeGbgr = document.getElementById('badgeGbgr');
+  const badgeWod = document.getElementById('badgeWod');
   const badgeNew = document.getElementById('badgeNew');
 
   // Tracker Elements
@@ -442,15 +444,19 @@
     if (libraryTabBadge) libraryTabBadge.textContent = total || allSongs.length;
     if (badgeAll) badgeAll.textContent = total || allSongs.length;
 
-    let drfl = 0, out = 0, newCount = 0;
+    let drfl = 0, out = 0, gbgr = 0, wod = 0, newCount = 0;
     allSongs.forEach(s => {
       if (s.era === 'DRFL') drfl++;
-      if (s.era === 'OUT') out++;
+      else if (s.era === 'OUT') out++;
+      else if (s.era === 'GBGR') gbgr++;
+      else if (s.era === 'WOD') wod++;
       if (s.isNew) newCount++;
     });
 
     if (badgeDrfl) badgeDrfl.textContent = drfl;
     if (badgeOut) badgeOut.textContent = out;
+    if (badgeGbgr) badgeGbgr.textContent = gbgr;
+    if (badgeWod) badgeWod.textContent = wod;
     if (badgeNew) badgeNew.textContent = newCount;
   }
 
@@ -777,7 +783,7 @@
       }
 
       return `
-        <div class="tracker-row-card ${isSynced ? 'is-synced' : 'is-unsynced'}">
+        <div class="tracker-row-card ${isSynced ? 'is-synced' : 'is-unsynced'}" ${isSynced && item.songId ? `data-songid="${item.songId}" role="button" tabindex="0" title="Click to view & play lyrics"` : ''}>
           <div class="tracker-row-left">
             <span class="tracker-row-index">#${idx + 1}</span>
             <span class="era-badge ${eraBadgeClass}">${escapeHtml(item.era)}</span>
@@ -796,6 +802,14 @@
               <span class="status-indicator-dot ${isSynced ? 'synced' : 'unsynced'}"></span>
               ${isSynced ? 'Synced' : 'Not Yet Synced'}
             </span>
+            ${isSynced && item.songId ? `
+              <button class="btn-tracker-play" data-songid="${item.songId}" title="Open karaoke lyrics player">
+                <svg viewBox="0 0 24 24" fill="currentColor" width="13" height="13">
+                  <polygon points="5 3 19 12 5 21 5 3"></polygon>
+                </svg>
+                <span>Play / View LRC</span>
+              </button>
+            ` : ''}
           </div>
         </div>
       `;
@@ -1391,6 +1405,11 @@
         if (songId) openSongModal(songId);
         return;
       }
+      const card = e.target.closest('.tracker-row-card.is-synced');
+      if (card && card.dataset.songid) {
+        openSongModal(card.dataset.songid);
+        return;
+      }
       const reqBtn = e.target.closest('.btn-tracker-request');
       if (reqBtn) {
         openGithubRequestSync(reqBtn.dataset.title, reqBtn.dataset.era);
@@ -1493,7 +1512,9 @@
       const rmBtn = e.target.closest('[data-remove]');
       if (rmBtn) removeCustomNickname(parseInt(rmBtn.dataset.remove, 10));
     });
-    suggestGithubAliasBtn.addEventListener('click', openGithubSuggestIssue);
+    if (suggestGithubAliasBtn) {
+      suggestGithubAliasBtn.addEventListener('click', openGithubSuggestIssue);
+    }
   }
 
   function navigateModalSong(direction) {

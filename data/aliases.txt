@@ -1,0 +1,14 @@
+# ========================================================
+# LyricSync - Easy Song Aliases
+# 
+# Easily link alternative titles for songs here!
+# No coding or JSON needed. Just write:
+# Song Title = Alternative Name 1, Alternative Name 2
+# ========================================================
+
+Listen To This If You're Lost = Toxic Humans
+Rental = Cha-Ching, Cha Ching
+Kiki = Ready Aim Fire, Ready, Aim, Fire
+All Life Long = Good Time, Good Times
+Party By Myself = Heroin Music
+Astray = Look At Me Now, Never Stray

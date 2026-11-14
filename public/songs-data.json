@@ -53932,7 +53932,9 @@
       "eraColor": "#8b5cf6",
       "title": "Fire",
       "notes": "",
-      "aliases": [],
+      "aliases": [
+        "Kiki"
+      ],
       "status": "unsynced",
       "songId": null,
       "durationFormatted": null,
@@ -66710,7 +66712,10 @@
       "notes": "",
       "aliases": [
         "Ready, Aim, Fire",
-        "Ready Aim Fire"
+        "Ready Aim Fire",
+        "Ready",
+        "Aim",
+        "Fire"
       ],
       "status": "unsynced",
       "songId": null,
@@ -69348,7 +69353,10 @@
     ],
     "Kiki": [
       "Ready, Aim, Fire",
-      "Ready Aim Fire"
+      "Ready Aim Fire",
+      "Ready",
+      "Aim",
+      "Fire"
     ],
     "Astray": [
       "Look At Me Now",
@@ -69478,7 +69486,43 @@
     ],
     "Dark Tints": [
       "Dark Tints"
+    ],
+    "Cha-Ching": [
+      "Rental"
+    ],
+    "Cha Ching": [
+      "Rental"
+    ],
+    "Ready Aim Fire": [
+      "Kiki"
+    ],
+    "Ready": [
+      "Kiki"
+    ],
+    "Aim": [
+      "Kiki"
+    ],
+    "Fire": [
+      "Kiki"
+    ],
+    "Good Time": [
+      "All Life Long"
+    ],
+    "Good Times": [
+      "All Life Long"
+    ],
+    "Party By Myself": [
+      "Heroin Music"
+    ],
+    "Heroin Music": [
+      "Party By Myself"
+    ],
+    "Look At Me Now": [
+      "Astray"
+    ],
+    "Never Stray": [
+      "Astray"
     ]
   },
-  "timestamp": "2026-11-14T20:08:34.684Z"
+  "timestamp": "2026-11-14T20:18:49.221Z"
 }
