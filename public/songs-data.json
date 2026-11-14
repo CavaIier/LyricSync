@@ -17,6 +17,15 @@
       "gradient": "from-cyan-600 to-blue-600",
       "description": "The Outsiders Planned Era (2019-2020)",
       "count": 85
+    },
+    {
+      "code": "GBGR",
+      "name": "Goodbye & Good Riddance",
+      "badge": "GBGR",
+      "color": "#f59e0b",
+      "gradient": "from-amber-500 to-orange-600",
+      "description": "Goodbye & Good Riddance Era (2018)",
+      "count": 6
     }
   ],
   "songs": [
@@ -6130,6 +6139,482 @@
       "lrcContent": "[ti:Both Sides (with Trippie Redd)]\n[ar:Juice WRLD & Trippie Redd]\n[al:The Outsiders]\n[by:LyricSync]\n[00:00.40] [Intro: Juice WRLD]\n[00:01.68] Two seats in my ride\n[00:03.04] (That's it right there, KD)\n[00:05.90] Me and her inside\n[00:08.54] Two seats in my ride\n[00:12.64] [Chorus: Juice WRLD]\n[00:12.74] Oh, two seats in my ride (Yeah), me and her inside (Yeah)\n[00:18.04] See from both sides (Oh yeah), It's a C on both sides (Yeah)\n[00:21.70] That be that Chanel life (Uh), running through hell in fashion\n[00:25.48] Pop outta Hell with a MAC-10\n[00:27.20] With them Percs in my body, I'm blastin'\n[00:29.26] Two seats in my ride (Yeah), me and her inside (Yeah)\n[00:32.88] See from both sides (Oh yeah), It's a C on both sides (Yeah)\n[00:36.48] That be that Chanel life (Uh), running through hell in fashion\n[00:40.26] Pop outta Hell with a MAC-10\n[00:41.92] With them Percs in my body, I'm blastin'\n[00:44.94] [Verse: Trippie Redd]\n[00:45.24] Yeah, this a foreign ride, doors are suicide\n[00:49.60] Be a homicide, I might make a mama cry\n[00:53.22] Yeah, it's do or die\n[00:55.00] Said it's do or die, yeah, yeah, ayy\n[00:59.28] Pulled up in a Wraith\n[01:01.04] Food all on my plate\n[01:02.92] Bitch I'm eating good\n[01:04.28] How I'm doing? I'm doing great\n[01:06.60] Fuck nigga talking down, grab that 'K and then I spray\n[01:13.20] [Instrumental Bridge]\n[01:16.06] [Chorus: Juice WRLD]\n[01:19.34] Oh, two seats in my ride (Yeah), me and her inside (Yeah)\n[01:24.58] See from both sides (Oh yeah), It's a C on both sides (Yeah)\n[01:28.18] That be that Chanel life (Uh), running through hell in fashion\n[01:31.96] Pop outta Hell with a MAC-10\n[01:33.62] With them Percs in my body, I'm blastin'\n[01:35.70] Two seats in my ride (Yeah), me and her inside (Yeah)\n[01:39.46] See from both sides (Oh yeah), It's a C on both sides\n[01:42.96] That be that Chanel life (Uh), running through hell in fashion\n[01:46.72] Pop outta Hell with a MAC-10\n[01:48.54] With them Percs in my body, I'm blastin'"
     },
     {
+      "id": "gbgr-bottle",
+      "era": "GBGR",
+      "eraName": "Goodbye & Good Riddance",
+      "eraBadge": "GBGR",
+      "eraColor": "#f59e0b",
+      "filename": "Juice WRLD - Bottle.txt",
+      "rawName": "Juice WRLD - Bottle",
+      "title": "Bottle",
+      "artist": "Juice WRLD",
+      "aliases": [],
+      "isNew": false,
+      "hasTimestamps": false,
+      "durationSec": 0,
+      "durationFormatted": "0:00",
+      "lineCount": 65,
+      "lines": [
+        {
+          "id": 0,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "||[Intro]"
+        },
+        {
+          "id": 1,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Woah, drownin' in a Hennessy bottle"
+        },
+        {
+          "id": 2,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Oh-oh-oh, yeah, yeah"
+        },
+        {
+          "id": 4,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "[Chorus]"
+        },
+        {
+          "id": 5,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Drownin' in a Hennessy bottle (Bottle)"
+        },
+        {
+          "id": 6,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "New .45 filled with hollows (Hollows)"
+        },
+        {
+          "id": 7,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "She say she got a new boyfriend"
+        },
+        {
+          "id": 8,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Well, he won't live to see tomorrow ('Morrow)"
+        },
+        {
+          "id": 9,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Drownin' in a Hennessy bottle (Bottle)"
+        },
+        {
+          "id": 10,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "New .45 filled with hollows (Hollows)"
+        },
+        {
+          "id": 11,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "She say she got a new boyfriend"
+        },
+        {
+          "id": 12,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "But he won't live to see tomorrow, 'morrow"
+        },
+        {
+          "id": 16,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "[Verse 1]"
+        },
+        {
+          "id": 17,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "She say she got a new boyfriend (Woah)"
+        },
+        {
+          "id": 18,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "My heart's still hurtin' (Woah)"
+        },
+        {
+          "id": 19,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Girl, is it worth it? (Woah)"
+        },
+        {
+          "id": 20,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "I'm a whole different person (Woah)"
+        },
+        {
+          "id": 21,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "You're a girl and a serpent (Woah)"
+        },
+        {
+          "id": 22,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Yeah, I am certain (Woah)"
+        },
+        {
+          "id": 23,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "You say you wanna play (Woah)"
+        },
+        {
+          "id": 24,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "It's time to close the curtain (Woah)"
+        },
+        {
+          "id": 25,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "The show's over (Woah)"
+        },
+        {
+          "id": 26,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Pull up in a 'Rari or a Rover (Skrrt, skrrt; woah)"
+        },
+        {
+          "id": 27,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Call me anything except sober (Woah)"
+        },
+        {
+          "id": 28,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "I invite your best friend over (Woah)"
+        },
+        {
+          "id": 29,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Fuck her 'til she fall into a coma (Woah)"
+        },
+        {
+          "id": 30,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Drugs got me roamin' (Woah)"
+        },
+        {
+          "id": 31,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Feeling like I'm back with the Romans (Oh, yeah)"
+        },
+        {
+          "id": 32,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Ooh, 'cause I fuck her with a Trojan (Oh, yeah)"
+        },
+        {
+          "id": 33,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Yeah, she love me like Makonnen"
+        },
+        {
+          "id": 35,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "[Chorus]"
+        },
+        {
+          "id": 36,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Drownin' in a Hennessy bottle (Bottle)"
+        },
+        {
+          "id": 37,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "New .45 filled with hollows (Hollows)"
+        },
+        {
+          "id": 38,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "She say she got a new boyfriend"
+        },
+        {
+          "id": 39,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Well, he won't live to see tomorrow ('Morrow)"
+        },
+        {
+          "id": 40,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Drownin' in a Hennessy bottle (Bottle)"
+        },
+        {
+          "id": 41,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "New .45 filled with hollows (Hollows)"
+        },
+        {
+          "id": 42,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "She say she got a new boyfriend"
+        },
+        {
+          "id": 43,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "But he won't live to see tomorrow, 'morrow"
+        },
+        {
+          "id": 45,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "[Verse 2]"
+        },
+        {
+          "id": 46,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Drink 'til I drown, yeah, yeah"
+        },
+        {
+          "id": 47,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "She made me frown, yeah, yeah"
+        },
+        {
+          "id": 48,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "She let me down, yeah, yeah"
+        },
+        {
+          "id": 49,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "She let me down, yeah, yeah"
+        },
+        {
+          "id": 50,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Jumpin' in a Hennessy bottle (Bottle)"
+        },
+        {
+          "id": 51,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Told her if she sucking me, to swallow (Swallow)"
+        },
+        {
+          "id": 52,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "New .45 filled with hollows"
+        },
+        {
+          "id": 53,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Put her man right out of sorrow"
+        },
+        {
+          "id": 54,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Remember we was boolin' at the crib"
+        },
+        {
+          "id": 55,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Playing Grand Theft Auto"
+        },
+        {
+          "id": 56,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "I was trying to show you how I live"
+        },
+        {
+          "id": 57,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Like Grand Theft Auto"
+        },
+        {
+          "id": 59,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "[Bridge]"
+        },
+        {
+          "id": 60,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Oh, oh-oh"
+        },
+        {
+          "id": 61,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Oh, oh-oh"
+        },
+        {
+          "id": 62,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Yeah, yeah"
+        },
+        {
+          "id": 64,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "[Chorus]"
+        },
+        {
+          "id": 65,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Drownin' in a Hennessy bottle (Bottle)"
+        },
+        {
+          "id": 66,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "New .45 filled with hollows (Hollows)"
+        },
+        {
+          "id": 67,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "She say she got a new boyfriend"
+        },
+        {
+          "id": 68,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Well, he won't live to see tomorrow ('Morrow)"
+        },
+        {
+          "id": 69,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "Drownin' in a Hennessy bottle (Bottle)"
+        },
+        {
+          "id": 70,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "New .45 filled with hollows (Hollows)"
+        },
+        {
+          "id": 71,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "She say she got a new boyfriend"
+        },
+        {
+          "id": 72,
+          "seconds": null,
+          "timestamp": null,
+          "displayTime": null,
+          "text": "But he won't live to see tomorrow, 'morrow"
+        }
+      ],
+      "plainText": "||[Intro]\nWoah, drownin' in a Hennessy bottle\nOh-oh-oh, yeah, yeah\n\n[Chorus]\nDrownin' in a Hennessy bottle (Bottle)\nNew .45 filled with hollows (Hollows)\nShe say she got a new boyfriend\nWell, he won't live to see tomorrow ('Morrow)\nDrownin' in a Hennessy bottle (Bottle)\nNew .45 filled with hollows (Hollows)\nShe say she got a new boyfriend\nBut he won't live to see tomorrow, 'morrow\n\n\n\n[Verse 1]\nShe say she got a new boyfriend (Woah)\nMy heart's still hurtin' (Woah)\nGirl, is it worth it? (Woah)\nI'm a whole different person (Woah)\nYou're a girl and a serpent (Woah)\nYeah, I am certain (Woah)\nYou say you wanna play (Woah)\nIt's time to close the curtain (Woah)\nThe show's over (Woah)\nPull up in a 'Rari or a Rover (Skrrt, skrrt; woah)\nCall me anything except sober (Woah)\nI invite your best friend over (Woah)\nFuck her 'til she fall into a coma (Woah)\nDrugs got me roamin' (Woah)\nFeeling like I'm back with the Romans (Oh, yeah)\nOoh, 'cause I fuck her with a Trojan (Oh, yeah)\nYeah, she love me like Makonnen\n\n[Chorus]\nDrownin' in a Hennessy bottle (Bottle)\nNew .45 filled with hollows (Hollows)\nShe say she got a new boyfriend\nWell, he won't live to see tomorrow ('Morrow)\nDrownin' in a Hennessy bottle (Bottle)\nNew .45 filled with hollows (Hollows)\nShe say she got a new boyfriend\nBut he won't live to see tomorrow, 'morrow\n\n[Verse 2]\nDrink 'til I drown, yeah, yeah\nShe made me frown, yeah, yeah\nShe let me down, yeah, yeah\nShe let me down, yeah, yeah\nJumpin' in a Hennessy bottle (Bottle)\nTold her if she sucking me, to swallow (Swallow)\nNew .45 filled with hollows\nPut her man right out of sorrow\nRemember we was boolin' at the crib\nPlaying Grand Theft Auto\nI was trying to show you how I live\nLike Grand Theft Auto\n\n[Bridge]\nOh, oh-oh\nOh, oh-oh\nYeah, yeah\n\n[Chorus]\nDrownin' in a Hennessy bottle (Bottle)\nNew .45 filled with hollows (Hollows)\nShe say she got a new boyfriend\nWell, he won't live to see tomorrow ('Morrow)\nDrownin' in a Hennessy bottle (Bottle)\nNew .45 filled with hollows (Hollows)\nShe say she got a new boyfriend\nBut he won't live to see tomorrow, 'morrow",
+      "lrcContent": "[ti:Bottle]\n[ar:Juice WRLD]\n[al:Goodbye & Good Riddance]\n[by:LyricSync]\n||[Intro]\nWoah, drownin' in a Hennessy bottle\nOh-oh-oh, yeah, yeah\n[Chorus]\nDrownin' in a Hennessy bottle (Bottle)\nNew .45 filled with hollows (Hollows)\nShe say she got a new boyfriend\nWell, he won't live to see tomorrow ('Morrow)\nDrownin' in a Hennessy bottle (Bottle)\nNew .45 filled with hollows (Hollows)\nShe say she got a new boyfriend\nBut he won't live to see tomorrow, 'morrow\n[Verse 1]\nShe say she got a new boyfriend (Woah)\nMy heart's still hurtin' (Woah)\nGirl, is it worth it? (Woah)\nI'm a whole different person (Woah)\nYou're a girl and a serpent (Woah)\nYeah, I am certain (Woah)\nYou say you wanna play (Woah)\nIt's time to close the curtain (Woah)\nThe show's over (Woah)\nPull up in a 'Rari or a Rover (Skrrt, skrrt; woah)\nCall me anything except sober (Woah)\nI invite your best friend over (Woah)\nFuck her 'til she fall into a coma (Woah)\nDrugs got me roamin' (Woah)\nFeeling like I'm back with the Romans (Oh, yeah)\nOoh, 'cause I fuck her with a Trojan (Oh, yeah)\nYeah, she love me like Makonnen\n[Chorus]\nDrownin' in a Hennessy bottle (Bottle)\nNew .45 filled with hollows (Hollows)\nShe say she got a new boyfriend\nWell, he won't live to see tomorrow ('Morrow)\nDrownin' in a Hennessy bottle (Bottle)\nNew .45 filled with hollows (Hollows)\nShe say she got a new boyfriend\nBut he won't live to see tomorrow, 'morrow\n[Verse 2]\nDrink 'til I drown, yeah, yeah\nShe made me frown, yeah, yeah\nShe let me down, yeah, yeah\nShe let me down, yeah, yeah\nJumpin' in a Hennessy bottle (Bottle)\nTold her if she sucking me, to swallow (Swallow)\nNew .45 filled with hollows\nPut her man right out of sorrow\nRemember we was boolin' at the crib\nPlaying Grand Theft Auto\nI was trying to show you how I live\nLike Grand Theft Auto\n[Bridge]\nOh, oh-oh\nOh, oh-oh\nYeah, yeah\n[Chorus]\nDrownin' in a Hennessy bottle (Bottle)\nNew .45 filled with hollows (Hollows)\nShe say she got a new boyfriend\nWell, he won't live to see tomorrow ('Morrow)\nDrownin' in a Hennessy bottle (Bottle)\nNew .45 filled with hollows (Hollows)\nShe say she got a new boyfriend\nBut he won't live to see tomorrow, 'morrow"
+    },
+    {
       "id": "out-broke-boys",
       "era": "OUT",
       "eraName": "The Outsiders",
@@ -6744,6 +7229,384 @@
       ],
       "plainText": "Double-R\n(808 Pounds)\nDouble-R, skrrt\nDouble-R\nDouble-R, Rolls-Royce\n.30 clip, oh, boy\nAll of y'all my sons\nKilling y'all, pro-choice\nBloody ears, my noise\nLibrary, your voice\nPlus, y'all broke boys\nFlex on 'em, steroids\nDouble-R, Rolls-Royce\n.30 clip, oh, boy\nAll of y'all my sons\nKilling y'all, pro-choice\nBloody ears, my noise\nLibrary, your voice\nPlus, y'all broke boys\nFlex on 'em, steroids\nDo this in my sleep\nCatching Z's\nDeath Race on repeat, it went number one for weeks\nYeah, I know that I'm a beast\nVersace on the fleece\nUh, and your girl a freak\nUm, hop in the sheets\nThen slob on my knob, make a mess on the D\nUh, honest to God, know you stress when you kiss her\nAll on my line, she be messaging me, uh\nShe get mad 'cause I don't love her back, I don't miss her\nYou should come and get her (Get her)\nHer pussy’s a hisser\nPush the button on her clit, and she got wet, I hit a surf\nOh yeah, high tide, hanging ten on your turf\nAnd she drink my kids like a Margarita mixer\nDouble-R, Rolls-Royce\n.30 clip, oh, boy\nAll of y'all my sons\nKilling y'all, pro-choice\nBloody ears, my noise\nLibrary, your voice\nPlus, y'all broke boys\nFlex on 'em, steroids\nDouble-R, Rolls-Royce\n.30 clip, oh, boy\nAll of y'all my sons\nKilling y'all, pro-choice\nBloody ears, my noise\nLibrary, your voice\nPlus, y'all broke boys\nFlex on 'em, steroids\nDo it all\nI'ma ball\n'Til I fall, swish\nYeah, hit the mall, but not just any mall\nAt Barney's, buying it all again (Again)\nYeah, keep a tab\nSpend a rack on rack on rack\nBroke, ain't going back again (Again)\nYeah, on they ass\nMake a smash after smash\nPulling up on the ave' again (Skrrt, again)\nNow, what I want, I can have\nEvery ho tryna throw me ass\nThey won't do me like my girlfriend (Friend)\nI know, sometimes, I make her mad\nReally, really, really mad\nLike when I started poppin' pills again\nDouble-R, Rolls-Royce\n.30 clip, oh, boy\nAll of y'all my sons\nKilling y'all, pro-choice\nBloody ears, my noise\nLibrary, your voice\nPlus, y'all broke boys\nFlex on 'em, steroids\nDouble-R, Rolls-Royce\n.30 clip, oh, boy\nAll of y'all my sons\nKilling y'all, pro-choice\nBloody ears, my noise\nLibrary, your voice\nPlus, y'all broke boys\nFlex on 'em, steroids",
       "lrcContent": "[ti:Broke Boys]\n[ar:Juice WRLD]\n[al:The Outsiders]\n[by:LyricSync]\n[00:03.10] Double-R\n[00:04.92] (808 Pounds)\n[00:06.39] Double-R, skrrt\n[00:09.47] Double-R\n[00:12.68] Double-R, Rolls-Royce\n[00:14.17] .30 clip, oh, boy\n[00:15.84] All of y'all my sons\n[00:17.58] Killing y'all, pro-choice\n[00:19.12] Bloody ears, my noise\n[00:20.72] Library, your voice\n[00:22.33] Plus, y'all broke boys\n[00:23.87] Flex on 'em, steroids\n[00:25.55] Double-R, Rolls-Royce\n[00:27.04] .30 clip, oh, boy\n[00:28.70] All of y'all my sons\n[00:30.30] Killing y'all, pro-choice\n[00:31.92] Bloody ears, my noise\n[00:33.57] Library, your voice\n[00:35.07] Plus, y'all broke boys\n[00:36.68] Flex on 'em, steroids\n[00:38.33] Do this in my sleep\n[00:40.65] Catching Z's\n[00:41.62] Death Race on repeat, it went number one for weeks\n[00:44.33] Yeah, I know that I'm a beast\n[00:45.98] Versace on the fleece\n[00:47.52] Uh, and your girl a freak\n[00:49.20] Um, hop in the sheets\n[00:50.82] Then slob on my knob, make a mess on the D\n[00:53.76] Uh, honest to God, know you stress when you kiss her\n[00:57.40] All on my line, she be messaging me, uh\n[01:00.53] She get mad 'cause I don't love her back, I don't miss her\n[01:03.90] You should come and get her (Get her)\n[01:05.54] Her pussy’s a hisser\n[01:07.02] Push the button on her clit, and she got wet, I hit a surf\n[01:10.28] Oh yeah, high tide, hanging ten on your turf\n[01:13.35] And she drink my kids like a Margarita mixer\n[01:16.56] Double-R, Rolls-Royce\n[01:18.28] .30 clip, oh, boy\n[01:19.95] All of y'all my sons\n[01:21.49] Killing y'all, pro-choice\n[01:23.12] Bloody ears, my noise\n[01:24.69] Library, your voice\n[01:26.33] Plus, y'all broke boys\n[01:27.94] Flex on 'em, steroids\n[01:29.55] Double-R, Rolls-Royce\n[01:31.05] .30 clip, oh, boy\n[01:32.69] All of y'all my sons\n[01:34.24] Killing y'all, pro-choice\n[01:35.95] Bloody ears, my noise\n[01:37.53] Library, your voice\n[01:39.18] Plus, y'all broke boys\n[01:40.74] Flex on 'em, steroids\n[01:42.35] Do it all\n[01:43.90] I'ma ball\n[01:45.37] 'Til I fall, swish\n[01:48.25] Yeah, hit the mall, but not just any mall\n[01:51.28] At Barney's, buying it all again (Again)\n[01:54.58] Yeah, keep a tab\n[01:56.17] Spend a rack on rack on rack\n[01:57.78] Broke, ain't going back again (Again)\n[02:01.20] Yeah, on they ass\n[02:02.41] Make a smash after smash\n[02:03.99] Pulling up on the ave' again (Skrrt, again)\n[02:06.73] Now, what I want, I can have\n[02:08.71] Every ho tryna throw me ass\n[02:10.37] They won't do me like my girlfriend (Friend)\n[02:13.33] I know, sometimes, I make her mad\n[02:15.07] Really, really, really mad\n[02:16.62] Like when I started poppin' pills again\n[02:20.59] Double-R, Rolls-Royce\n[02:22.31] .30 clip, oh, boy\n[02:23.84] All of y'all my sons\n[02:25.48] Killing y'all, pro-choice\n[02:27.14] Bloody ears, my noise\n[02:28.65] Library, your voice\n[02:30.28] Plus, y'all broke boys\n[02:31.93] Flex on 'em, steroids\n[02:33.49] Double-R, Rolls-Royce\n[02:35.07] .30 clip, oh, boy\n[02:36.64] All of y'all my sons\n[02:38.26] Killing y'all, pro-choice\n[02:39.85] Bloody ears, my noise\n[02:41.47] Library, your voice\n[02:43.08] Plus, y'all broke boys\n[02:44.66] Flex on 'em, steroids"
+    },
+    {
+      "id": "gbgr-call-me-whenever",
+      "era": "GBGR",
+      "eraName": "Goodbye & Good Riddance",
+      "eraBadge": "GBGR",
+      "eraColor": "#f59e0b",
+      "filename": "Juice WRLD - Call Me Whenever.txt",
+      "rawName": "Juice WRLD - Call Me Whenever",
+      "title": "Call Me Whenever",
+      "artist": "Juice WRLD",
+      "aliases": [],
+      "isNew": false,
+      "hasTimestamps": true,
+      "durationSec": 166,
+      "durationFormatted": "2:46",
+      "lineCount": 50,
+      "lines": [
+        {
+          "id": 0,
+          "seconds": 1.22,
+          "timestamp": "[00:01.22]",
+          "displayTime": "0:01",
+          "text": "Oh-oh, oh"
+        },
+        {
+          "id": 1,
+          "seconds": 4.42,
+          "timestamp": "[00:04.42]",
+          "displayTime": "0:04",
+          "text": "Oh-oh, oh"
+        },
+        {
+          "id": 2,
+          "seconds": 7.74,
+          "timestamp": "[00:07.74]",
+          "displayTime": "0:07",
+          "text": "Oh-oh, oh"
+        },
+        {
+          "id": 3,
+          "seconds": 10.78,
+          "timestamp": "[00:10.78]",
+          "displayTime": "0:10",
+          "text": "Oh"
+        },
+        {
+          "id": 4,
+          "seconds": 11.58,
+          "timestamp": "[00:11.58]",
+          "displayTime": "0:11",
+          "text": "I told her she could call me whenever (Right), no matter the weather (Alright)"
+        },
+        {
+          "id": 5,
+          "seconds": 15.73,
+          "timestamp": "[00:15.73]",
+          "displayTime": "0:15",
+          "text": "I'm fallin' apart, I need to get it together (Alright)"
+        },
+        {
+          "id": 6,
+          "seconds": 18.74,
+          "timestamp": "[00:18.74]",
+          "displayTime": "0:18",
+          "text": "You lie, you lie when you say it's forever (You lie)"
+        },
+        {
+          "id": 7,
+          "seconds": 21.79,
+          "timestamp": "[00:21.79]",
+          "displayTime": "0:21",
+          "text": "Can't lie, I'm high, it ain't gettin' no better (Alright)"
+        },
+        {
+          "id": 8,
+          "seconds": 24.95,
+          "timestamp": "[00:24.95]",
+          "displayTime": "0:24",
+          "text": "I gave her all of my effort (Right), she said, \"It's whatever\" (Alright)"
+        },
+        {
+          "id": 9,
+          "seconds": 28.35,
+          "timestamp": "[00:28.35]",
+          "displayTime": "0:28",
+          "text": "I should've put effort in findin' somebody better (Alright)"
+        },
+        {
+          "id": 10,
+          "seconds": 31.54,
+          "timestamp": "[00:31.54]",
+          "displayTime": "0:31",
+          "text": "Now I'm hung like a hook, sing this song forever (Right)"
+        },
+        {
+          "id": 11,
+          "seconds": 34.55,
+          "timestamp": "[00:34.55]",
+          "displayTime": "0:34",
+          "text": "No pun intended with these words, I'm a little too clever, hey"
+        },
+        {
+          "id": 12,
+          "seconds": 38.42,
+          "timestamp": "[00:38.42]",
+          "displayTime": "0:38",
+          "text": "I'm in her bushes while she walk home"
+        },
+        {
+          "id": 13,
+          "seconds": 41.07,
+          "timestamp": "[00:41.07]",
+          "displayTime": "0:41",
+          "text": "I'm her secret admirer, stalker's such a strong term"
+        },
+        {
+          "id": 14,
+          "seconds": 45.02,
+          "timestamp": "[00:45.02]",
+          "displayTime": "0:45",
+          "text": "I'm in your bedroom when you're not home (Not home)"
+        },
+        {
+          "id": 15,
+          "seconds": 47.79,
+          "timestamp": "[00:47.79]",
+          "displayTime": "0:47",
+          "text": "Love is obsession, when the hell will I learn?"
+        },
+        {
+          "id": 16,
+          "seconds": 51.7,
+          "timestamp": "[00:51.70]",
+          "displayTime": "0:51",
+          "text": "You never meant to hurt me, right? (Right?)"
+        },
+        {
+          "id": 17,
+          "seconds": 55.03,
+          "timestamp": "[00:55.03]",
+          "displayTime": "0:55",
+          "text": "I hope that that's what you're thinkin'"
+        },
+        {
+          "id": 18,
+          "seconds": 58.03,
+          "timestamp": "[00:58.03]",
+          "displayTime": "0:58",
+          "text": "You said you got a new man, right?"
+        },
+        {
+          "id": 19,
+          "seconds": 61.47,
+          "timestamp": "[01:01.47]",
+          "displayTime": "1:01",
+          "text": "I have to make him go missin'"
+        },
+        {
+          "id": 20,
+          "seconds": 64.34,
+          "timestamp": "[01:04.34]",
+          "displayTime": "1:04",
+          "text": "I don't know what the fuck I was thinkin'"
+        },
+        {
+          "id": 21,
+          "seconds": 67.9,
+          "timestamp": "[01:07.90]",
+          "displayTime": "1:07",
+          "text": "Narcotic nonsense, I'm tweakin'"
+        },
+        {
+          "id": 22,
+          "seconds": 70.87,
+          "timestamp": "[01:10.87]",
+          "displayTime": "1:10",
+          "text": "There's a hole in my heart, that shit leakin'"
+        },
+        {
+          "id": 23,
+          "seconds": 73.68,
+          "timestamp": "[01:13.68]",
+          "displayTime": "1:13",
+          "text": "Just hold me close and heal the pain"
+        },
+        {
+          "id": 24,
+          "seconds": 75.77,
+          "timestamp": "[01:15.77]",
+          "displayTime": "1:15",
+          "text": "I told her she could call me whenever (Right), no matter the weather (Alright)"
+        },
+        {
+          "id": 25,
+          "seconds": 79.91,
+          "timestamp": "[01:19.91]",
+          "displayTime": "1:19",
+          "text": "I'm fallin' apart, I need to get it together (Alright)"
+        },
+        {
+          "id": 26,
+          "seconds": 82.75,
+          "timestamp": "[01:22.75]",
+          "displayTime": "1:22",
+          "text": "You lie, you lie when you say it's forever (You lie)"
+        },
+        {
+          "id": 27,
+          "seconds": 85.99,
+          "timestamp": "[01:25.99]",
+          "displayTime": "1:25",
+          "text": "Can't lie, I'm high, it ain't gettin' no better (Alright)"
+        },
+        {
+          "id": 28,
+          "seconds": 89.11,
+          "timestamp": "[01:29.11]",
+          "displayTime": "1:29",
+          "text": "I gave her all of my effort (Right), she said, \"It's whatever\" (Alright)"
+        },
+        {
+          "id": 29,
+          "seconds": 92.55,
+          "timestamp": "[01:32.55]",
+          "displayTime": "1:32",
+          "text": "I should've put effort in findin' somebody better (Alright)"
+        },
+        {
+          "id": 30,
+          "seconds": 95.51,
+          "timestamp": "[01:35.51]",
+          "displayTime": "1:35",
+          "text": "Now I'm hung like a hook, sing this song forever (Right)"
+        },
+        {
+          "id": 31,
+          "seconds": 98.55,
+          "timestamp": "[01:38.55]",
+          "displayTime": "1:38",
+          "text": "No pun intended with these words, I'm a little too clever, hey"
+        },
+        {
+          "id": 32,
+          "seconds": 102.18,
+          "timestamp": "[01:42.18]",
+          "displayTime": "1:42",
+          "text": "I'm hung, I'm hung, I'm young, I'm dumb"
+        },
+        {
+          "id": 33,
+          "seconds": 105.06,
+          "timestamp": "[01:45.06]",
+          "displayTime": "1:45",
+          "text": "In love, I'm sprung, can't hold my tongue"
+        },
+        {
+          "id": 34,
+          "seconds": 108.15,
+          "timestamp": "[01:48.15]",
+          "displayTime": "1:48",
+          "text": "Want to shout-out to my fans, I know you worry"
+        },
+        {
+          "id": 35,
+          "seconds": 111.91,
+          "timestamp": "[01:51.91]",
+          "displayTime": "1:51",
+          "text": "In my Instagram comments askin' who hurt me"
+        },
+        {
+          "id": 36,
+          "seconds": 114.71,
+          "timestamp": "[01:54.71]",
+          "displayTime": "1:54",
+          "text": "I'm in my feelings over bitches that were doin' me dirty"
+        },
+        {
+          "id": 37,
+          "seconds": 117.86,
+          "timestamp": "[01:57.86]",
+          "displayTime": "1:57",
+          "text": "I can still see your shadows in my room, baby"
+        },
+        {
+          "id": 38,
+          "seconds": 121.22,
+          "timestamp": "[02:01.22]",
+          "displayTime": "2:01",
+          "text": "You just text me the other day, a little too flirty"
+        },
+        {
+          "id": 39,
+          "seconds": 124.42,
+          "timestamp": "[02:04.42]",
+          "displayTime": "2:04",
+          "text": "I know you don't want me, you want my money, honey"
+        },
+        {
+          "id": 40,
+          "seconds": 129.38,
+          "timestamp": "[02:09.38]",
+          "displayTime": "2:09",
+          "text": "But you can't put a price on love, oh (On love)"
+        },
+        {
+          "id": 41,
+          "seconds": 135.78,
+          "timestamp": "[02:15.78]",
+          "displayTime": "2:15",
+          "text": "You can't put a price on us (On us)"
+        },
+        {
+          "id": 42,
+          "seconds": 139.87,
+          "timestamp": "[02:19.87]",
+          "displayTime": "2:19",
+          "text": "I told her she could call me whenever (Right), no matter the weather (Alright)"
+        },
+        {
+          "id": 43,
+          "seconds": 143.75,
+          "timestamp": "[02:23.75]",
+          "displayTime": "2:23",
+          "text": "I'm fallin' apart, I need to get it together (Alright)"
+        },
+        {
+          "id": 44,
+          "seconds": 146.66,
+          "timestamp": "[02:26.66]",
+          "displayTime": "2:26",
+          "text": "You lie, you lie when you say it's forever (You lie)"
+        },
+        {
+          "id": 45,
+          "seconds": 149.99,
+          "timestamp": "[02:29.99]",
+          "displayTime": "2:29",
+          "text": "Can't lie, I'm high, it ain't gettin' no better (Alright)"
+        },
+        {
+          "id": 46,
+          "seconds": 153.11,
+          "timestamp": "[02:33.11]",
+          "displayTime": "2:33",
+          "text": "I gave her all of my effort (Right), she said, \"It's whatever\" (Alright)"
+        },
+        {
+          "id": 47,
+          "seconds": 156.63,
+          "timestamp": "[02:36.63]",
+          "displayTime": "2:36",
+          "text": "I should've put effort in findin' somebody better (Alright)"
+        },
+        {
+          "id": 48,
+          "seconds": 159.51,
+          "timestamp": "[02:39.51]",
+          "displayTime": "2:39",
+          "text": "Now I'm hung like a hook, sing this song forever (Right)"
+        },
+        {
+          "id": 49,
+          "seconds": 162.55,
+          "timestamp": "[02:42.55]",
+          "displayTime": "2:42",
+          "text": "No pun intended with these words, I'm a little too clever, hey"
+        },
+        {
+          "id": 50,
+          "seconds": 166.42,
+          "timestamp": "[02:46.42]",
+          "displayTime": "2:46",
+          "text": ""
+        }
+      ],
+      "plainText": "Oh-oh, oh\nOh-oh, oh\nOh-oh, oh\nOh\nI told her she could call me whenever (Right), no matter the weather (Alright)\nI'm fallin' apart, I need to get it together (Alright)\nYou lie, you lie when you say it's forever (You lie)\nCan't lie, I'm high, it ain't gettin' no better (Alright)\nI gave her all of my effort (Right), she said, \"It's whatever\" (Alright)\nI should've put effort in findin' somebody better (Alright)\nNow I'm hung like a hook, sing this song forever (Right)\nNo pun intended with these words, I'm a little too clever, hey\nI'm in her bushes while she walk home\nI'm her secret admirer, stalker's such a strong term\nI'm in your bedroom when you're not home (Not home)\nLove is obsession, when the hell will I learn?\nYou never meant to hurt me, right? (Right?)\nI hope that that's what you're thinkin'\nYou said you got a new man, right?\nI have to make him go missin'\nI don't know what the fuck I was thinkin'\nNarcotic nonsense, I'm tweakin'\nThere's a hole in my heart, that shit leakin'\nJust hold me close and heal the pain\nI told her she could call me whenever (Right), no matter the weather (Alright)\nI'm fallin' apart, I need to get it together (Alright)\nYou lie, you lie when you say it's forever (You lie)\nCan't lie, I'm high, it ain't gettin' no better (Alright)\nI gave her all of my effort (Right), she said, \"It's whatever\" (Alright)\nI should've put effort in findin' somebody better (Alright)\nNow I'm hung like a hook, sing this song forever (Right)\nNo pun intended with these words, I'm a little too clever, hey\nI'm hung, I'm hung, I'm young, I'm dumb\nIn love, I'm sprung, can't hold my tongue\nWant to shout-out to my fans, I know you worry\nIn my Instagram comments askin' who hurt me\nI'm in my feelings over bitches that were doin' me dirty\nI can still see your shadows in my room, baby\nYou just text me the other day, a little too flirty\nI know you don't want me, you want my money, honey\nBut you can't put a price on love, oh (On love)\nYou can't put a price on us (On us)\nI told her she could call me whenever (Right), no matter the weather (Alright)\nI'm fallin' apart, I need to get it together (Alright)\nYou lie, you lie when you say it's forever (You lie)\nCan't lie, I'm high, it ain't gettin' no better (Alright)\nI gave her all of my effort (Right), she said, \"It's whatever\" (Alright)\nI should've put effort in findin' somebody better (Alright)\nNow I'm hung like a hook, sing this song forever (Right)\nNo pun intended with these words, I'm a little too clever, hey\n",
+      "lrcContent": "[ti:Call Me Whenever]\n[ar:Juice WRLD]\n[al:Goodbye & Good Riddance]\n[by:LyricSync]\n[00:01.22] Oh-oh, oh\n[00:04.42] Oh-oh, oh\n[00:07.74] Oh-oh, oh\n[00:10.78] Oh\n[00:11.58] I told her she could call me whenever (Right), no matter the weather (Alright)\n[00:15.73] I'm fallin' apart, I need to get it together (Alright)\n[00:18.74] You lie, you lie when you say it's forever (You lie)\n[00:21.79] Can't lie, I'm high, it ain't gettin' no better (Alright)\n[00:24.95] I gave her all of my effort (Right), she said, \"It's whatever\" (Alright)\n[00:28.35] I should've put effort in findin' somebody better (Alright)\n[00:31.54] Now I'm hung like a hook, sing this song forever (Right)\n[00:34.55] No pun intended with these words, I'm a little too clever, hey\n[00:38.42] I'm in her bushes while she walk home\n[00:41.07] I'm her secret admirer, stalker's such a strong term\n[00:45.02] I'm in your bedroom when you're not home (Not home)\n[00:47.79] Love is obsession, when the hell will I learn?\n[00:51.70] You never meant to hurt me, right? (Right?)\n[00:55.03] I hope that that's what you're thinkin'\n[00:58.03] You said you got a new man, right?\n[01:01.47] I have to make him go missin'\n[01:04.34] I don't know what the fuck I was thinkin'\n[01:07.90] Narcotic nonsense, I'm tweakin'\n[01:10.87] There's a hole in my heart, that shit leakin'\n[01:13.68] Just hold me close and heal the pain\n[01:15.77] I told her she could call me whenever (Right), no matter the weather (Alright)\n[01:19.91] I'm fallin' apart, I need to get it together (Alright)\n[01:22.75] You lie, you lie when you say it's forever (You lie)\n[01:25.99] Can't lie, I'm high, it ain't gettin' no better (Alright)\n[01:29.11] I gave her all of my effort (Right), she said, \"It's whatever\" (Alright)\n[01:32.55] I should've put effort in findin' somebody better (Alright)\n[01:35.51] Now I'm hung like a hook, sing this song forever (Right)\n[01:38.55] No pun intended with these words, I'm a little too clever, hey\n[01:42.18] I'm hung, I'm hung, I'm young, I'm dumb\n[01:45.06] In love, I'm sprung, can't hold my tongue\n[01:48.15] Want to shout-out to my fans, I know you worry\n[01:51.91] In my Instagram comments askin' who hurt me\n[01:54.71] I'm in my feelings over bitches that were doin' me dirty\n[01:57.86] I can still see your shadows in my room, baby\n[02:01.22] You just text me the other day, a little too flirty\n[02:04.42] I know you don't want me, you want my money, honey\n[02:09.38] But you can't put a price on love, oh (On love)\n[02:15.78] You can't put a price on us (On us)\n[02:19.87] I told her she could call me whenever (Right), no matter the weather (Alright)\n[02:23.75] I'm fallin' apart, I need to get it together (Alright)\n[02:26.66] You lie, you lie when you say it's forever (You lie)\n[02:29.99] Can't lie, I'm high, it ain't gettin' no better (Alright)\n[02:33.11] I gave her all of my effort (Right), she said, \"It's whatever\" (Alright)\n[02:36.63] I should've put effort in findin' somebody better (Alright)\n[02:39.51] Now I'm hung like a hook, sing this song forever (Right)\n[02:42.55] No pun intended with these words, I'm a little too clever, hey\n[02:46.42]"
     },
     {
       "id": "out-can-t-be-saved",
@@ -31612,6 +32475,307 @@
       "lrcContent": "[ti:On Time]\n[ar:Juice WRLD]\n[al:The Outsiders]\n[by:LyricSync]\n[00:12.32] (Gezin)\n[00:13.78] Never have you waiting, baby, I'll be on time\n[00:16.62] Crazy how you the one on top of these mountains I climb\n[00:20.00] Lately, I've been overanxious\n[00:21.72] You make it alright\n[00:23.00] I've never felt a love like this\n[00:25.18] First time in my life\n[00:26.80] Whenever I'm in a crisis\n[00:28.48] You stand by my side and ride, you're so righteous\n[00:31.76] You hate it when I get high, so high, I look lifeless\n[00:35.06] Yeah, it is what it is\n[00:36.90] But whatever it is\n[00:38.60] It's all the way 'til the end\n[00:41.40] You're so good at reading my mind\n[00:44.74] Oh, how I love spending time\n[00:55.68] Time, time\n[00:56.12] I, I hit the ground sometimes\n[01:02.14] But it's alright\n[01:05.32] 'Cause we all have a downside\n[01:08.92] All I had was a glimpse\n[01:10.94] Lost in a maze in my mind all the time\n[01:12.34] So many demons inside of me, shit don't make sense\n[01:14.16] When you wake up in Hell while you laying in your bed\n[01:15.82] Wonder, \"How the fuck did I get here or when?\"\n[01:17.74] Umm, I'm questioning everything again\n[01:19.60] Hold her tight, won't let go of her hand\n[01:21.42] Never have you waiting, baby, I'll be on time\n[01:24.26] Crazy how you the one on top of these mountains I climb\n[01:27.68] Lately, I've been overanxious\n[01:29.34] You make it alright\n[01:30.76] I've never felt a love like this\n[01:32.86] First time in my life\n[01:34.40] Whenever I'm in a crisis\n[01:36.10] You stand by my side and ride, you're so righteous\n[01:39.44] You hate it when I get high, so high, I look lifeless\n[01:43.04] Yeah, it is what it is\n[01:44.44] But whatever it is\n[01:46.14] It's all the way 'til the end\n[01:48.54] Got a angel with me while I'm running through these Hell pits\n[01:51.90] Me and her can share the world and end up being selfish\n[01:55.34] Uh, pretty as hell, feel her like braille, Cupid nailed it\n[01:58.62] She my umbrella when the rainstorms hit\n[02:02.02] Some days, high tide, some black skies\n[02:05.44] Demons leave my crib with bloody nose and black eyes\n[02:08.60] My lady choking out the Devil on my left side\n[02:11.86] She reviving me with TLC, wink with my left eye\n[02:15.62] Let's make plans, draw a outline\n[02:18.94] Take this chance of a lifetime\n[02:22.32] Replacements, there ain't no one\n[02:25.30] I go through the most, but you help me stay afloat\n[02:28.70] Never have you waiting, baby, I'll be on time\n[02:31.72] Crazy how you the one on top of these mountains I climb\n[02:35.10] Lately, I've been overanxious\n[02:36.94] You make it alright\n[02:38.28] I've never felt a love like this\n[02:40.46] First time in my life\n[02:42.04] Whenever I'm in a crisis\n[02:43.72] You stand by my side and ride, you're so righteous\n[02:47.00] You hate it when I get high, so high, I look lifeless\n[02:50.64] Yeah, it is what it is\n[02:52.14] But whatever it is\n[02:53.82] It's all the way 'til the end"
     },
     {
+      "id": "gbgr-overdose",
+      "era": "GBGR",
+      "eraName": "Goodbye & Good Riddance",
+      "eraBadge": "GBGR",
+      "eraColor": "#f59e0b",
+      "filename": "Juice WRLD - Overdose.txt",
+      "rawName": "Juice WRLD - Overdose",
+      "title": "Overdose",
+      "artist": "Juice WRLD",
+      "aliases": [],
+      "isNew": false,
+      "hasTimestamps": true,
+      "durationSec": 155,
+      "durationFormatted": "2:35",
+      "lineCount": 39,
+      "lines": [
+        {
+          "id": 0,
+          "seconds": 10.88,
+          "timestamp": "[00:10.88]",
+          "displayTime": "0:10",
+          "text": "Yeah, ayy"
+        },
+        {
+          "id": 2,
+          "seconds": 11.91,
+          "timestamp": "[00:11.91]",
+          "displayTime": "0:11",
+          "text": "She do coke while I sip codeine"
+        },
+        {
+          "id": 3,
+          "seconds": 14.87,
+          "timestamp": "[00:14.87]",
+          "displayTime": "0:14",
+          "text": "Rap game, crack game, servin' to the dope fiends"
+        },
+        {
+          "id": 4,
+          "seconds": 17.92,
+          "timestamp": "[00:17.92]",
+          "displayTime": "0:17",
+          "text": "She like courtside, still catch a nosebleed"
+        },
+        {
+          "id": 5,
+          "seconds": 20.84,
+          "timestamp": "[00:20.84]",
+          "displayTime": "0:20",
+          "text": "9-1-1, this bitch 'bout to OD"
+        },
+        {
+          "id": 6,
+          "seconds": 23.75,
+          "timestamp": "[00:23.75]",
+          "displayTime": "0:23",
+          "text": "Passed out on my couch, someone take her out"
+        },
+        {
+          "id": 7,
+          "seconds": 26.77,
+          "timestamp": "[00:26.77]",
+          "displayTime": "0:26",
+          "text": "Medics in and out, tellin' her \"Breathe in and out\""
+        },
+        {
+          "id": 8,
+          "seconds": 29.44,
+          "timestamp": "[00:29.44]",
+          "displayTime": "0:29",
+          "text": "Neighbors nosy than a bitch, askin' me what this about"
+        },
+        {
+          "id": 9,
+          "seconds": 32.39,
+          "timestamp": "[00:32.39]",
+          "displayTime": "0:32",
+          "text": "Shorty took too many drugs, tryna overdose for clout"
+        },
+        {
+          "id": 11,
+          "seconds": 35.8,
+          "timestamp": "[00:35.80]",
+          "displayTime": "0:35",
+          "text": "Molly on her tongue, got her goin' dumb"
+        },
+        {
+          "id": 12,
+          "seconds": 37,
+          "timestamp": "[00:37.00]",
+          "displayTime": "0:37",
+          "text": "She older than me, she know that I'm young, but I'm not young and dumb"
+        },
+        {
+          "id": 13,
+          "seconds": 41.4,
+          "timestamp": "[00:41.40]",
+          "displayTime": "0:41",
+          "text": "Fuck a bitch, get a bitch sprung"
+        },
+        {
+          "id": 14,
+          "seconds": 42.49,
+          "timestamp": "[00:42.49]",
+          "displayTime": "0:42",
+          "text": "Pull up on the scene, they run"
+        },
+        {
+          "id": 15,
+          "seconds": 43.56,
+          "timestamp": "[00:43.56]",
+          "displayTime": "0:43",
+          "text": "I pull out my gun, heat on me"
+        },
+        {
+          "id": 16,
+          "seconds": 45.41,
+          "timestamp": "[00:45.41]",
+          "displayTime": "0:45",
+          "text": "Kinda like the sun, bitch, I'm not the one"
+        },
+        {
+          "id": 17,
+          "seconds": 47.65,
+          "timestamp": "[00:47.65]",
+          "displayTime": "0:47",
+          "text": "Fuck with me, choppa give you smoke like a chimney"
+        },
+        {
+          "id": 18,
+          "seconds": 50.64,
+          "timestamp": "[00:50.64]",
+          "displayTime": "0:50",
+          "text": "Jiminy Cricket, how they jumpin' on my wave, B"
+        },
+        {
+          "id": 19,
+          "seconds": 53.65,
+          "timestamp": "[00:53.65]",
+          "displayTime": "0:53",
+          "text": "It's crazy, now I'm making money on the daily"
+        },
+        {
+          "id": 20,
+          "seconds": 56.52,
+          "timestamp": "[00:56.52]",
+          "displayTime": "0:56",
+          "text": "I'd be hating on me too if I wasn't gettin' paid, yeah"
+        },
+        {
+          "id": 21,
+          "seconds": 59.65,
+          "timestamp": "[00:59.65]",
+          "displayTime": "0:59",
+          "text": "I'd be hating on me too if I wasn't gettin' laid, uh"
+        },
+        {
+          "id": 22,
+          "seconds": 62.57,
+          "timestamp": "[01:02.57]",
+          "displayTime": "1:02",
+          "text": "On a daily basis, on a daily basis"
+        },
+        {
+          "id": 23,
+          "seconds": 65.57,
+          "timestamp": "[01:05.57]",
+          "displayTime": "1:05",
+          "text": "Presidential brain, from your main Sarah Palin"
+        },
+        {
+          "id": 24,
+          "seconds": 68.44,
+          "timestamp": "[01:08.44]",
+          "displayTime": "1:08",
+          "text": "Tryna judge a nigga, you don't even got a Bailiff"
+        },
+        {
+          "id": 26,
+          "seconds": 71.48,
+          "timestamp": "[01:11.48]",
+          "displayTime": "1:11",
+          "text": "She do coke while I sip codeine"
+        },
+        {
+          "id": 27,
+          "seconds": 74.49,
+          "timestamp": "[01:14.49]",
+          "displayTime": "1:14",
+          "text": "Rap game, crack game, servin' to the dope fiends"
+        },
+        {
+          "id": 28,
+          "seconds": 77.45,
+          "timestamp": "[01:17.45]",
+          "displayTime": "1:17",
+          "text": "She like courtside, still catch a nosebleed"
+        },
+        {
+          "id": 29,
+          "seconds": 80.48,
+          "timestamp": "[01:20.48]",
+          "displayTime": "1:20",
+          "text": "9-1-1, this bitch 'bout to OD"
+        },
+        {
+          "id": 30,
+          "seconds": 83.4,
+          "timestamp": "[01:23.40]",
+          "displayTime": "1:23",
+          "text": "Passed out on my couch, someone take her out"
+        },
+        {
+          "id": 31,
+          "seconds": 86.45,
+          "timestamp": "[01:26.45]",
+          "displayTime": "1:26",
+          "text": "Medics in and out, tellin' her \"Breathe in and out\""
+        },
+        {
+          "id": 32,
+          "seconds": 88,
+          "timestamp": "[01:28.00]",
+          "displayTime": "1:28",
+          "text": "Neighbors nosier than a bitch, askin' me what this about"
+        },
+        {
+          "id": 33,
+          "seconds": 92.05,
+          "timestamp": "[01:32.05]",
+          "displayTime": "1:32",
+          "text": "Shorty took too many drugs, tryna overdose for clout"
+        },
+        {
+          "id": 35,
+          "seconds": 131.11,
+          "timestamp": "[02:11.11]",
+          "displayTime": "2:11",
+          "text": "She do coke while I sip codeine"
+        },
+        {
+          "id": 36,
+          "seconds": 134.06,
+          "timestamp": "[02:14.06]",
+          "displayTime": "2:14",
+          "text": "Rap game, crack game, servin' to the dope fiends"
+        },
+        {
+          "id": 37,
+          "seconds": 137.06,
+          "timestamp": "[02:17.06]",
+          "displayTime": "2:17",
+          "text": "She like courtside, still catch a nosebleed"
+        },
+        {
+          "id": 38,
+          "seconds": 140.06,
+          "timestamp": "[02:20.06]",
+          "displayTime": "2:20",
+          "text": "9-1-1, this bitch 'bout to OD"
+        },
+        {
+          "id": 39,
+          "seconds": 143.02,
+          "timestamp": "[02:23.02]",
+          "displayTime": "2:23",
+          "text": "Passed out on my couch, someone take her out"
+        },
+        {
+          "id": 40,
+          "seconds": 145.98,
+          "timestamp": "[02:25.98]",
+          "displayTime": "2:25",
+          "text": "Medics in and out, tellin' her \"Breathe in and out\""
+        },
+        {
+          "id": 41,
+          "seconds": 148.67,
+          "timestamp": "[02:28.67]",
+          "displayTime": "2:28",
+          "text": "Neighbors nosier than a bitch, askin' me what this about"
+        },
+        {
+          "id": 42,
+          "seconds": 151.66,
+          "timestamp": "[02:31.66]",
+          "displayTime": "2:31",
+          "text": "Shorty took too many drugs, tryna overdose for clout"
+        },
+        {
+          "id": 43,
+          "seconds": 155.09,
+          "timestamp": "[02:35.09]",
+          "displayTime": "2:35",
+          "text": ""
+        }
+      ],
+      "plainText": "Yeah, ayy\n\nShe do coke while I sip codeine\nRap game, crack game, servin' to the dope fiends\nShe like courtside, still catch a nosebleed\n9-1-1, this bitch 'bout to OD\nPassed out on my couch, someone take her out\nMedics in and out, tellin' her \"Breathe in and out\"\nNeighbors nosy than a bitch, askin' me what this about\nShorty took too many drugs, tryna overdose for clout\n\nMolly on her tongue, got her goin' dumb\nShe older than me, she know that I'm young, but I'm not young and dumb\nFuck a bitch, get a bitch sprung\nPull up on the scene, they run\nI pull out my gun, heat on me\nKinda like the sun, bitch, I'm not the one\nFuck with me, choppa give you smoke like a chimney\nJiminy Cricket, how they jumpin' on my wave, B\nIt's crazy, now I'm making money on the daily\nI'd be hating on me too if I wasn't gettin' paid, yeah\nI'd be hating on me too if I wasn't gettin' laid, uh\nOn a daily basis, on a daily basis\nPresidential brain, from your main Sarah Palin\nTryna judge a nigga, you don't even got a Bailiff\n\nShe do coke while I sip codeine\nRap game, crack game, servin' to the dope fiends\nShe like courtside, still catch a nosebleed\n9-1-1, this bitch 'bout to OD\nPassed out on my couch, someone take her out\nMedics in and out, tellin' her \"Breathe in and out\"\nNeighbors nosier than a bitch, askin' me what this about\nShorty took too many drugs, tryna overdose for clout\n\nShe do coke while I sip codeine\nRap game, crack game, servin' to the dope fiends\nShe like courtside, still catch a nosebleed\n9-1-1, this bitch 'bout to OD\nPassed out on my couch, someone take her out\nMedics in and out, tellin' her \"Breathe in and out\"\nNeighbors nosier than a bitch, askin' me what this about\nShorty took too many drugs, tryna overdose for clout\n",
+      "lrcContent": "[ti:Overdose]\n[ar:Juice WRLD]\n[al:Goodbye & Good Riddance]\n[by:LyricSync]\n[00:10.88] Yeah, ayy\n[00:11.91] She do coke while I sip codeine\n[00:14.87] Rap game, crack game, servin' to the dope fiends\n[00:17.92] She like courtside, still catch a nosebleed\n[00:20.84] 9-1-1, this bitch 'bout to OD\n[00:23.75] Passed out on my couch, someone take her out\n[00:26.77] Medics in and out, tellin' her \"Breathe in and out\"\n[00:29.44] Neighbors nosy than a bitch, askin' me what this about\n[00:32.39] Shorty took too many drugs, tryna overdose for clout\n[00:35.80] Molly on her tongue, got her goin' dumb\n[00:37.00] She older than me, she know that I'm young, but I'm not young and dumb\n[00:41.40] Fuck a bitch, get a bitch sprung\n[00:42.49] Pull up on the scene, they run\n[00:43.56] I pull out my gun, heat on me\n[00:45.41] Kinda like the sun, bitch, I'm not the one\n[00:47.65] Fuck with me, choppa give you smoke like a chimney\n[00:50.64] Jiminy Cricket, how they jumpin' on my wave, B\n[00:53.65] It's crazy, now I'm making money on the daily\n[00:56.52] I'd be hating on me too if I wasn't gettin' paid, yeah\n[00:59.65] I'd be hating on me too if I wasn't gettin' laid, uh\n[01:02.57] On a daily basis, on a daily basis\n[01:05.57] Presidential brain, from your main Sarah Palin\n[01:08.44] Tryna judge a nigga, you don't even got a Bailiff\n[01:11.48] She do coke while I sip codeine\n[01:14.49] Rap game, crack game, servin' to the dope fiends\n[01:17.45] She like courtside, still catch a nosebleed\n[01:20.48] 9-1-1, this bitch 'bout to OD\n[01:23.40] Passed out on my couch, someone take her out\n[01:26.45] Medics in and out, tellin' her \"Breathe in and out\"\n[01:28.00] Neighbors nosier than a bitch, askin' me what this about\n[01:32.05] Shorty took too many drugs, tryna overdose for clout\n[02:11.11] She do coke while I sip codeine\n[02:14.06] Rap game, crack game, servin' to the dope fiends\n[02:17.06] She like courtside, still catch a nosebleed\n[02:20.06] 9-1-1, this bitch 'bout to OD\n[02:23.02] Passed out on my couch, someone take her out\n[02:25.98] Medics in and out, tellin' her \"Breathe in and out\"\n[02:28.67] Neighbors nosier than a bitch, askin' me what this about\n[02:31.66] Shorty took too many drugs, tryna overdose for clout\n[02:35.09]"
+    },
+    {
       "id": "out-party-by-myself",
       "era": "OUT",
       "eraName": "The Outsiders",
@@ -41883,6 +43047,384 @@
       "lrcContent": "[ti:Swerve]\n[ar:Juice WRLD]\n[al:The Outsiders]\n[by:LyricSync]\n[00:00.38] (Car!ton)\n[00:02.30] Damn, this look like they air bending (Okeighteen)\n[00:06.44] This fake-ass Avatar\n[00:09.10] Damn, this fire, though\n[00:13.20] If he try me, if he try me\n[00:16.72] If he try me, if he try me\n[00:19.78] He'd get punched like a cup of Hi-C\n[00:23.28] That's a bar\n[00:25.62] If he try me, leave him leaking like a sink\n[00:30.40] Highkey, diamonds hockey, skatin' like a rink\n[00:32.74] If it's cold outside, pop out in a mink\n[00:34.16] And I always keep a .45 in the briefs\n[00:36.00] Uh, rollin' gas, never on E\n[00:37.42] Lambo' with the Forgis, car on fleek (Skrrt, skrrt, skrrt)\n[00:40.24] Huh, live and learn\n[00:41.76] I could build a mansion from all of these bridges burned\n[00:44.84] I see the Devil dancing, she telling me it's my turn\n[00:48.48] Huh, turn away, uh, swerve\n[00:50.18] Turn away, uh, swerve\n[00:51.62] Turn away, uh, swerve\n[00:52.96] Ducking and dodging\n[00:53.88] Hundred thousand in cash in my pocket\n[00:55.56] On one wrist, I got two watches\n[00:57.12] Now, you know why I got perfect timing\n[00:58.76] Pop me a pill to get high, I'm climbing\n[01:00.34] This ho said she love me, for real, she lying\n[01:02.06] My bitch look like she from the Islands\n[01:03.74] But when she get high, it look like she from Thailand\n[01:05.40] Bitch, I'm a beast, I go ape, feel like Tarzan\n[01:07.16] Not from this planet, I feel like a Martian\n[01:08.70] I get the bread just like butter, no margarine\n[01:10.16] If you talk, you get hit in the head with the carbine\n[01:11.82] Big racks sittin' in my back pocket, I'm bossin'\n[01:13.52] He snitchin', he rattin', he tellin', he talkin'\n[01:15.32] And he think his gang gon' claim him regardless\n[01:17.06] I hope they kill him and make him a target\n[01:18.64] Hope they find him with no face in the garbage\n[01:20.26] Paint him up like Picasso, I'm a artist\n[01:21.74] Put a hole in 'em, take his body to the water\n[01:23.54] Call it a night\n[01:24.42] Pour up a four, forget it by the morning\n[01:26.12] Make it rain, everyday, I got it stormin'\n[01:38.88] I took your bitch, give her back, I ain't sorry\n[02:12.94] Call up my hitters, they call up they hitters\n[02:24.88] Got hitters on hitters, they send up your party\n[02:24.88] If he try me, leave him leaking like a sink\n[02:25.18] Highkey, diamonds hockey, skatin' like a rink\n[02:25.20] If it's cold outside, pop out in a mink\n[02:25.20] And I always keep a .45 in the briefs\n[02:25.20] Uh, rollin' gas, never on E\n[02:25.20] Lambo' with the Forgis, car on fleek (Skrrt, skrrt, skrrt)\n[02:25.26] Huh, live and learn\n[02:25.26] I could build a mansion from all of these bridges burned\n[02:25.28] I see the Devil dancing, she telling me it's my turn\n[02:25.56] Huh, turn away, uh, swerve\n[02:25.56] Turn away, uh, swerve\n[02:25.56] Turn away, uh, swerve"
     },
     {
+      "id": "gbgr-switch",
+      "era": "GBGR",
+      "eraName": "Goodbye & Good Riddance",
+      "eraBadge": "GBGR",
+      "eraColor": "#f59e0b",
+      "filename": "Juice WRLD - Switch.txt",
+      "rawName": "Juice WRLD - Switch",
+      "title": "Switch",
+      "artist": "Juice WRLD",
+      "aliases": [],
+      "isNew": false,
+      "hasTimestamps": true,
+      "durationSec": 180,
+      "durationFormatted": "2:59",
+      "lineCount": 49,
+      "lines": [
+        {
+          "id": 0,
+          "seconds": 0,
+          "timestamp": "[00:00.00]",
+          "displayTime": "0:00",
+          "text": ""
+        },
+        {
+          "id": 1,
+          "seconds": 22.5,
+          "timestamp": "[00:22.50]",
+          "displayTime": "0:22",
+          "text": "I could never switch, nigga"
+        },
+        {
+          "id": 2,
+          "seconds": 24.68,
+          "timestamp": "[00:24.68]",
+          "displayTime": "0:24",
+          "text": "Heard your boyfriend was a bitch, nigga"
+        },
+        {
+          "id": 3,
+          "seconds": 27.44,
+          "timestamp": "[00:27.44]",
+          "displayTime": "0:27",
+          "text": "If he run-up, he get disfigured"
+        },
+        {
+          "id": 4,
+          "seconds": 30.2,
+          "timestamp": "[00:30.20]",
+          "displayTime": "0:30",
+          "text": "Keep the 30 on me, yeah, the clip nigga, hey"
+        },
+        {
+          "id": 5,
+          "seconds": 33.73,
+          "timestamp": "[00:33.73]",
+          "displayTime": "0:33",
+          "text": "Perky with the liquor"
+        },
+        {
+          "id": 6,
+          "seconds": 35.7,
+          "timestamp": "[00:35.70]",
+          "displayTime": "0:35",
+          "text": "Have a lil' nigga feelin' bigger"
+        },
+        {
+          "id": 7,
+          "seconds": 38.39,
+          "timestamp": "[00:38.39]",
+          "displayTime": "0:38",
+          "text": "I'm so high that I can't get up"
+        },
+        {
+          "id": 8,
+          "seconds": 41.45,
+          "timestamp": "[00:41.45]",
+          "displayTime": "0:41",
+          "text": "Codeine give a nigga hiccups, hey"
+        },
+        {
+          "id": 9,
+          "seconds": 44.23,
+          "timestamp": "[00:44.23]",
+          "displayTime": "0:44",
+          "text": "Put your hands in the air, stick up"
+        },
+        {
+          "id": 10,
+          "seconds": 47.02,
+          "timestamp": "[00:47.02]",
+          "displayTime": "0:47",
+          "text": "He a broke nigga, need a fix-up"
+        },
+        {
+          "id": 11,
+          "seconds": 49.86,
+          "timestamp": "[00:49.86]",
+          "displayTime": "0:49",
+          "text": "He a ho, nigga, need a pimp, huh?"
+        },
+        {
+          "id": 12,
+          "seconds": 52.66,
+          "timestamp": "[00:52.66]",
+          "displayTime": "0:52",
+          "text": "Big gun, walk with a limp, huh"
+        },
+        {
+          "id": 13,
+          "seconds": 55.27,
+          "timestamp": "[00:55.27]",
+          "displayTime": "0:55",
+          "text": "I want a big house in the Hills, oh"
+        },
+        {
+          "id": 14,
+          "seconds": 58.17,
+          "timestamp": "[00:58.17]",
+          "displayTime": "0:58",
+          "text": "With a cabinet full of pills, oh"
+        },
+        {
+          "id": 15,
+          "seconds": 60.94,
+          "timestamp": "[01:00.94]",
+          "displayTime": "1:00",
+          "text": "I don't really like cheap thrills, oh"
+        },
+        {
+          "id": 16,
+          "seconds": 63.7,
+          "timestamp": "[01:03.70]",
+          "displayTime": "1:03",
+          "text": "That's why I go out and get real ones"
+        },
+        {
+          "id": 17,
+          "seconds": 66.78,
+          "timestamp": "[01:06.78]",
+          "displayTime": "1:06",
+          "text": "I don't think there's any real ones"
+        },
+        {
+          "id": 18,
+          "seconds": 69.26,
+          "timestamp": "[01:09.26]",
+          "displayTime": "1:09",
+          "text": "So I went out and I bought a new gun"
+        },
+        {
+          "id": 19,
+          "seconds": 72.16,
+          "timestamp": "[01:12.16]",
+          "displayTime": "1:12",
+          "text": "She say she looking for a new man, I was out, tryna kill one"
+        },
+        {
+          "id": 20,
+          "seconds": 78.05,
+          "timestamp": "[01:18.05]",
+          "displayTime": "1:18",
+          "text": "Load it up, uh, ayy"
+        },
+        {
+          "id": 21,
+          "seconds": 79.44,
+          "timestamp": "[01:19.44]",
+          "displayTime": "1:19",
+          "text": "Percocet pop 'til I'm throwin' up, uh, ayy"
+        },
+        {
+          "id": 22,
+          "seconds": 82.26,
+          "timestamp": "[01:22.26]",
+          "displayTime": "1:22",
+          "text": "Codeine cup, got me pourin' up, uh"
+        },
+        {
+          "id": 23,
+          "seconds": 84.98,
+          "timestamp": "[01:24.98]",
+          "displayTime": "1:24",
+          "text": "She a D-cup, motorboat her, huh"
+        },
+        {
+          "id": 24,
+          "seconds": 87.28,
+          "timestamp": "[01:27.28]",
+          "displayTime": "1:27",
+          "text": "She gon' let me crack like Lamar, no Odom, huh"
+        },
+        {
+          "id": 25,
+          "seconds": 90.12,
+          "timestamp": "[01:30.12]",
+          "displayTime": "1:30",
+          "text": "I was in my feelings too much, tryna open up"
+        },
+        {
+          "id": 26,
+          "seconds": 92.83,
+          "timestamp": "[01:32.83]",
+          "displayTime": "1:32",
+          "text": "Crashed my car, so I had to get a new one"
+        },
+        {
+          "id": 27,
+          "seconds": 95.52,
+          "timestamp": "[01:35.52]",
+          "displayTime": "1:35",
+          "text": "Benjamin Franklin, I count it up, I need the blue one"
+        },
+        {
+          "id": 28,
+          "seconds": 98.32,
+          "timestamp": "[01:38.32]",
+          "displayTime": "1:38",
+          "text": "Fuck niggas talking up out they neck, but never do nothin'"
+        },
+        {
+          "id": 29,
+          "seconds": 101.15,
+          "timestamp": "[01:41.15]",
+          "displayTime": "1:41",
+          "text": "Fuck niggas barkin' just like a pit', but never bite nothin'"
+        },
+        {
+          "id": 30,
+          "seconds": 104,
+          "timestamp": "[01:44.00]",
+          "displayTime": "1:44",
+          "text": "If he wanna fight, 40 bite like Tyson"
+        },
+        {
+          "id": 31,
+          "seconds": 106.55,
+          "timestamp": "[01:46.55]",
+          "displayTime": "1:46",
+          "text": "I said I'll make it bite, Mike Tyson"
+        },
+        {
+          "id": 32,
+          "seconds": 108.8,
+          "timestamp": "[01:48.80]",
+          "displayTime": "1:48",
+          "text": "He done ran up on the wrong one"
+        },
+        {
+          "id": 33,
+          "seconds": 110.82,
+          "timestamp": "[01:50.82]",
+          "displayTime": "1:50",
+          "text": "Oops, I mean the right one"
+        },
+        {
+          "id": 34,
+          "seconds": 134.52,
+          "timestamp": "[02:14.52]",
+          "displayTime": "2:14",
+          "text": "I could never switch, nigga"
+        },
+        {
+          "id": 35,
+          "seconds": 136.32,
+          "timestamp": "[02:16.32]",
+          "displayTime": "2:16",
+          "text": "Heard your boyfriend was a bitch, nigga"
+        },
+        {
+          "id": 36,
+          "seconds": 139.03,
+          "timestamp": "[02:19.03]",
+          "displayTime": "2:19",
+          "text": "If he run-up, he get disfigured"
+        },
+        {
+          "id": 37,
+          "seconds": 141.82,
+          "timestamp": "[02:21.82]",
+          "displayTime": "2:21",
+          "text": "Keep the 30 on me, yeah, the clip nigga, hey"
+        },
+        {
+          "id": 38,
+          "seconds": 145.28,
+          "timestamp": "[02:25.28]",
+          "displayTime": "2:25",
+          "text": "Perky with the liquor"
+        },
+        {
+          "id": 39,
+          "seconds": 147.53,
+          "timestamp": "[02:27.53]",
+          "displayTime": "2:27",
+          "text": "Have a lil' nigga feelin' bigger"
+        },
+        {
+          "id": 40,
+          "seconds": 149.98,
+          "timestamp": "[02:29.98]",
+          "displayTime": "2:29",
+          "text": "I'm so high that I can't get up"
+        },
+        {
+          "id": 41,
+          "seconds": 153.08,
+          "timestamp": "[02:33.08]",
+          "displayTime": "2:33",
+          "text": "Codeine give a nigga hiccups, hey"
+        },
+        {
+          "id": 42,
+          "seconds": 155.78,
+          "timestamp": "[02:35.78]",
+          "displayTime": "2:35",
+          "text": "Put your hands in the air, stick up"
+        },
+        {
+          "id": 43,
+          "seconds": 158.68,
+          "timestamp": "[02:38.68]",
+          "displayTime": "2:38",
+          "text": "He a broke nigga, need a fix-up"
+        },
+        {
+          "id": 44,
+          "seconds": 161.61,
+          "timestamp": "[02:41.61]",
+          "displayTime": "2:41",
+          "text": "He a ho, nigga, need a pimp, huh?"
+        },
+        {
+          "id": 45,
+          "seconds": 164.24,
+          "timestamp": "[02:44.24]",
+          "displayTime": "2:44",
+          "text": "Big gun, walk with a limp, huh"
+        },
+        {
+          "id": 46,
+          "seconds": 166.94,
+          "timestamp": "[02:46.94]",
+          "displayTime": "2:46",
+          "text": "I want a big house in the Hills, oh"
+        },
+        {
+          "id": 47,
+          "seconds": 169.88,
+          "timestamp": "[02:49.88]",
+          "displayTime": "2:49",
+          "text": "With a cabinet full of pills, oh"
+        },
+        {
+          "id": 48,
+          "seconds": 172.6,
+          "timestamp": "[02:52.60]",
+          "displayTime": "2:52",
+          "text": "I don't really like cheap thrills, oh"
+        },
+        {
+          "id": 49,
+          "seconds": 175.52,
+          "timestamp": "[02:55.52]",
+          "displayTime": "2:55",
+          "text": "That's why I go out and get real ones"
+        },
+        {
+          "id": 50,
+          "seconds": 179.53,
+          "timestamp": "[02:59.53]",
+          "displayTime": "2:59",
+          "text": ""
+        }
+      ],
+      "plainText": "\nI could never switch, nigga\nHeard your boyfriend was a bitch, nigga\nIf he run-up, he get disfigured\nKeep the 30 on me, yeah, the clip nigga, hey\nPerky with the liquor\nHave a lil' nigga feelin' bigger\nI'm so high that I can't get up\nCodeine give a nigga hiccups, hey\nPut your hands in the air, stick up\nHe a broke nigga, need a fix-up\nHe a ho, nigga, need a pimp, huh?\nBig gun, walk with a limp, huh\nI want a big house in the Hills, oh\nWith a cabinet full of pills, oh\nI don't really like cheap thrills, oh\nThat's why I go out and get real ones\nI don't think there's any real ones\nSo I went out and I bought a new gun\nShe say she looking for a new man, I was out, tryna kill one\nLoad it up, uh, ayy\nPercocet pop 'til I'm throwin' up, uh, ayy\nCodeine cup, got me pourin' up, uh\nShe a D-cup, motorboat her, huh\nShe gon' let me crack like Lamar, no Odom, huh\nI was in my feelings too much, tryna open up\nCrashed my car, so I had to get a new one\nBenjamin Franklin, I count it up, I need the blue one\nFuck niggas talking up out they neck, but never do nothin'\nFuck niggas barkin' just like a pit', but never bite nothin'\nIf he wanna fight, 40 bite like Tyson\nI said I'll make it bite, Mike Tyson\nHe done ran up on the wrong one\nOops, I mean the right one\nI could never switch, nigga\nHeard your boyfriend was a bitch, nigga\nIf he run-up, he get disfigured\nKeep the 30 on me, yeah, the clip nigga, hey\nPerky with the liquor\nHave a lil' nigga feelin' bigger\nI'm so high that I can't get up\nCodeine give a nigga hiccups, hey\nPut your hands in the air, stick up\nHe a broke nigga, need a fix-up\nHe a ho, nigga, need a pimp, huh?\nBig gun, walk with a limp, huh\nI want a big house in the Hills, oh\nWith a cabinet full of pills, oh\nI don't really like cheap thrills, oh\nThat's why I go out and get real ones\n",
+      "lrcContent": "[ti:Switch]\n[ar:Juice WRLD]\n[al:Goodbye & Good Riddance]\n[by:LyricSync]\n[00:00.00]\n[00:22.50] I could never switch, nigga\n[00:24.68] Heard your boyfriend was a bitch, nigga\n[00:27.44] If he run-up, he get disfigured\n[00:30.20] Keep the 30 on me, yeah, the clip nigga, hey\n[00:33.73] Perky with the liquor\n[00:35.70] Have a lil' nigga feelin' bigger\n[00:38.39] I'm so high that I can't get up\n[00:41.45] Codeine give a nigga hiccups, hey\n[00:44.23] Put your hands in the air, stick up\n[00:47.02] He a broke nigga, need a fix-up\n[00:49.86] He a ho, nigga, need a pimp, huh?\n[00:52.66] Big gun, walk with a limp, huh\n[00:55.27] I want a big house in the Hills, oh\n[00:58.17] With a cabinet full of pills, oh\n[01:00.94] I don't really like cheap thrills, oh\n[01:03.70] That's why I go out and get real ones\n[01:06.78] I don't think there's any real ones\n[01:09.26] So I went out and I bought a new gun\n[01:12.16] She say she looking for a new man, I was out, tryna kill one\n[01:18.05] Load it up, uh, ayy\n[01:19.44] Percocet pop 'til I'm throwin' up, uh, ayy\n[01:22.26] Codeine cup, got me pourin' up, uh\n[01:24.98] She a D-cup, motorboat her, huh\n[01:27.28] She gon' let me crack like Lamar, no Odom, huh\n[01:30.12] I was in my feelings too much, tryna open up\n[01:32.83] Crashed my car, so I had to get a new one\n[01:35.52] Benjamin Franklin, I count it up, I need the blue one\n[01:38.32] Fuck niggas talking up out they neck, but never do nothin'\n[01:41.15] Fuck niggas barkin' just like a pit', but never bite nothin'\n[01:44.00] If he wanna fight, 40 bite like Tyson\n[01:46.55] I said I'll make it bite, Mike Tyson\n[01:48.80] He done ran up on the wrong one\n[01:50.82] Oops, I mean the right one\n[02:14.52] I could never switch, nigga\n[02:16.32] Heard your boyfriend was a bitch, nigga\n[02:19.03] If he run-up, he get disfigured\n[02:21.82] Keep the 30 on me, yeah, the clip nigga, hey\n[02:25.28] Perky with the liquor\n[02:27.53] Have a lil' nigga feelin' bigger\n[02:29.98] I'm so high that I can't get up\n[02:33.08] Codeine give a nigga hiccups, hey\n[02:35.78] Put your hands in the air, stick up\n[02:38.68] He a broke nigga, need a fix-up\n[02:41.61] He a ho, nigga, need a pimp, huh?\n[02:44.24] Big gun, walk with a limp, huh\n[02:46.94] I want a big house in the Hills, oh\n[02:49.88] With a cabinet full of pills, oh\n[02:52.60] I don't really like cheap thrills, oh\n[02:55.52] That's why I go out and get real ones\n[02:59.53]"
+    },
+    {
       "id": "out-tempted",
       "era": "OUT",
       "eraName": "The Outsiders",
@@ -46538,6 +48080,412 @@
       "lrcContent": "[ti:Toe To Toe]\n[ar:Juice WRLD]\n[al:The Outsiders]\n[by:LyricSync]\n[00:00.14] (Wheezy outta here)\n[00:06.30] Goin' toe to toe\n[00:06.30] Percs with the lean, goin' toe to toe\n[00:08.72] Got a stick with a beam and a drumroll\n[00:11.24] I just dropped a blunt in the lean, that's what I smoke\n[00:14.00] Finna fall over like I'm walkin' on a tightrope\n[00:17.18] Bitch, I'm cross-faded, totin' on my rifle\n[00:19.60] 50 shots to the brain if I see my rival\n[00:22.46] I can't lie, I'm insane and I'm indecisive\n[00:25.28] Should I fuck that bitch in my Range or in a Ferrari Spider? (Skrrt)\n[00:28.48] Yeah, yeah, take off to the moon\n[00:30.54] I ain’t comin’ back, not anytime soon\n[00:33.34] Everywhere I go it’s hot like last and next june\n[00:36.16] I'm the shit, I'm rich, I ain't end up like you\n[00:39.34] L-O-S-E-R, meanwhile I'm being a super S-T-A-R\n[00:43.92] Now every girl wanna be my P-O-R-N star\n[00:46.84] Living life at the top\n[00:48.12] Are you ready or not?\n[00:49.68] Here I come\n[00:51.22] Percs with the lean, goin' toe to toe\n[00:53.60] Got a stick with a beam and a drumroll\n[00:56.16] I just dropped a blunt in the lean, that's what I smoke\n[00:58.94] Finna fall over like I'm walkin' on a tightrope\n[01:02.24] Bitch, I'm cross-faded, totin' on my rifle\n[01:04.56] 50 shots to the brain if I see my rival\n[01:07.36] I can't lie, I'm insane and I'm indecisive\n[01:10.10] Should I fuck that bitch in my Range or in a Ferrari Spider?\n[01:36.16] Percs with the lean, goin' toe to toe\n[01:38.56] Got a stick with a beam and a drumroll\n[01:41.06] I just dropped a blunt in the lean, that's what I smoke\n[01:43.88] Finna fall over like I'm walkin' on a tightrope\n[01:47.00] Bitch, I'm cross-faded, totin' on my rifle\n[01:49.46] 50 shots to the brain if I see my rival\n[01:52.26] I can't lie, I'm insane and I'm indecisive\n[01:55.00] Should I fuck that bitch in my Range or in a Ferrari Spider?"
     },
     {
+      "id": "gbgr-toxic-humans",
+      "era": "GBGR",
+      "eraName": "Goodbye & Good Riddance",
+      "eraBadge": "GBGR",
+      "eraColor": "#f59e0b",
+      "filename": "Juice WRLD - Toxic Humans.txt",
+      "rawName": "Juice WRLD - Toxic Humans",
+      "title": "Toxic Humans",
+      "artist": "Juice WRLD",
+      "aliases": [],
+      "isNew": false,
+      "hasTimestamps": true,
+      "durationSec": 178,
+      "durationFormatted": "2:57",
+      "lineCount": 53,
+      "lines": [
+        {
+          "id": 0,
+          "seconds": 0,
+          "timestamp": "[00:00.00]",
+          "displayTime": "0:00",
+          "text": ""
+        },
+        {
+          "id": 1,
+          "seconds": 11.36,
+          "timestamp": "[00:11.36]",
+          "displayTime": "0:11",
+          "text": "I've been waitin', I'm contemplatin'"
+        },
+        {
+          "id": 2,
+          "seconds": 14.11,
+          "timestamp": "[00:14.11]",
+          "displayTime": "0:14",
+          "text": "Say you love me, girl, you were playin'"
+        },
+        {
+          "id": 3,
+          "seconds": 16.95,
+          "timestamp": "[00:16.95]",
+          "displayTime": "0:16",
+          "text": "None of this gon' matter when we die"
+        },
+        {
+          "id": 4,
+          "seconds": 19.66,
+          "timestamp": "[00:19.66]",
+          "displayTime": "0:19",
+          "text": "I won't wipe your tears, not when you cry"
+        },
+        {
+          "id": 5,
+          "seconds": 22.56,
+          "timestamp": "[00:22.56]",
+          "displayTime": "0:22",
+          "text": "This ain't love, girl, this more like hatred"
+        },
+        {
+          "id": 6,
+          "seconds": 25.25,
+          "timestamp": "[00:25.25]",
+          "displayTime": "0:25",
+          "text": "I've been down this road so many times before"
+        },
+        {
+          "id": 7,
+          "seconds": 28.18,
+          "timestamp": "[00:28.18]",
+          "displayTime": "0:28",
+          "text": "Hoes in my phone, they're your replacement"
+        },
+        {
+          "id": 8,
+          "seconds": 31,
+          "timestamp": "[00:31.00]",
+          "displayTime": "0:31",
+          "text": "But they feel nothin' like you, you made me whole"
+        },
+        {
+          "id": 9,
+          "seconds": 34.35,
+          "timestamp": "[00:34.35]",
+          "displayTime": "0:34",
+          "text": "I can't tell if this is a dream, am I awake or am I asleep?"
+        },
+        {
+          "id": 10,
+          "seconds": 39.76,
+          "timestamp": "[00:39.76]",
+          "displayTime": "0:39",
+          "text": "I don't have answers, philosophies mean nothin' to me right now"
+        },
+        {
+          "id": 11,
+          "seconds": 45.59,
+          "timestamp": "[00:45.59]",
+          "displayTime": "0:45",
+          "text": "And I can't tell if you were with me or against me"
+        },
+        {
+          "id": 12,
+          "seconds": 50.05,
+          "timestamp": "[00:50.05]",
+          "displayTime": "0:50",
+          "text": "All my friends say you're Icky Vicky"
+        },
+        {
+          "id": 13,
+          "seconds": 52.77,
+          "timestamp": "[00:52.77]",
+          "displayTime": "0:52",
+          "text": "I feel like Timmy, I'll keep on wishing"
+        },
+        {
+          "id": 14,
+          "seconds": 55.99,
+          "timestamp": "[00:55.99]",
+          "displayTime": "0:55",
+          "text": "For better days, better days"
+        },
+        {
+          "id": 15,
+          "seconds": 58.6,
+          "timestamp": "[00:58.60]",
+          "displayTime": "0:58",
+          "text": "Need some stronger pills, a better daze"
+        },
+        {
+          "id": 16,
+          "seconds": 61.36,
+          "timestamp": "[01:01.36]",
+          "displayTime": "1:01",
+          "text": "I've been risking my life since you've been away"
+        },
+        {
+          "id": 17,
+          "seconds": 64.17,
+          "timestamp": "[01:04.17]",
+          "displayTime": "1:04",
+          "text": "Tryna get your attention from far away"
+        },
+        {
+          "id": 18,
+          "seconds": 67.04,
+          "timestamp": "[01:07.04]",
+          "displayTime": "1:07",
+          "text": "I've been having lucid dreams, stupid dreams"
+        },
+        {
+          "id": 19,
+          "seconds": 69.72,
+          "timestamp": "[01:09.72]",
+          "displayTime": "1:09",
+          "text": "Thinkin' 'bout you and me, fluently"
+        },
+        {
+          "id": 20,
+          "seconds": 72.66,
+          "timestamp": "[01:12.66]",
+          "displayTime": "1:12",
+          "text": "I've been experimentin' to take the pain away"
+        },
+        {
+          "id": 21,
+          "seconds": 76,
+          "timestamp": "[01:16.00]",
+          "displayTime": "1:16",
+          "text": "Wake up thinkin' I heard your name"
+        },
+        {
+          "id": 22,
+          "seconds": 79.04,
+          "timestamp": "[01:19.04]",
+          "displayTime": "1:19",
+          "text": "I've been waitin', I'm contemplatin'"
+        },
+        {
+          "id": 23,
+          "seconds": 81.82,
+          "timestamp": "[01:21.82]",
+          "displayTime": "1:21",
+          "text": "Say you love me, girl, you were playin'"
+        },
+        {
+          "id": 24,
+          "seconds": 84.71,
+          "timestamp": "[01:24.71]",
+          "displayTime": "1:24",
+          "text": "None of this gon' matter when we die"
+        },
+        {
+          "id": 25,
+          "seconds": 87.51,
+          "timestamp": "[01:27.51]",
+          "displayTime": "1:27",
+          "text": "I won't wipe your tears, not when you cry"
+        },
+        {
+          "id": 26,
+          "seconds": 90.26,
+          "timestamp": "[01:30.26]",
+          "displayTime": "1:30",
+          "text": "This ain't love, girl, this more like hatred"
+        },
+        {
+          "id": 27,
+          "seconds": 93.15,
+          "timestamp": "[01:33.15]",
+          "displayTime": "1:33",
+          "text": "I've been down this road so many times before"
+        },
+        {
+          "id": 28,
+          "seconds": 96.02,
+          "timestamp": "[01:36.02]",
+          "displayTime": "1:36",
+          "text": "Hoes in my phone, they're your replacement"
+        },
+        {
+          "id": 29,
+          "seconds": 98.62,
+          "timestamp": "[01:38.62]",
+          "displayTime": "1:38",
+          "text": "But they feel nothing like you, you made me whole"
+        },
+        {
+          "id": 30,
+          "seconds": 101.88,
+          "timestamp": "[01:41.88]",
+          "displayTime": "1:41",
+          "text": "This is the part where I confess that most of my relations were toxic"
+        },
+        {
+          "id": 31,
+          "seconds": 107.22,
+          "timestamp": "[01:47.22]",
+          "displayTime": "1:47",
+          "text": "Happiness will come when it's ready"
+        },
+        {
+          "id": 32,
+          "seconds": 110.07,
+          "timestamp": "[01:50.07]",
+          "displayTime": "1:50",
+          "text": "Hold out your hands and embrace it with open arms"
+        },
+        {
+          "id": 33,
+          "seconds": 112.95,
+          "timestamp": "[01:52.95]",
+          "displayTime": "1:52",
+          "text": "This is the part where I confess that toxic humans come off attractive"
+        },
+        {
+          "id": 34,
+          "seconds": 118.51,
+          "timestamp": "[01:58.51]",
+          "displayTime": "1:58",
+          "text": "I made this song for anyone that's going through it, I'll clean up the mess"
+        },
+        {
+          "id": 35,
+          "seconds": 124.75,
+          "timestamp": "[02:04.75]",
+          "displayTime": "2:04",
+          "text": "Yeah, na-na-na-na"
+        },
+        {
+          "id": 36,
+          "seconds": 126.71,
+          "timestamp": "[02:06.71]",
+          "displayTime": "2:06",
+          "text": "Na-na-na-na"
+        },
+        {
+          "id": 37,
+          "seconds": 127.99,
+          "timestamp": "[02:07.99]",
+          "displayTime": "2:07",
+          "text": "Na-na-na, na, na-na"
+        },
+        {
+          "id": 38,
+          "seconds": 130.82,
+          "timestamp": "[02:10.82]",
+          "displayTime": "2:10",
+          "text": "Na-na-na-na"
+        },
+        {
+          "id": 39,
+          "seconds": 132.35,
+          "timestamp": "[02:12.35]",
+          "displayTime": "2:12",
+          "text": "Na-na-na-na"
+        },
+        {
+          "id": 40,
+          "seconds": 133.58,
+          "timestamp": "[02:13.58]",
+          "displayTime": "2:13",
+          "text": "Na-na-na, na-na-na"
+        },
+        {
+          "id": 41,
+          "seconds": 136.09,
+          "timestamp": "[02:16.09]",
+          "displayTime": "2:16",
+          "text": "What's the matter?"
+        },
+        {
+          "id": 42,
+          "seconds": 138.27,
+          "timestamp": "[02:18.27]",
+          "displayTime": "2:18",
+          "text": "Questions are unanswered"
+        },
+        {
+          "id": 43,
+          "seconds": 141.03,
+          "timestamp": "[02:21.03]",
+          "displayTime": "2:21",
+          "text": "If you need some help, I'm a tweet away"
+        },
+        {
+          "id": 44,
+          "seconds": 144.35,
+          "timestamp": "[02:24.35]",
+          "displayTime": "2:24",
+          "text": "Hit me today, hey"
+        },
+        {
+          "id": 45,
+          "seconds": 146.79,
+          "timestamp": "[02:26.79]",
+          "displayTime": "2:26",
+          "text": "I've been waitin', I'm contemplatin'"
+        },
+        {
+          "id": 46,
+          "seconds": 149.62,
+          "timestamp": "[02:29.62]",
+          "displayTime": "2:29",
+          "text": "Say you love me, girl, you were playin'"
+        },
+        {
+          "id": 47,
+          "seconds": 152.43,
+          "timestamp": "[02:32.43]",
+          "displayTime": "2:32",
+          "text": "None of this gon' matter when we die"
+        },
+        {
+          "id": 48,
+          "seconds": 155.23,
+          "timestamp": "[02:35.23]",
+          "displayTime": "2:35",
+          "text": "I won't wipe your tears, not when you cry"
+        },
+        {
+          "id": 49,
+          "seconds": 158.03,
+          "timestamp": "[02:38.03]",
+          "displayTime": "2:38",
+          "text": "This ain't love, girl, this more like hatred"
+        },
+        {
+          "id": 50,
+          "seconds": 160.95,
+          "timestamp": "[02:40.95]",
+          "displayTime": "2:40",
+          "text": "I've been down this road so many times before"
+        },
+        {
+          "id": 51,
+          "seconds": 163.71,
+          "timestamp": "[02:43.71]",
+          "displayTime": "2:43",
+          "text": "Hoes in my phone, they're your replacement"
+        },
+        {
+          "id": 52,
+          "seconds": 166.47,
+          "timestamp": "[02:46.47]",
+          "displayTime": "2:46",
+          "text": "But they feel nothin' like you, you made me whole"
+        },
+        {
+          "id": 53,
+          "seconds": 172.07,
+          "timestamp": "[02:52.07]",
+          "displayTime": "2:52",
+          "text": "They feel nothin' like you, you made me whole"
+        },
+        {
+          "id": 54,
+          "seconds": 177.88,
+          "timestamp": "[02:57.88]",
+          "displayTime": "2:57",
+          "text": ""
+        }
+      ],
+      "plainText": "\nI've been waitin', I'm contemplatin'\nSay you love me, girl, you were playin'\nNone of this gon' matter when we die\nI won't wipe your tears, not when you cry\nThis ain't love, girl, this more like hatred\nI've been down this road so many times before\nHoes in my phone, they're your replacement\nBut they feel nothin' like you, you made me whole\nI can't tell if this is a dream, am I awake or am I asleep?\nI don't have answers, philosophies mean nothin' to me right now\nAnd I can't tell if you were with me or against me\nAll my friends say you're Icky Vicky\nI feel like Timmy, I'll keep on wishing\nFor better days, better days\nNeed some stronger pills, a better daze\nI've been risking my life since you've been away\nTryna get your attention from far away\nI've been having lucid dreams, stupid dreams\nThinkin' 'bout you and me, fluently\nI've been experimentin' to take the pain away\nWake up thinkin' I heard your name\nI've been waitin', I'm contemplatin'\nSay you love me, girl, you were playin'\nNone of this gon' matter when we die\nI won't wipe your tears, not when you cry\nThis ain't love, girl, this more like hatred\nI've been down this road so many times before\nHoes in my phone, they're your replacement\nBut they feel nothing like you, you made me whole\nThis is the part where I confess that most of my relations were toxic\nHappiness will come when it's ready\nHold out your hands and embrace it with open arms\nThis is the part where I confess that toxic humans come off attractive\nI made this song for anyone that's going through it, I'll clean up the mess\nYeah, na-na-na-na\nNa-na-na-na\nNa-na-na, na, na-na\nNa-na-na-na\nNa-na-na-na\nNa-na-na, na-na-na\nWhat's the matter?\nQuestions are unanswered\nIf you need some help, I'm a tweet away\nHit me today, hey\nI've been waitin', I'm contemplatin'\nSay you love me, girl, you were playin'\nNone of this gon' matter when we die\nI won't wipe your tears, not when you cry\nThis ain't love, girl, this more like hatred\nI've been down this road so many times before\nHoes in my phone, they're your replacement\nBut they feel nothin' like you, you made me whole\nThey feel nothin' like you, you made me whole\n",
+      "lrcContent": "[ti:Toxic Humans]\n[ar:Juice WRLD]\n[al:Goodbye & Good Riddance]\n[by:LyricSync]\n[00:00.00]\n[00:11.36] I've been waitin', I'm contemplatin'\n[00:14.11] Say you love me, girl, you were playin'\n[00:16.95] None of this gon' matter when we die\n[00:19.66] I won't wipe your tears, not when you cry\n[00:22.56] This ain't love, girl, this more like hatred\n[00:25.25] I've been down this road so many times before\n[00:28.18] Hoes in my phone, they're your replacement\n[00:31.00] But they feel nothin' like you, you made me whole\n[00:34.35] I can't tell if this is a dream, am I awake or am I asleep?\n[00:39.76] I don't have answers, philosophies mean nothin' to me right now\n[00:45.59] And I can't tell if you were with me or against me\n[00:50.05] All my friends say you're Icky Vicky\n[00:52.77] I feel like Timmy, I'll keep on wishing\n[00:55.99] For better days, better days\n[00:58.60] Need some stronger pills, a better daze\n[01:01.36] I've been risking my life since you've been away\n[01:04.17] Tryna get your attention from far away\n[01:07.04] I've been having lucid dreams, stupid dreams\n[01:09.72] Thinkin' 'bout you and me, fluently\n[01:12.66] I've been experimentin' to take the pain away\n[01:16.00] Wake up thinkin' I heard your name\n[01:19.04] I've been waitin', I'm contemplatin'\n[01:21.82] Say you love me, girl, you were playin'\n[01:24.71] None of this gon' matter when we die\n[01:27.51] I won't wipe your tears, not when you cry\n[01:30.26] This ain't love, girl, this more like hatred\n[01:33.15] I've been down this road so many times before\n[01:36.02] Hoes in my phone, they're your replacement\n[01:38.62] But they feel nothing like you, you made me whole\n[01:41.88] This is the part where I confess that most of my relations were toxic\n[01:47.22] Happiness will come when it's ready\n[01:50.07] Hold out your hands and embrace it with open arms\n[01:52.95] This is the part where I confess that toxic humans come off attractive\n[01:58.51] I made this song for anyone that's going through it, I'll clean up the mess\n[02:04.75] Yeah, na-na-na-na\n[02:06.71] Na-na-na-na\n[02:07.99] Na-na-na, na, na-na\n[02:10.82] Na-na-na-na\n[02:12.35] Na-na-na-na\n[02:13.58] Na-na-na, na-na-na\n[02:16.09] What's the matter?\n[02:18.27] Questions are unanswered\n[02:21.03] If you need some help, I'm a tweet away\n[02:24.35] Hit me today, hey\n[02:26.79] I've been waitin', I'm contemplatin'\n[02:29.62] Say you love me, girl, you were playin'\n[02:32.43] None of this gon' matter when we die\n[02:35.23] I won't wipe your tears, not when you cry\n[02:38.03] This ain't love, girl, this more like hatred\n[02:40.95] I've been down this road so many times before\n[02:43.71] Hoes in my phone, they're your replacement\n[02:46.47] But they feel nothin' like you, you made me whole\n[02:52.07] They feel nothin' like you, you made me whole\n[02:57.88]"
+    },
+    {
       "id": "out-uncanny",
       "era": "OUT",
       "eraName": "The Outsiders",
@@ -49478,6 +51426,384 @@
       "lrcContent": "[ti:Whatcha On]\n[ar:Juice WRLD]\n[al:The Outsiders]\n[by:LyricSync]\n[00:02.84] Haha, on foenem\n[00:04.28] Look at—, I'm-I'm-I'm\n[00:05.68] We finna make a EP tonight called \"Fried\"\n[00:07.82] 'Cause, nigga, I ain't smoke in a long time\n[00:09.34] (DJ Victoriouz with me in the building)\n[00:12.36] Ha\n[00:12.68] Huh, come on, come on (Yeah)\n[00:16.14] I'm on my way home\n[00:18.24] Girl, I'm knowing whatchu want\n[00:21.22] Girl, I'm knowing whatcha on\n[00:24.26] Huh, come on, come on (Yeah)\n[00:28.16] I'm on my way home\n[00:30.26] Girl, I'm knowing whatchu want\n[00:33.22] Girl, I'm knowing whatcha on (Come here)\n[00:37.30] All night\n[00:38.70] Make love in the moonlight\n[00:41.90] And I'll hold you tight\n[00:44.68] Even through the afterlife (See)\n[00:48.66] But us, we can't die (See)\n[00:51.58] We're fireflies in a bedroom, pitch-black bedroom\n[00:56.30] So, let's go, let's ignite (Let's ignite)\n[01:03.00] Let's ignite (Let's ignite)\n[01:07.78] Come in\n[01:12.52] Oh, hey friend\n[01:14.08] I been waiting for you\n[01:15.46] I'm 'bout to do you in\n[01:16.76] Oh, your name Lotti, right?\n[01:18.26] Kinda like, Lotti that, Lotti this\n[01:20.52] Lotti, give me a kiss\n[01:21.98] Lotti, won't you suck my—, uh\n[01:23.58] 'Kay', now ride it, let me get inside it (Oh yeah)\n[01:26.92] I'ma dig in her like something's in there hiding (Oh yeah)\n[01:29.94] I'ma dig in her like there's a secret, I'm tryna hide, yeah (Oh yeah)\n[01:32.88] I'ma dig in her until I fall out, I'ma die in it\n[01:35.80] Huh, come on, come on (Yeah)\n[01:39.54] I'm on my way home\n[01:41.76] Girl, I'm knowing whatchu want\n[01:44.58] Girl, I'm knowing whatcha on\n[01:47.74] Huh, come on, come on (Yeah)\n[01:51.38] I'm on my way home\n[01:54.18] Girl, I'm knowing whatchu want\n[01:56.70] Girl, I'm knowing whatcha on (Come here)"
     },
     {
+      "id": "gbgr-whatever",
+      "era": "GBGR",
+      "eraName": "Goodbye & Good Riddance",
+      "eraBadge": "GBGR",
+      "eraColor": "#f59e0b",
+      "filename": "Juice WRLD - Whatever.txt",
+      "rawName": "Juice WRLD - Whatever",
+      "title": "Whatever",
+      "artist": "Juice WRLD",
+      "aliases": [],
+      "isNew": false,
+      "hasTimestamps": true,
+      "durationSec": 166,
+      "durationFormatted": "2:46",
+      "lineCount": 50,
+      "lines": [
+        {
+          "id": 0,
+          "seconds": 1.22,
+          "timestamp": "[00:01.22]",
+          "displayTime": "0:01",
+          "text": "Oh-oh, oh"
+        },
+        {
+          "id": 1,
+          "seconds": 4.42,
+          "timestamp": "[00:04.42]",
+          "displayTime": "0:04",
+          "text": "Oh-oh, oh"
+        },
+        {
+          "id": 2,
+          "seconds": 7.74,
+          "timestamp": "[00:07.74]",
+          "displayTime": "0:07",
+          "text": "Oh-oh, oh"
+        },
+        {
+          "id": 3,
+          "seconds": 10.78,
+          "timestamp": "[00:10.78]",
+          "displayTime": "0:10",
+          "text": "Oh"
+        },
+        {
+          "id": 4,
+          "seconds": 11.58,
+          "timestamp": "[00:11.58]",
+          "displayTime": "0:11",
+          "text": "I told her she could call me whenever (Right), no matter the weather (Alright)"
+        },
+        {
+          "id": 5,
+          "seconds": 15.73,
+          "timestamp": "[00:15.73]",
+          "displayTime": "0:15",
+          "text": "I'm fallin' apart, I need to get it together (Alright)"
+        },
+        {
+          "id": 6,
+          "seconds": 18.74,
+          "timestamp": "[00:18.74]",
+          "displayTime": "0:18",
+          "text": "You lie, you lie when you say it's forever (You lie)"
+        },
+        {
+          "id": 7,
+          "seconds": 21.79,
+          "timestamp": "[00:21.79]",
+          "displayTime": "0:21",
+          "text": "Can't lie, I'm high, it ain't gettin' no better (Alright)"
+        },
+        {
+          "id": 8,
+          "seconds": 24.95,
+          "timestamp": "[00:24.95]",
+          "displayTime": "0:24",
+          "text": "I gave her all of my effort (Right), she said, \"It's whatever\" (Alright)"
+        },
+        {
+          "id": 9,
+          "seconds": 28.35,
+          "timestamp": "[00:28.35]",
+          "displayTime": "0:28",
+          "text": "I should've put effort in findin' somebody better (Alright)"
+        },
+        {
+          "id": 10,
+          "seconds": 31.54,
+          "timestamp": "[00:31.54]",
+          "displayTime": "0:31",
+          "text": "Now I'm hung like a hook, sing this song forever (Right)"
+        },
+        {
+          "id": 11,
+          "seconds": 34.55,
+          "timestamp": "[00:34.55]",
+          "displayTime": "0:34",
+          "text": "No pun intended with these words, I'm a little too clever, hey"
+        },
+        {
+          "id": 12,
+          "seconds": 38.42,
+          "timestamp": "[00:38.42]",
+          "displayTime": "0:38",
+          "text": "I'm in her bushes while she walk home"
+        },
+        {
+          "id": 13,
+          "seconds": 41.07,
+          "timestamp": "[00:41.07]",
+          "displayTime": "0:41",
+          "text": "I'm her secret admirer, stalker's such a strong term"
+        },
+        {
+          "id": 14,
+          "seconds": 45.02,
+          "timestamp": "[00:45.02]",
+          "displayTime": "0:45",
+          "text": "I'm in your bedroom when you're not home (Not home)"
+        },
+        {
+          "id": 15,
+          "seconds": 47.79,
+          "timestamp": "[00:47.79]",
+          "displayTime": "0:47",
+          "text": "Love is obsession, when the hell will I learn?"
+        },
+        {
+          "id": 16,
+          "seconds": 51.7,
+          "timestamp": "[00:51.70]",
+          "displayTime": "0:51",
+          "text": "You never meant to hurt me, right? (Right?)"
+        },
+        {
+          "id": 17,
+          "seconds": 55.03,
+          "timestamp": "[00:55.03]",
+          "displayTime": "0:55",
+          "text": "I hope that that's what you're thinkin'"
+        },
+        {
+          "id": 18,
+          "seconds": 58.03,
+          "timestamp": "[00:58.03]",
+          "displayTime": "0:58",
+          "text": "You said you got a new man, right?"
+        },
+        {
+          "id": 19,
+          "seconds": 61.47,
+          "timestamp": "[01:01.47]",
+          "displayTime": "1:01",
+          "text": "I have to make him go missin'"
+        },
+        {
+          "id": 20,
+          "seconds": 64.34,
+          "timestamp": "[01:04.34]",
+          "displayTime": "1:04",
+          "text": "I don't know what the fuck I was thinkin'"
+        },
+        {
+          "id": 21,
+          "seconds": 67.9,
+          "timestamp": "[01:07.90]",
+          "displayTime": "1:07",
+          "text": "Narcotic nonsense, I'm tweakin'"
+        },
+        {
+          "id": 22,
+          "seconds": 70.87,
+          "timestamp": "[01:10.87]",
+          "displayTime": "1:10",
+          "text": "There's a hole in my heart, that shit leakin'"
+        },
+        {
+          "id": 23,
+          "seconds": 73.68,
+          "timestamp": "[01:13.68]",
+          "displayTime": "1:13",
+          "text": "Just hold me close and heal the pain"
+        },
+        {
+          "id": 24,
+          "seconds": 75.77,
+          "timestamp": "[01:15.77]",
+          "displayTime": "1:15",
+          "text": "I told her she could call me whenever (Right), no matter the weather (Alright)"
+        },
+        {
+          "id": 25,
+          "seconds": 79.91,
+          "timestamp": "[01:19.91]",
+          "displayTime": "1:19",
+          "text": "I'm fallin' apart, I need to get it together (Alright)"
+        },
+        {
+          "id": 26,
+          "seconds": 82.75,
+          "timestamp": "[01:22.75]",
+          "displayTime": "1:22",
+          "text": "You lie, you lie when you say it's forever (You lie)"
+        },
+        {
+          "id": 27,
+          "seconds": 85.99,
+          "timestamp": "[01:25.99]",
+          "displayTime": "1:25",
+          "text": "Can't lie, I'm high, it ain't gettin' no better (Alright)"
+        },
+        {
+          "id": 28,
+          "seconds": 89.11,
+          "timestamp": "[01:29.11]",
+          "displayTime": "1:29",
+          "text": "I gave her all of my effort (Right), she said, \"It's whatever\" (Alright)"
+        },
+        {
+          "id": 29,
+          "seconds": 92.55,
+          "timestamp": "[01:32.55]",
+          "displayTime": "1:32",
+          "text": "I should've put effort in findin' somebody better (Alright)"
+        },
+        {
+          "id": 30,
+          "seconds": 95.51,
+          "timestamp": "[01:35.51]",
+          "displayTime": "1:35",
+          "text": "Now I'm hung like a hook, sing this song forever (Right)"
+        },
+        {
+          "id": 31,
+          "seconds": 98.55,
+          "timestamp": "[01:38.55]",
+          "displayTime": "1:38",
+          "text": "No pun intended with these words, I'm a little too clever, hey"
+        },
+        {
+          "id": 32,
+          "seconds": 102.18,
+          "timestamp": "[01:42.18]",
+          "displayTime": "1:42",
+          "text": "I'm hung, I'm hung, I'm young, I'm dumb"
+        },
+        {
+          "id": 33,
+          "seconds": 105.06,
+          "timestamp": "[01:45.06]",
+          "displayTime": "1:45",
+          "text": "In love, I'm sprung, can't hold my tongue"
+        },
+        {
+          "id": 34,
+          "seconds": 108.15,
+          "timestamp": "[01:48.15]",
+          "displayTime": "1:48",
+          "text": "Want to shout-out to my fans, I know you worry"
+        },
+        {
+          "id": 35,
+          "seconds": 111.91,
+          "timestamp": "[01:51.91]",
+          "displayTime": "1:51",
+          "text": "In my Instagram comments askin' who hurt me"
+        },
+        {
+          "id": 36,
+          "seconds": 114.71,
+          "timestamp": "[01:54.71]",
+          "displayTime": "1:54",
+          "text": "I'm in my feelings over bitches that were doin' me dirty"
+        },
+        {
+          "id": 37,
+          "seconds": 117.86,
+          "timestamp": "[01:57.86]",
+          "displayTime": "1:57",
+          "text": "I can still see your shadows in my room, baby"
+        },
+        {
+          "id": 38,
+          "seconds": 121.22,
+          "timestamp": "[02:01.22]",
+          "displayTime": "2:01",
+          "text": "You just text me the other day, a little too flirty"
+        },
+        {
+          "id": 39,
+          "seconds": 124.42,
+          "timestamp": "[02:04.42]",
+          "displayTime": "2:04",
+          "text": "I know you don't want me, you want my money, honey"
+        },
+        {
+          "id": 40,
+          "seconds": 129.38,
+          "timestamp": "[02:09.38]",
+          "displayTime": "2:09",
+          "text": "But you can't put a price on love, oh (On love)"
+        },
+        {
+          "id": 41,
+          "seconds": 135.78,
+          "timestamp": "[02:15.78]",
+          "displayTime": "2:15",
+          "text": "You can't put a price on us (On us)"
+        },
+        {
+          "id": 42,
+          "seconds": 139.87,
+          "timestamp": "[02:19.87]",
+          "displayTime": "2:19",
+          "text": "I told her she could call me whenever (Right), no matter the weather (Alright)"
+        },
+        {
+          "id": 43,
+          "seconds": 143.75,
+          "timestamp": "[02:23.75]",
+          "displayTime": "2:23",
+          "text": "I'm fallin' apart, I need to get it together (Alright)"
+        },
+        {
+          "id": 44,
+          "seconds": 146.66,
+          "timestamp": "[02:26.66]",
+          "displayTime": "2:26",
+          "text": "You lie, you lie when you say it's forever (You lie)"
+        },
+        {
+          "id": 45,
+          "seconds": 149.99,
+          "timestamp": "[02:29.99]",
+          "displayTime": "2:29",
+          "text": "Can't lie, I'm high, it ain't gettin' no better (Alright)"
+        },
+        {
+          "id": 46,
+          "seconds": 153.11,
+          "timestamp": "[02:33.11]",
+          "displayTime": "2:33",
+          "text": "I gave her all of my effort (Right), she said, \"It's whatever\" (Alright)"
+        },
+        {
+          "id": 47,
+          "seconds": 156.63,
+          "timestamp": "[02:36.63]",
+          "displayTime": "2:36",
+          "text": "I should've put effort in findin' somebody better (Alright)"
+        },
+        {
+          "id": 48,
+          "seconds": 159.51,
+          "timestamp": "[02:39.51]",
+          "displayTime": "2:39",
+          "text": "Now I'm hung like a hook, sing this song forever (Right)"
+        },
+        {
+          "id": 49,
+          "seconds": 162.55,
+          "timestamp": "[02:42.55]",
+          "displayTime": "2:42",
+          "text": "No pun intended with these words, I'm a little too clever, hey"
+        },
+        {
+          "id": 50,
+          "seconds": 166.42,
+          "timestamp": "[02:46.42]",
+          "displayTime": "2:46",
+          "text": ""
+        }
+      ],
+      "plainText": "Oh-oh, oh\nOh-oh, oh\nOh-oh, oh\nOh\nI told her she could call me whenever (Right), no matter the weather (Alright)\nI'm fallin' apart, I need to get it together (Alright)\nYou lie, you lie when you say it's forever (You lie)\nCan't lie, I'm high, it ain't gettin' no better (Alright)\nI gave her all of my effort (Right), she said, \"It's whatever\" (Alright)\nI should've put effort in findin' somebody better (Alright)\nNow I'm hung like a hook, sing this song forever (Right)\nNo pun intended with these words, I'm a little too clever, hey\nI'm in her bushes while she walk home\nI'm her secret admirer, stalker's such a strong term\nI'm in your bedroom when you're not home (Not home)\nLove is obsession, when the hell will I learn?\nYou never meant to hurt me, right? (Right?)\nI hope that that's what you're thinkin'\nYou said you got a new man, right?\nI have to make him go missin'\nI don't know what the fuck I was thinkin'\nNarcotic nonsense, I'm tweakin'\nThere's a hole in my heart, that shit leakin'\nJust hold me close and heal the pain\nI told her she could call me whenever (Right), no matter the weather (Alright)\nI'm fallin' apart, I need to get it together (Alright)\nYou lie, you lie when you say it's forever (You lie)\nCan't lie, I'm high, it ain't gettin' no better (Alright)\nI gave her all of my effort (Right), she said, \"It's whatever\" (Alright)\nI should've put effort in findin' somebody better (Alright)\nNow I'm hung like a hook, sing this song forever (Right)\nNo pun intended with these words, I'm a little too clever, hey\nI'm hung, I'm hung, I'm young, I'm dumb\nIn love, I'm sprung, can't hold my tongue\nWant to shout-out to my fans, I know you worry\nIn my Instagram comments askin' who hurt me\nI'm in my feelings over bitches that were doin' me dirty\nI can still see your shadows in my room, baby\nYou just text me the other day, a little too flirty\nI know you don't want me, you want my money, honey\nBut you can't put a price on love, oh (On love)\nYou can't put a price on us (On us)\nI told her she could call me whenever (Right), no matter the weather (Alright)\nI'm fallin' apart, I need to get it together (Alright)\nYou lie, you lie when you say it's forever (You lie)\nCan't lie, I'm high, it ain't gettin' no better (Alright)\nI gave her all of my effort (Right), she said, \"It's whatever\" (Alright)\nI should've put effort in findin' somebody better (Alright)\nNow I'm hung like a hook, sing this song forever (Right)\nNo pun intended with these words, I'm a little too clever, hey\n",
+      "lrcContent": "[ti:Whatever]\n[ar:Juice WRLD]\n[al:Goodbye & Good Riddance]\n[by:LyricSync]\n[00:01.22] Oh-oh, oh\n[00:04.42] Oh-oh, oh\n[00:07.74] Oh-oh, oh\n[00:10.78] Oh\n[00:11.58] I told her she could call me whenever (Right), no matter the weather (Alright)\n[00:15.73] I'm fallin' apart, I need to get it together (Alright)\n[00:18.74] You lie, you lie when you say it's forever (You lie)\n[00:21.79] Can't lie, I'm high, it ain't gettin' no better (Alright)\n[00:24.95] I gave her all of my effort (Right), she said, \"It's whatever\" (Alright)\n[00:28.35] I should've put effort in findin' somebody better (Alright)\n[00:31.54] Now I'm hung like a hook, sing this song forever (Right)\n[00:34.55] No pun intended with these words, I'm a little too clever, hey\n[00:38.42] I'm in her bushes while she walk home\n[00:41.07] I'm her secret admirer, stalker's such a strong term\n[00:45.02] I'm in your bedroom when you're not home (Not home)\n[00:47.79] Love is obsession, when the hell will I learn?\n[00:51.70] You never meant to hurt me, right? (Right?)\n[00:55.03] I hope that that's what you're thinkin'\n[00:58.03] You said you got a new man, right?\n[01:01.47] I have to make him go missin'\n[01:04.34] I don't know what the fuck I was thinkin'\n[01:07.90] Narcotic nonsense, I'm tweakin'\n[01:10.87] There's a hole in my heart, that shit leakin'\n[01:13.68] Just hold me close and heal the pain\n[01:15.77] I told her she could call me whenever (Right), no matter the weather (Alright)\n[01:19.91] I'm fallin' apart, I need to get it together (Alright)\n[01:22.75] You lie, you lie when you say it's forever (You lie)\n[01:25.99] Can't lie, I'm high, it ain't gettin' no better (Alright)\n[01:29.11] I gave her all of my effort (Right), she said, \"It's whatever\" (Alright)\n[01:32.55] I should've put effort in findin' somebody better (Alright)\n[01:35.51] Now I'm hung like a hook, sing this song forever (Right)\n[01:38.55] No pun intended with these words, I'm a little too clever, hey\n[01:42.18] I'm hung, I'm hung, I'm young, I'm dumb\n[01:45.06] In love, I'm sprung, can't hold my tongue\n[01:48.15] Want to shout-out to my fans, I know you worry\n[01:51.91] In my Instagram comments askin' who hurt me\n[01:54.71] I'm in my feelings over bitches that were doin' me dirty\n[01:57.86] I can still see your shadows in my room, baby\n[02:01.22] You just text me the other day, a little too flirty\n[02:04.42] I know you don't want me, you want my money, honey\n[02:09.38] But you can't put a price on love, oh (On love)\n[02:15.78] You can't put a price on us (On us)\n[02:19.87] I told her she could call me whenever (Right), no matter the weather (Alright)\n[02:23.75] I'm fallin' apart, I need to get it together (Alright)\n[02:26.66] You lie, you lie when you say it's forever (You lie)\n[02:29.99] Can't lie, I'm high, it ain't gettin' no better (Alright)\n[02:33.11] I gave her all of my effort (Right), she said, \"It's whatever\" (Alright)\n[02:36.63] I should've put effort in findin' somebody better (Alright)\n[02:39.51] Now I'm hung like a hook, sing this song forever (Right)\n[02:42.55] No pun intended with these words, I'm a little too clever, hey\n[02:46.42]"
+    },
+    {
       "id": "out-who-can-you-tell",
       "era": "OUT",
       "eraName": "The Outsiders",
@@ -50850,10 +53176,10 @@
       "lrcContent": "[ti:Xmas List]\n[ar:Juice WRLD]\n[al:The Outsiders]\n[by:LyricSync]\n[00:01.12] (DY Krazy)\n[00:03.16] All I want from Christmas is some all-gold teeth\n[00:07.89] Cowboy chief, hat on my head, rifle on the scene\n[00:12.46] Gucci sweater on me like a Christmas list (Yee-haw)\n[00:15.39] AK-47 on my Christmas list (Yeah, yee-haw)\n[00:18.48] Son of a bitch tried to rob me, had to dump my clip (Yee-haw)\n[00:21.68] That's a purdy-ass pussy (Ah), let me swim in it (Uh, dibs, yee-haw)\n[00:25.79] Yeah, we the roughest, toughest niggas 'round town (Yeah, yeah, yeah, yeah)\n[00:28.92] What I'm totin' be a McMillan, then yo' ho down (Yeah, yeah, yeah, yeah, yeah)\n[00:32.66] If he like yo' ho, he may just tie your ho down (Yeah, yeah, yeah, yeah, yeah, uh-huh)\n[00:35.23] I heard hеr name Mary, hit, then Bailey madе her go 'round (Yee-haw)\n[00:38.64] Uh, round 'em up, just another day on the ranch\n[00:41.04] Brand new band in the Gucci pants, Codeine cowboy, I'm a champ\n[00:44.10] Big-ass Gucci belt buckle, with a revolver in my pants\n[00:47.10] I bet you never went bull ridin' off a couple xans (Yee-haw)\n[00:51.08] I keep a lil' somethin' in my holster, 'cause if it go up, then it's over\n[00:54.08] I keep a lil' somethin' in my cup, codeine pourin', runneth over (Ah)\n[00:57.30] Put a lil' somethin' in her gut\n[00:58.88] She comin', she keep comin' over and over\n[01:00.94] We gettin' close, she my cowgirl (Ah), I feel her holster (Yee-haw)\n[01:06.28] Beverly hillbillies, countin' them real milli's\n[01:08.52] Dirtbikes poppin' them real wheelies (Yee-haw, yeah)\n[01:12.52] Beverly hillbillies, pass me a pill\n[01:14.50] I can't deal with it, deal with it all\n[01:16.54] Gucci sweater on me like a Christmas list (Yee-haw)\n[01:19.15] AK-47 on my Christmas list (Yeah, yee-haw)\n[01:22.58] Son of a bitch tried to rob me, had to dump my clip (Yee-haw)\n[01:25.84] That's a purdy-ass pussy (Ah), let me swim in it (Uh, dibs, yee-haw)\n[01:30.02] Yeah, we the roughest, toughest niggas 'round town (Yeah, yeah, yeah, yeah)\n[01:33.02] What I'm totin' be a McMillan, then yo' ho down (Yeah, yeah, yeah, yeah, yeah)\n[01:36.68] If he like yo' ho, he may just tie your ho down (Yeah, yeah, yeah, yeah, yeah, uh-huh)\n[01:39.30] I heard her name Mary, hit, then Bailey made her go 'round (Yee-haw)\n[01:42.80] Say he wanna have a shootout, nigga, where you at? (Uh)\n[01:46.12] I'm at the saloon gettin' slumped off the Jack (Uh)\n[01:49.44] Got a revolver on me, I'm gon' meet you in the back (Uh)\n[01:52.66] Shoot you in the face after we take these five steps (Uh)\n[01:55.72] Smith & Wesson five hundred in my grip\n[01:58.40] My new watch gon' cost five hundred, don't trip\n[02:01.90] I ain't talkin' 'bout whiskey when I say I got the drip\n[02:04.92] Gucci boots with the spurs so the haters gon' trip, yeah (Yeah)\n[02:10.12] Haters gon' trip, yeah (Yeah)\n[02:13.37] I'm robbin' them for their loot, they ain't gon' do shit\n[02:17.90] Old broke-ass son of bitch\n[02:20.52] Gucci sweater on me like a Christmas list (Yee-haw)\n[02:23.37] AK-47 on my Christmas list (Yeah, yee-haw)\n[02:26.52] Son of a bitch tried to rob me, had to dump my clip (Yee-haw)\n[02:29.70] That's a purdy-ass pussy (Ah), let me swim in it (Uh, dibs, yee-haw)\n[02:33.90] Yeah, we the roughest, toughest niggas 'round town (Yeah, yeah, yeah, yeah)\n[02:36.96] What I'm totin' be a McMillan, then yo' ho down (Yeah, yeah, yeah, yeah, yeah)\n[02:40.68] If he like yo' ho, he may just tie your ho down (Yeah, yeah, yeah, yeah, yeah, uh-huh)\n[02:43.18] I heard her name Mary, hit, then Bailey made her go 'round (Yee-haw)"
     }
   ],
-  "totalSongs": 114,
+  "totalSongs": 120,
   "tracker": [
     {
-      "id": "trk-lib-out-103",
+      "id": "trk-lib-out-109",
       "era": "OUT",
       "eraName": "The Outsiders",
       "eraColor": "#06b6d4",
@@ -50866,7 +53192,7 @@
       "hasTimestamps": true
     },
     {
-      "id": "trk-lib-out-98",
+      "id": "trk-lib-out-104",
       "era": "OUT",
       "eraName": "The Outsiders",
       "eraColor": "#06b6d4",
@@ -50879,7 +53205,7 @@
       "hasTimestamps": true
     },
     {
-      "id": "trk-lib-out-86",
+      "id": "trk-lib-out-92",
       "era": "OUT",
       "eraName": "The Outsiders",
       "eraColor": "#06b6d4",
@@ -50892,7 +53218,7 @@
       "hasTimestamps": true
     },
     {
-      "id": "trk-lib-out-81",
+      "id": "trk-lib-out-87",
       "era": "OUT",
       "eraName": "The Outsiders",
       "eraColor": "#06b6d4",
@@ -50907,7 +53233,7 @@
       "hasTimestamps": true
     },
     {
-      "id": "trk-lib-out-63",
+      "id": "trk-lib-out-69",
       "era": "OUT",
       "eraName": "The Outsiders",
       "eraColor": "#06b6d4",
@@ -50922,7 +53248,7 @@
       "hasTimestamps": true
     },
     {
-      "id": "trk-lib-out-57",
+      "id": "trk-lib-out-63",
       "era": "OUT",
       "eraName": "The Outsiders",
       "eraColor": "#06b6d4",
@@ -50937,7 +53263,7 @@
       "hasTimestamps": true
     },
     {
-      "id": "trk-lib-out-56",
+      "id": "trk-lib-out-62",
       "era": "OUT",
       "eraName": "The Outsiders",
       "eraColor": "#06b6d4",
@@ -50952,7 +53278,7 @@
       "hasTimestamps": true
     },
     {
-      "id": "trk-lib-out-53",
+      "id": "trk-lib-out-59",
       "era": "OUT",
       "eraName": "The Outsiders",
       "eraColor": "#06b6d4",
@@ -50965,7 +53291,7 @@
       "hasTimestamps": true
     },
     {
-      "id": "trk-lib-out-51",
+      "id": "trk-lib-out-57",
       "era": "OUT",
       "eraName": "The Outsiders",
       "eraColor": "#06b6d4",
@@ -50978,7 +53304,7 @@
       "hasTimestamps": true
     },
     {
-      "id": "trk-lib-out-44",
+      "id": "trk-lib-out-50",
       "era": "OUT",
       "eraName": "The Outsiders",
       "eraColor": "#06b6d4",
@@ -50988,6 +53314,45 @@
       "status": "synced",
       "songId": "out-chasing-the-dragon",
       "durationFormatted": "2:38",
+      "hasTimestamps": true
+    },
+    {
+      "id": "trk-lib-gbgr-33",
+      "era": "GBGR",
+      "eraName": "Goodbye & Good Riddance",
+      "eraColor": "#f59e0b",
+      "title": "Toxic Humans",
+      "notes": "Included from Library",
+      "aliases": [],
+      "status": "synced",
+      "songId": "gbgr-toxic-humans",
+      "durationFormatted": "2:57",
+      "hasTimestamps": true
+    },
+    {
+      "id": "trk-lib-gbgr-31",
+      "era": "GBGR",
+      "eraName": "Goodbye & Good Riddance",
+      "eraColor": "#f59e0b",
+      "title": "Overdose",
+      "notes": "Included from Library",
+      "aliases": [],
+      "status": "synced",
+      "songId": "gbgr-overdose",
+      "durationFormatted": "2:35",
+      "hasTimestamps": true
+    },
+    {
+      "id": "trk-lib-gbgr-30",
+      "era": "GBGR",
+      "eraName": "Goodbye & Good Riddance",
+      "eraColor": "#f59e0b",
+      "title": "Call Me Whenever",
+      "notes": "Included from Library",
+      "aliases": [],
+      "status": "synced",
+      "songId": "gbgr-call-me-whenever",
+      "durationFormatted": "2:46",
       "hasTimestamps": true
     },
     {
@@ -58212,9 +60577,9 @@
       "title": "Bottle",
       "notes": "",
       "aliases": [],
-      "status": "unsynced",
-      "songId": null,
-      "durationFormatted": null,
+      "status": "synced",
+      "songId": "gbgr-bottle",
+      "durationFormatted": "0:00",
       "hasTimestamps": false
     },
     {
@@ -62090,10 +64455,10 @@
       "title": "Switch",
       "notes": "",
       "aliases": [],
-      "status": "unsynced",
-      "songId": null,
-      "durationFormatted": null,
-      "hasTimestamps": false
+      "status": "synced",
+      "songId": "gbgr-switch",
+      "durationFormatted": "2:59",
+      "hasTimestamps": true
     },
     {
       "id": "trk-gbgr-334",
@@ -62508,10 +64873,10 @@
       "title": "Whatever",
       "notes": "",
       "aliases": [],
-      "status": "unsynced",
-      "songId": null,
-      "durationFormatted": null,
-      "hasTimestamps": false
+      "status": "synced",
+      "songId": "gbgr-whatever",
+      "durationFormatted": "2:46",
+      "hasTimestamps": true
     },
     {
       "id": "trk-gbgr-366",
@@ -66809,10 +69174,10 @@
     }
   ],
   "trackerStats": {
-    "totalTracked": 1216,
-    "syncedCount": 127,
-    "unsyncedCount": 1089,
-    "overallPercentage": "10.4",
+    "totalTracked": 1219,
+    "syncedCount": 133,
+    "unsyncedCount": 1086,
+    "overallPercentage": "10.9",
     "eraBreakdown": {
       "DRFL": {
         "code": "DRFL",
@@ -66836,10 +69201,10 @@
         "code": "GBGR",
         "name": "Goodbye & Good Riddance",
         "color": "#f59e0b",
-        "total": 376,
-        "synced": 4,
-        "unsynced": 372,
-        "percentage": "1.1"
+        "total": 379,
+        "synced": 10,
+        "unsynced": 369,
+        "percentage": "2.6"
       },
       "WOD": {
         "code": "WOD",
@@ -67083,5 +69448,5 @@
       "Dark Tints"
     ]
   },
-  "timestamp": "2026-11-09T19:25:10.561Z"
+  "timestamp": "2026-11-14T19:32:54.501Z"
 }
