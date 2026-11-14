@@ -1,14 +1,29 @@
 # ========================================================
-# LyricSync - Easy Song Aliases
+# LyricSync - Master Song Aliases (aliases.txt)
 # 
-# Easily link alternative titles for songs here!
-# No coding or JSON needed. Just write:
-# Song Title = Alternative Name 1, Alternative Name 2
+# This file is the ONLY place where song aliases come from!
+# 
+# To add an alias: Write the song name, an "=" sign, and the alternative name.
+# Example: Song Title = Other Name 1, Other Name 2
+# 
+# To remove an alias: Just delete the line or erase the unwanted name.
+# 
+# Note: Adding the same song or alias twice by accident is 100% safe!
+# The system automatically ignores duplicates.
 # ========================================================
 
+# --- Goodbye & Good Riddance (GBGR) Era ---
 Listen To This If You're Lost = Toxic Humans
+
+# --- Death Race For Love (DRFL) Era ---
 Rental = Cha-Ching, Cha Ching
 Kiki = Ready Aim Fire, Ready, Aim, Fire
+Astray = Look At Me Now, Never Stray
+
+# --- The Outsiders (OUT) Era ---
 All Life Long = Good Time, Good Times
 Party By Myself = Heroin Music
-Astray = Look At Me Now, Never Stray
+Chase The Dragon = Chasing The Dragon
+Dark Side = Dark Knight
+Rob And Scam = Rob & Scam
+Bity (with Trippie Redd) = Bitty
