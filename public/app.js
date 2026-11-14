@@ -409,7 +409,8 @@
     }
 
     try {
-      const res = await fetch('songs-data.json');
+      // Use cache-busting timestamp so changes reflect instantly without browser caching delays
+      const res = await fetch(`songs-data.json?t=${Date.now()}`);
       if (res.ok) {
         const data = await res.json();
         processLoadedData(data);
@@ -795,19 +796,6 @@
               <span class="status-indicator-dot ${isSynced ? 'synced' : 'unsynced'}"></span>
               ${isSynced ? 'Synced' : 'Not Yet Synced'}
             </span>
-
-            ${isSynced && item.songId ? `
-              <button class="btn-tracker-play" data-songid="${item.songId}" title="Open karaoke lyrics player">
-                <svg viewBox="0 0 24 24" fill="currentColor">
-                  <polygon points="5 3 19 12 5 21 5 3"></polygon>
-                </svg>
-                <span>Play / View LRC</span>
-              </button>
-            ` : `
-              <button class="btn-tracker-request" data-title="${encodeURIComponent(item.title)}" data-era="${item.era}" title="Suggest or submit lyrics on GitHub">
-                <span>Request Sync</span>
-              </button>
-            `}
           </div>
         </div>
       `;
