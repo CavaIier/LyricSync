@@ -506,17 +506,6 @@ body {
 .out-dot { background: var(--out-primary); box-shadow: 0 0 8px var(--out-primary); }
 .gbgr-dot { background: #f59e0b; box-shadow: 0 0 8px #f59e0b; }
 .wod-dot { background: #10b981; box-shadow: 0 0 8px #10b981; }
-.new-dot { background: #10b981; box-shadow: 0 0 8px #10b981; }
-
-.filter-btn-new.active {
-  background: linear-gradient(135deg, #10b981, #059669);
-  color: #fff;
-  border-color: #10b981;
-}
-.filter-btn-new.active .badge {
-  background: rgba(0, 0, 0, 0.3);
-  color: #fff;
-}
 
 .sort-view-controls {
   display: flex;
@@ -726,24 +715,6 @@ body {
   align-items: center;
   gap: 8px;
   flex-wrap: wrap;
-}
-
-.new-neon-badge {
-  font-size: 0.65rem;
-  font-weight: 800;
-  color: #10b981;
-  background: rgba(16, 185, 129, 0.15);
-  border: 1px solid rgba(16, 185, 129, 0.4);
-  padding: 2px 7px;
-  border-radius: var(--radius-full);
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  box-shadow: 0 0 10px rgba(16, 185, 129, 0.3);
-  animation: glowPulse 2s infinite ease-in-out;
-}
-@keyframes glowPulse {
-  0%, 100% { box-shadow: 0 0 8px rgba(16, 185, 129, 0.3); }
-  50% { box-shadow: 0 0 14px rgba(16, 185, 129, 0.6); }
 }
 
 .card-aliases {
@@ -2102,57 +2073,6 @@ body {
   padding: 1px 5px;
   border-radius: 4px;
   color: #cbd5e1;
-}
-
-/* ==========================================================================
-   Updates & Changelog Modal
-   ========================================================================== */
-
-.updates-modal-body {
-  padding: 24px 28px;
-  max-height: 60vh;
-  overflow-y: auto;
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-}
-
-.timeline-card {
-  background: rgba(15, 23, 42, 0.7);
-  border: 1px solid var(--border-subtle);
-  border-radius: var(--radius-lg);
-  padding: 18px 20px;
-}
-
-.timeline-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin-bottom: 6px;
-}
-.timeline-ver {
-  font-size: 1rem;
-  font-weight: 800;
-  color: #10b981;
-}
-.timeline-date {
-  font-size: 0.78rem;
-  color: var(--text-muted);
-}
-.timeline-title {
-  font-size: 0.95rem;
-  font-weight: 700;
-  color: #fff;
-  margin-bottom: 12px;
-}
-.timeline-changes-list {
-  padding-left: 20px;
-  font-size: 0.85rem;
-  color: var(--text-secondary);
-  line-height: 1.6;
-}
-.timeline-changes-list li {
-  margin-bottom: 4px;
 }
 
 /* ==========================================================================

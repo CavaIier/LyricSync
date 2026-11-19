@@ -39,8 +39,9 @@
       "rawName": "Juice WRLD - Ain't Nothing To It",
       "title": "Ain't Nothing To It",
       "artist": "Juice WRLD",
-      "aliases": [],
-      "isNew": false,
+      "aliases": [
+        "Racks v1"
+      ],
       "hasTimestamps": true,
       "durationSec": 162,
       "durationFormatted": "2:41",
@@ -460,7 +461,6 @@
       "title": "Air Guitar",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 231,
       "durationFormatted": "3:50",
@@ -869,7 +869,6 @@
         "Good Time",
         "Good Times"
       ],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 198,
       "durationFormatted": "3:18",
@@ -1226,7 +1225,6 @@
       "title": "Another Place",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 175,
       "durationFormatted": "2:55",
@@ -1632,7 +1630,6 @@
       "title": "AP Tik Tok",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 152,
       "durationFormatted": "2:31",
@@ -2080,7 +2077,6 @@
       "title": "Attachments (with Young Thug)",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 213,
       "durationFormatted": "3:32",
@@ -2864,7 +2860,6 @@
       "title": "Barry Bonds",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 165,
       "durationFormatted": "2:44",
@@ -3381,8 +3376,9 @@
       "rawName": "Juice WRLD - Bigger",
       "title": "Bigger",
       "artist": "Juice WRLD",
-      "aliases": [],
-      "isNew": false,
+      "aliases": [
+        "Biscotti In The Air"
+      ],
       "hasTimestamps": true,
       "durationSec": 212,
       "durationFormatted": "3:32",
@@ -4161,7 +4157,6 @@
       "aliases": [
         "Bity (with Trippie Redd)"
       ],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 108,
       "durationFormatted": "1:47",
@@ -4510,8 +4505,9 @@
       "rawName": "Juice WRLD - Blade",
       "title": "Blade",
       "artist": "Juice WRLD",
-      "aliases": [],
-      "isNew": false,
+      "aliases": [
+        "Bloody Blade"
+      ],
       "hasTimestamps": true,
       "durationSec": 152,
       "durationFormatted": "2:31",
@@ -4895,8 +4891,9 @@
       "rawName": "Juice WRLD - Blown Away",
       "title": "Blown Away",
       "artist": "Juice WRLD",
-      "aliases": [],
-      "isNew": false,
+      "aliases": [
+        "Stainless"
+      ],
       "hasTimestamps": true,
       "durationSec": 187,
       "durationFormatted": "3:06",
@@ -5343,8 +5340,9 @@
       "rawName": "Juice WRLD - Blue Day",
       "title": "Blue Day",
       "artist": "Juice WRLD",
-      "aliases": [],
-      "isNew": false,
+      "aliases": [
+        "Halo"
+      ],
       "hasTimestamps": true,
       "durationSec": 136,
       "durationFormatted": "2:15",
@@ -5862,7 +5860,6 @@
       "title": "Both Sides (with Trippie Redd)",
       "artist": "Juice WRLD & Trippie Redd",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 109,
       "durationFormatted": "1:48",
@@ -6149,7 +6146,6 @@
       "title": "Bottle",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": false,
       "durationSec": 0,
       "durationFormatted": "0:00",
@@ -6625,7 +6621,6 @@
       "title": "Broke Boys",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 165,
       "durationFormatted": "2:44",
@@ -7241,7 +7236,6 @@
       "title": "Call Me Whenever",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 166,
       "durationFormatted": "2:46",
@@ -7619,7 +7613,6 @@
       "title": "Can't Be Saved",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 189,
       "durationFormatted": "3:08",
@@ -8039,7 +8032,6 @@
       "title": "Carry It",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 175,
       "durationFormatted": "2:55",
@@ -8704,7 +8696,6 @@
       "title": "Challenger",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 192,
       "durationFormatted": "3:12",
@@ -9355,7 +9346,6 @@
       "title": "Chase My Highs",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 180,
       "durationFormatted": "3:00",
@@ -9788,10 +9778,7 @@
       "rawName": "Juice WRLD - Chase The Dragon",
       "title": "Chase The Dragon",
       "artist": "Juice WRLD",
-      "aliases": [
-        "Chasing The Dragon"
-      ],
-      "isNew": false,
+      "aliases": [],
       "hasTimestamps": true,
       "durationSec": 155,
       "durationFormatted": "2:35",
@@ -10218,9 +10205,8 @@
       "title": "Chasing The Dragon",
       "artist": "Juice WRLD",
       "aliases": [
-        "Chase The Dragon"
+        "Not My Fault"
       ],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 158,
       "durationFormatted": "2:38",
@@ -10597,8 +10583,9 @@
       "rawName": "Juice WRLD - Choppa Sang (v1)",
       "title": "Choppa Sang (v1)",
       "artist": "Juice WRLD",
-      "aliases": [],
-      "isNew": false,
+      "aliases": [
+        "Happy Life"
+      ],
       "hasTimestamps": true,
       "durationSec": 164,
       "durationFormatted": "2:43",
@@ -10983,7 +10970,6 @@
       "title": "Christian Mingle (with G Herbo)",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 183,
       "durationFormatted": "3:02",
@@ -11452,7 +11438,6 @@
       "title": "Chrome",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 219,
       "durationFormatted": "3:38",
@@ -12194,7 +12179,6 @@
       "title": "Classy",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 82,
       "durationFormatted": "1:21",
@@ -12355,7 +12339,6 @@
       "title": "Clout",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 115,
       "durationFormatted": "1:55",
@@ -12628,7 +12611,6 @@
       "title": "Codeine Cowboys",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 218,
       "durationFormatted": "3:37",
@@ -13132,7 +13114,6 @@
       "title": "Codeine Guzzler",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 158,
       "durationFormatted": "2:37",
@@ -13608,7 +13589,6 @@
       "title": "Cold Summer",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 97,
       "durationFormatted": "1:36",
@@ -13895,7 +13875,6 @@
       "title": "Cold Winters",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 177,
       "durationFormatted": "2:57",
@@ -14413,7 +14392,6 @@
       "title": "Compromise",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 157,
       "durationFormatted": "2:37",
@@ -14812,7 +14790,6 @@
       "title": "Compromise (v1)",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 157,
       "durationFormatted": "2:37",
@@ -15211,7 +15188,6 @@
       "title": "Confide",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 194,
       "durationFormatted": "3:14",
@@ -15610,7 +15586,6 @@
       "title": "Contained",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 194,
       "durationFormatted": "3:14",
@@ -16156,7 +16131,6 @@
       "title": "Coraline",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 135,
       "durationFormatted": "2:14",
@@ -16512,10 +16486,7 @@
       "rawName": "Juice WRLD - Dark Knight",
       "title": "Dark Knight",
       "artist": "Juice WRLD",
-      "aliases": [
-        "Dark Side"
-      ],
-      "isNew": false,
+      "aliases": [],
       "hasTimestamps": true,
       "durationSec": 149,
       "durationFormatted": "2:28",
@@ -16809,9 +16780,8 @@
       "title": "Dark Side",
       "artist": "Juice WRLD",
       "aliases": [
-        "Dark Knight"
+        "Moonlight"
       ],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 219,
       "durationFormatted": "3:38",
@@ -17448,7 +17418,6 @@
       "title": "Dark Tints",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 195,
       "durationFormatted": "3:14",
@@ -18050,7 +18019,6 @@
       "title": "Demise",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 102,
       "durationFormatted": "1:41",
@@ -18281,7 +18249,6 @@
       "title": "Die To Live",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 214,
       "durationFormatted": "3:34",
@@ -18903,8 +18870,9 @@
       "rawName": "Juice WRLD - Do It",
       "title": "Do It",
       "artist": "Juice WRLD",
-      "aliases": [],
-      "isNew": false,
+      "aliases": [
+        "Another Thing To Do It"
+      ],
       "hasTimestamps": true,
       "durationSec": 150,
       "durationFormatted": "2:30",
@@ -19253,8 +19221,9 @@
       "rawName": "Juice WRLD - Don't Forget Me",
       "title": "Don't Forget Me",
       "artist": "Juice WRLD",
-      "aliases": [],
-      "isNew": false,
+      "aliases": [
+        "Forget Me Not"
+      ],
       "hasTimestamps": true,
       "durationSec": 174,
       "durationFormatted": "2:54",
@@ -19646,7 +19615,6 @@
       "title": "Double Date",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 121,
       "durationFormatted": "2:01",
@@ -20030,8 +19998,9 @@
       "rawName": "Juice WRLD - Drive Me Crazy",
       "title": "Drive Me Crazy",
       "artist": "Juice WRLD",
-      "aliases": [],
-      "isNew": false,
+      "aliases": [
+        "Heart Racing"
+      ],
       "hasTimestamps": true,
       "durationSec": 181,
       "durationFormatted": "3:00",
@@ -20416,7 +20385,6 @@
       "title": "Extra",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 155,
       "durationFormatted": "2:35",
@@ -20808,7 +20776,6 @@
       "title": "Face 2 Face (V1)",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 108,
       "durationFormatted": "1:48",
@@ -21031,8 +20998,9 @@
       "rawName": "Juice WRLD - Fresh Air",
       "title": "Fresh Air",
       "artist": "Juice WRLD",
-      "aliases": [],
-      "isNew": false,
+      "aliases": [
+        "Bel Air"
+      ],
       "hasTimestamps": true,
       "durationSec": 181,
       "durationFormatted": "3:00",
@@ -21431,7 +21399,6 @@
       "title": "GoPro (V1)",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 172,
       "durationFormatted": "2:51",
@@ -21900,7 +21867,6 @@
       "title": "Hard To Digest",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 152,
       "durationFormatted": "2:31",
@@ -22474,7 +22440,6 @@
       "title": "High Tide",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 104,
       "durationFormatted": "1:44",
@@ -22768,7 +22733,6 @@
       "title": "Higher",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 153,
       "durationFormatted": "2:32",
@@ -23090,7 +23054,6 @@
       "title": "In The Mix",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 187,
       "durationFormatted": "3:06",
@@ -23565,8 +23528,9 @@
       "rawName": "Juice WRLD - Invasion",
       "title": "Invasion",
       "artist": "Juice WRLD",
-      "aliases": [],
-      "isNew": false,
+      "aliases": [
+        "Spaceships"
+      ],
       "hasTimestamps": true,
       "durationSec": 103,
       "durationFormatted": "1:43",
@@ -23818,7 +23782,6 @@
       "title": "K Like A Russian",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 252,
       "durationFormatted": "4:12",
@@ -24637,7 +24600,6 @@
       "title": "Keep Save",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 120,
       "durationFormatted": "1:59",
@@ -25008,7 +24970,6 @@
       "title": "Kill All My Troubles",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 164,
       "durationFormatted": "2:44",
@@ -25288,7 +25249,6 @@
       "title": "Kill-Tech Top",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 178,
       "durationFormatted": "2:57",
@@ -25883,7 +25843,6 @@
       "title": "London",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 154,
       "durationFormatted": "2:33",
@@ -26387,7 +26346,6 @@
       "title": "Long Time Coming",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 177,
       "durationFormatted": "2:56",
@@ -26890,8 +26848,9 @@
       "rawName": "Juice WRLD - Lost My Mind",
       "title": "Lost My Mind",
       "artist": "Juice WRLD",
-      "aliases": [],
-      "isNew": false,
+      "aliases": [
+        "Hourglass"
+      ],
       "hasTimestamps": true,
       "durationSec": 180,
       "durationFormatted": "3:00",
@@ -27304,7 +27263,6 @@
       "title": "Made It Work",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 186,
       "durationFormatted": "3:05",
@@ -27787,7 +27745,6 @@
       "title": "Mannequin Challenge (feat. Juice WRLD) (V1)",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 149,
       "durationFormatted": "2:28",
@@ -28333,7 +28290,6 @@
       "title": "Maze (V1)",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 106,
       "durationFormatted": "1:45",
@@ -28655,7 +28611,6 @@
       "title": "Maze (V2)",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 106,
       "durationFormatted": "1:45",
@@ -28977,7 +28932,6 @@
       "title": "Maze (V3)",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 106,
       "durationFormatted": "1:45",
@@ -29298,8 +29252,11 @@
       "rawName": "Juice WRLD - Me & You",
       "title": "Me & You",
       "artist": "Juice WRLD",
-      "aliases": [],
-      "isNew": false,
+      "aliases": [
+        "Me and You",
+        "Warning",
+        "End Of The Day"
+      ],
       "hasTimestamps": true,
       "durationSec": 105,
       "durationFormatted": "1:45",
@@ -29509,7 +29466,6 @@
       "title": "Moment",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 162,
       "durationFormatted": "2:42",
@@ -29908,7 +29864,6 @@
       "title": "Motor Boat",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 188,
       "durationFormatted": "3:07",
@@ -30496,7 +30451,6 @@
       "title": "Mula",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 277,
       "durationFormatted": "4:37",
@@ -31055,8 +31009,9 @@
       "rawName": "Juice WRLD - Murciélago",
       "title": "Murciélago",
       "artist": "Juice WRLD",
-      "aliases": [],
-      "isNew": false,
+      "aliases": [
+        "Calm Down"
+      ],
       "hasTimestamps": true,
       "durationSec": 204,
       "durationFormatted": "3:24",
@@ -31644,7 +31599,6 @@
       "title": "On My Own",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 190,
       "durationFormatted": "3:10",
@@ -32022,7 +31976,6 @@
       "title": "On Time",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 174,
       "durationFormatted": "2:53",
@@ -32477,7 +32430,6 @@
       "title": "Overdose",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 155,
       "durationFormatted": "2:35",
@@ -32777,10 +32729,7 @@
       "rawName": "Juice WRLD - Party By Myself",
       "title": "Party By Myself",
       "artist": "Juice WRLD",
-      "aliases": [
-        "Heroin Music"
-      ],
-      "isNew": false,
+      "aliases": [],
       "hasTimestamps": true,
       "durationSec": 176,
       "durationFormatted": "2:56",
@@ -33116,7 +33065,6 @@
       "title": "Party In My Mind (V1)",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 128,
       "durationFormatted": "2:07",
@@ -33424,7 +33372,6 @@
       "title": "Party In My Mind (V2)",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 128,
       "durationFormatted": "2:07",
@@ -33732,7 +33679,6 @@
       "title": "Pokemon",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 192,
       "durationFormatted": "3:12",
@@ -34369,7 +34315,6 @@
       "title": "Pretty Much",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 92,
       "durationFormatted": "1:31",
@@ -34649,7 +34594,6 @@
       "title": "Priceless",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 161,
       "durationFormatted": "2:41",
@@ -35062,7 +35006,6 @@
       "title": "Purple Moncler",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 201,
       "durationFormatted": "3:21",
@@ -35601,7 +35544,6 @@
       "title": "Racks Out",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 163,
       "durationFormatted": "2:43",
@@ -36084,7 +36026,6 @@
       "title": "Range (with G Herbo)",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 179,
       "durationFormatted": "2:58",
@@ -36406,7 +36347,6 @@
       "title": "Record Straight",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 148,
       "durationFormatted": "2:27",
@@ -36808,7 +36748,6 @@
         "Cha-Ching",
         "Cha Ching"
       ],
-      "isNew": true,
       "hasTimestamps": true,
       "durationSec": 252,
       "durationFormatted": "4:11",
@@ -37445,7 +37384,6 @@
       "title": "Ribbit",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 202,
       "durationFormatted": "3:21",
@@ -38089,7 +38027,6 @@
       "title": "Rikers",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 108,
       "durationFormatted": "1:47",
@@ -38469,7 +38406,6 @@
       "aliases": [
         "Rob And Scam"
       ],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 144,
       "durationFormatted": "2:24",
@@ -38854,7 +38790,6 @@
       "title": "Save Us",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": true,
       "hasTimestamps": true,
       "durationSec": 160,
       "durationFormatted": "2:39",
@@ -39050,7 +38985,6 @@
       "title": "Saved By The Bell",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 109,
       "durationFormatted": "1:48",
@@ -39400,7 +39334,6 @@
       "title": "Scarface (with Gunna)",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 164,
       "durationFormatted": "2:44",
@@ -39841,7 +39774,6 @@
       "title": "Scheming",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 173,
       "durationFormatted": "2:53",
@@ -40282,7 +40214,6 @@
       "title": "Screamin'",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 85,
       "durationFormatted": "1:24",
@@ -40603,8 +40534,9 @@
       "rawName": "Juice WRLD - Show Stopper",
       "title": "Show Stopper",
       "artist": "Juice WRLD",
-      "aliases": [],
-      "isNew": false,
+      "aliases": [
+        "Two Cups"
+      ],
       "hasTimestamps": true,
       "durationSec": 123,
       "durationFormatted": "2:02",
@@ -41003,7 +40935,6 @@
       "title": "Signs",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 173,
       "durationFormatted": "2:53",
@@ -41395,7 +41326,6 @@
       "title": "Simple",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 117,
       "durationFormatted": "1:56",
@@ -41710,7 +41640,6 @@
       "title": "Smith & Wesson",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 150,
       "durationFormatted": "2:29",
@@ -42178,8 +42107,9 @@
       "rawName": "Juice WRLD - Stainless",
       "title": "Stainless",
       "artist": "Juice WRLD",
-      "aliases": [],
-      "isNew": false,
+      "aliases": [
+        "Blown Away"
+      ],
       "hasTimestamps": true,
       "durationSec": 187,
       "durationFormatted": "3:06",
@@ -42627,7 +42557,6 @@
       "title": "Swerve",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 146,
       "durationFormatted": "2:25",
@@ -43046,8 +42975,9 @@
       "rawName": "Juice WRLD - Switch",
       "title": "Switch",
       "artist": "Juice WRLD",
-      "aliases": [],
-      "isNew": false,
+      "aliases": [
+        "Never Switch"
+      ],
       "hasTimestamps": true,
       "durationSec": 180,
       "durationFormatted": "2:59",
@@ -43425,7 +43355,6 @@
       "title": "Tempted",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 140,
       "durationFormatted": "2:19",
@@ -43852,7 +43781,6 @@
       "title": "Thankfully",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 129,
       "durationFormatted": "2:09",
@@ -44202,7 +44130,6 @@
       "title": "The Bees Knees (V1)",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 322,
       "durationFormatted": "5:21",
@@ -45224,7 +45151,6 @@
       "title": "The Bees Knees (V2)",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 322,
       "durationFormatted": "5:21",
@@ -46246,7 +46172,6 @@
       "title": "The Bees Knees (V3)",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 322,
       "durationFormatted": "5:21",
@@ -47268,7 +47193,6 @@
       "title": "Time",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 228,
       "durationFormatted": "3:47",
@@ -47814,7 +47738,6 @@
       "title": "Toe To Toe",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 115,
       "durationFormatted": "1:55",
@@ -48082,7 +48005,6 @@
       "aliases": [
         "Listen To This If You're Lost"
       ],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 178,
       "durationFormatted": "2:57",
@@ -48488,7 +48410,6 @@
       "title": "Uncanny",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 196,
       "durationFormatted": "3:15",
@@ -48929,7 +48850,6 @@
       "title": "Ur Mom",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 156,
       "durationFormatted": "2:36",
@@ -49293,7 +49213,6 @@
       "title": "Ur Not The Boss",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 204,
       "durationFormatted": "3:23",
@@ -49755,7 +49674,6 @@
       "title": "USD",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 189,
       "durationFormatted": "3:08",
@@ -50217,7 +50135,6 @@
       "title": "Wait 4 Me",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 179,
       "durationFormatted": "2:59",
@@ -50861,7 +50778,6 @@
       "title": "Watch Your Step",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 114,
       "durationFormatted": "1:53",
@@ -51113,7 +51029,6 @@
       "title": "Whatcha On",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 117,
       "durationFormatted": "1:56",
@@ -51428,7 +51343,6 @@
       "title": "Whatever",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 166,
       "durationFormatted": "2:46",
@@ -51806,7 +51720,6 @@
       "title": "Who Can You Tell",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 81,
       "durationFormatted": "1:20",
@@ -51974,7 +51887,6 @@
       "title": "Wild",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 133,
       "durationFormatted": "2:13",
@@ -52366,7 +52278,6 @@
       "title": "Wraith",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 183,
       "durationFormatted": "3:03",
@@ -52800,7 +52711,6 @@
       "title": "Xmas List",
       "artist": "Juice WRLD",
       "aliases": [],
-      "isNew": false,
       "hasTimestamps": true,
       "durationSec": 163,
       "durationFormatted": "2:43",
@@ -53359,10 +53269,7 @@
       "eraColor": "#8b5cf6",
       "title": "Astray",
       "notes": "",
-      "aliases": [
-        "Look At Me Now",
-        "Never Stray"
-      ],
+      "aliases": [],
       "status": "unsynced",
       "songId": null,
       "durationFormatted": null,
@@ -53505,7 +53412,9 @@
       "eraColor": "#8b5cf6",
       "title": "Blown Away",
       "notes": "",
-      "aliases": [],
+      "aliases": [
+        "Stainless"
+      ],
       "status": "synced",
       "songId": "drfl-blown-away",
       "durationFormatted": "3:06",
@@ -53921,9 +53830,7 @@
       "eraColor": "#8b5cf6",
       "title": "Fire",
       "notes": "",
-      "aliases": [
-        "Kiki"
-      ],
+      "aliases": [],
       "status": "unsynced",
       "songId": null,
       "durationFormatted": null,
@@ -54313,7 +54220,9 @@
       "eraColor": "#8b5cf6",
       "title": "Invasion (v1)",
       "notes": "",
-      "aliases": [],
+      "aliases": [
+        "Spaceships"
+      ],
       "status": "synced",
       "songId": "drfl-invasion",
       "durationFormatted": "1:43",
@@ -55590,7 +55499,9 @@
       "eraColor": "#8b5cf6",
       "title": "Show Stopper",
       "notes": "",
-      "aliases": [],
+      "aliases": [
+        "Two Cups"
+      ],
       "status": "synced",
       "songId": "drfl-show-stopper",
       "durationFormatted": "2:02",
@@ -56383,7 +56294,9 @@
       "eraColor": "#06b6d4",
       "title": "Ain't Nothing To It",
       "notes": "",
-      "aliases": [],
+      "aliases": [
+        "Racks v1"
+      ],
       "status": "synced",
       "songId": "out-ain-t-nothing-to-it",
       "durationFormatted": "2:41",
@@ -56646,7 +56559,9 @@
       "eraColor": "#06b6d4",
       "title": "Bigger",
       "notes": "",
-      "aliases": [],
+      "aliases": [
+        "Biscotti In The Air"
+      ],
       "status": "synced",
       "songId": "out-bigger",
       "durationFormatted": "3:32",
@@ -56687,7 +56602,9 @@
       "eraColor": "#06b6d4",
       "title": "Blade",
       "notes": "",
-      "aliases": [],
+      "aliases": [
+        "Bloody Blade"
+      ],
       "status": "synced",
       "songId": "out-blade",
       "durationFormatted": "2:31",
@@ -56791,7 +56708,9 @@
       "eraColor": "#06b6d4",
       "title": "Blue Day (v1)",
       "notes": "",
-      "aliases": [],
+      "aliases": [
+        "Halo"
+      ],
       "status": "synced",
       "songId": "out-blue-day",
       "durationFormatted": "2:15",
@@ -56804,7 +56723,9 @@
       "eraColor": "#06b6d4",
       "title": "Blue Day (v2)",
       "notes": "",
-      "aliases": [],
+      "aliases": [
+        "Halo"
+      ],
       "status": "unsynced",
       "songId": null,
       "durationFormatted": null,
@@ -56817,7 +56738,9 @@
       "eraColor": "#06b6d4",
       "title": "Blue Day (v3)",
       "notes": "",
-      "aliases": [],
+      "aliases": [
+        "Halo"
+      ],
       "status": "unsynced",
       "songId": null,
       "durationFormatted": null,
@@ -56934,11 +56857,13 @@
       "eraColor": "#06b6d4",
       "title": "Calm Down",
       "notes": "",
-      "aliases": [],
-      "status": "unsynced",
-      "songId": null,
-      "durationFormatted": null,
-      "hasTimestamps": false
+      "aliases": [
+        "Murciélago"
+      ],
+      "status": "synced",
+      "songId": "out-murci-lago",
+      "durationFormatted": "3:24",
+      "hasTimestamps": true
     },
     {
       "id": "trk-out-50",
@@ -56999,9 +56924,7 @@
       "eraColor": "#06b6d4",
       "title": "Chase The Dragon",
       "notes": "",
-      "aliases": [
-        "Chasing The Dragon"
-      ],
+      "aliases": [],
       "status": "synced",
       "songId": "out-chase-the-dragon",
       "durationFormatted": "2:35",
@@ -57040,7 +56963,9 @@
       "eraColor": "#06b6d4",
       "title": "Choppa Sang (v1)",
       "notes": "",
-      "aliases": [],
+      "aliases": [
+        "Happy Life"
+      ],
       "status": "synced",
       "songId": "out-choppa-sang-v1",
       "durationFormatted": "2:43",
@@ -57210,11 +57135,11 @@
       "title": "Dark Side",
       "notes": "",
       "aliases": [
-        "Dark Knight"
+        "Moonlight"
       ],
       "status": "synced",
-      "songId": "out-dark-knight",
-      "durationFormatted": "2:28",
+      "songId": "out-dark-side",
+      "durationFormatted": "3:38",
       "hasTimestamps": true
     },
     {
@@ -57276,7 +57201,9 @@
       "eraColor": "#06b6d4",
       "title": "Do It",
       "notes": "",
-      "aliases": [],
+      "aliases": [
+        "Another Thing To Do It"
+      ],
       "status": "synced",
       "songId": "out-do-it",
       "durationFormatted": "2:30",
@@ -57289,7 +57216,9 @@
       "eraColor": "#06b6d4",
       "title": "Don't Forget Me",
       "notes": "",
-      "aliases": [],
+      "aliases": [
+        "Forget Me Not"
+      ],
       "status": "synced",
       "songId": "out-don-t-forget-me",
       "durationFormatted": "2:54",
@@ -57536,7 +57465,9 @@
       "eraColor": "#06b6d4",
       "title": "Fresh Air",
       "notes": "",
-      "aliases": [],
+      "aliases": [
+        "Bel Air"
+      ],
       "status": "synced",
       "songId": "out-fresh-air",
       "durationFormatted": "3:00",
@@ -57744,11 +57675,13 @@
       "eraColor": "#06b6d4",
       "title": "Heart Racing",
       "notes": "",
-      "aliases": [],
-      "status": "unsynced",
-      "songId": null,
-      "durationFormatted": null,
-      "hasTimestamps": false
+      "aliases": [
+        "Drive me crazy"
+      ],
+      "status": "synced",
+      "songId": "out-drive-me-crazy",
+      "durationFormatted": "3:00",
+      "hasTimestamps": true
     },
     {
       "id": "trk-out-112",
@@ -57848,11 +57781,13 @@
       "eraColor": "#06b6d4",
       "title": "Hourglass",
       "notes": "",
-      "aliases": [],
-      "status": "unsynced",
-      "songId": null,
-      "durationFormatted": null,
-      "hasTimestamps": false
+      "aliases": [
+        "Lost my mind"
+      ],
+      "status": "synced",
+      "songId": "out-lost-my-mind",
+      "durationFormatted": "3:00",
+      "hasTimestamps": true
     },
     {
       "id": "trk-out-120",
@@ -58251,7 +58186,11 @@
       "eraColor": "#06b6d4",
       "title": "Me & You",
       "notes": "",
-      "aliases": [],
+      "aliases": [
+        "Me and You",
+        "Warning",
+        "End Of The Day"
+      ],
       "status": "synced",
       "songId": "out-me-you",
       "durationFormatted": "1:45",
@@ -58498,11 +58437,13 @@
       "eraColor": "#06b6d4",
       "title": "Not My Fault",
       "notes": "",
-      "aliases": [],
-      "status": "unsynced",
-      "songId": null,
-      "durationFormatted": null,
-      "hasTimestamps": false
+      "aliases": [
+        "chasing the dragon"
+      ],
+      "status": "synced",
+      "songId": "out-chasing-the-dragon",
+      "durationFormatted": "2:38",
+      "hasTimestamps": true
     },
     {
       "id": "trk-out-170",
@@ -58680,9 +58621,7 @@
       "eraColor": "#06b6d4",
       "title": "Party By Myself (v2)",
       "notes": "",
-      "aliases": [
-        "Heroin Music"
-      ],
+      "aliases": [],
       "status": "unsynced",
       "songId": null,
       "durationFormatted": null,
@@ -64107,7 +64046,9 @@
       "eraColor": "#f59e0b",
       "title": "Switch",
       "notes": "",
-      "aliases": [],
+      "aliases": [
+        "Never Switch"
+      ],
       "status": "synced",
       "songId": "gbgr-switch",
       "durationFormatted": "2:59",
@@ -66603,12 +66544,7 @@
       "eraColor": "#10b981",
       "title": "Kiki",
       "notes": "",
-      "aliases": [
-        "Ready Aim Fire",
-        "Ready",
-        "Aim",
-        "Fire"
-      ],
+      "aliases": [],
       "status": "unsynced",
       "songId": null,
       "durationFormatted": null,
@@ -68935,7 +68871,9 @@
       "eraColor": "#8b5cf6",
       "title": "Stainless",
       "notes": "Included from Library",
-      "aliases": [],
+      "aliases": [
+        "Blown Away"
+      ],
       "status": "synced",
       "songId": "drfl-stainless",
       "durationFormatted": "3:06",
@@ -68994,21 +68932,6 @@
       "hasTimestamps": true
     },
     {
-      "id": "trk-lib-out-50",
-      "era": "OUT",
-      "eraName": "The Outsiders",
-      "eraColor": "#06b6d4",
-      "title": "Chasing The Dragon",
-      "notes": "Included from Library",
-      "aliases": [
-        "Chase The Dragon"
-      ],
-      "status": "synced",
-      "songId": "out-chasing-the-dragon",
-      "durationFormatted": "2:38",
-      "hasTimestamps": true
-    },
-    {
       "id": "trk-lib-out-57",
       "era": "OUT",
       "eraName": "The Outsiders",
@@ -69048,18 +68971,16 @@
       "hasTimestamps": true
     },
     {
-      "id": "trk-lib-out-62",
+      "id": "trk-lib-out-61",
       "era": "OUT",
       "eraName": "The Outsiders",
       "eraColor": "#06b6d4",
-      "title": "Dark Side",
+      "title": "Dark Knight",
       "notes": "Included from Library",
-      "aliases": [
-        "Dark Knight"
-      ],
+      "aliases": [],
       "status": "synced",
-      "songId": "out-dark-side",
-      "durationFormatted": "3:38",
+      "songId": "out-dark-knight",
+      "durationFormatted": "2:28",
       "hasTimestamps": true
     },
     {
@@ -69076,19 +68997,6 @@
       "hasTimestamps": true
     },
     {
-      "id": "trk-lib-out-69",
-      "era": "OUT",
-      "eraName": "The Outsiders",
-      "eraColor": "#06b6d4",
-      "title": "Drive Me Crazy",
-      "notes": "Included from Library",
-      "aliases": [],
-      "status": "synced",
-      "songId": "out-drive-me-crazy",
-      "durationFormatted": "3:00",
-      "hasTimestamps": true
-    },
-    {
       "id": "trk-lib-out-70",
       "era": "OUT",
       "eraName": "The Outsiders",
@@ -69099,32 +69007,6 @@
       "status": "synced",
       "songId": "out-extra",
       "durationFormatted": "2:35",
-      "hasTimestamps": true
-    },
-    {
-      "id": "trk-lib-out-82",
-      "era": "OUT",
-      "eraName": "The Outsiders",
-      "eraColor": "#06b6d4",
-      "title": "Lost My Mind",
-      "notes": "Included from Library",
-      "aliases": [],
-      "status": "synced",
-      "songId": "out-lost-my-mind",
-      "durationFormatted": "3:00",
-      "hasTimestamps": true
-    },
-    {
-      "id": "trk-lib-out-87",
-      "era": "OUT",
-      "eraName": "The Outsiders",
-      "eraColor": "#06b6d4",
-      "title": "Murciélago",
-      "notes": "Included from Library",
-      "aliases": [],
-      "status": "synced",
-      "songId": "out-murci-lago",
-      "durationFormatted": "3:24",
       "hasTimestamps": true
     },
     {
@@ -69147,9 +69029,7 @@
       "eraColor": "#06b6d4",
       "title": "Party By Myself",
       "notes": "Included from Library",
-      "aliases": [
-        "Heroin Music"
-      ],
+      "aliases": [],
       "status": "synced",
       "songId": "out-party-by-myself",
       "durationFormatted": "2:56",
@@ -69235,10 +69115,10 @@
     }
   ],
   "trackerStats": {
-    "totalTracked": 1233,
+    "totalTracked": 1229,
     "syncedCount": 120,
-    "unsyncedCount": 1113,
-    "overallPercentage": "9.7",
+    "unsyncedCount": 1109,
+    "overallPercentage": "9.8",
     "eraBreakdown": {
       "DRFL": {
         "code": "DRFL",
@@ -69253,10 +69133,10 @@
         "code": "OUT",
         "name": "The Outsiders",
         "color": "#06b6d4",
-        "total": 285,
+        "total": 281,
         "synced": 85,
-        "unsynced": 200,
-        "percentage": "29.8"
+        "unsynced": 196,
+        "percentage": "30.2"
       },
       "GBGR": {
         "code": "GBGR",
@@ -69321,45 +69201,6 @@
       }
     ]
   },
-  "updates": {
-    "latestUpdateDate": "2026-11-09",
-    "newSongIds": [
-      "drfl-rental",
-      "drfl-kiki",
-      "drfl-fast",
-      "drfl-robbery",
-      "out-astray",
-      "out-save-us",
-      "out-burn",
-      "out-blood-on-my-jeans"
-    ],
-    "changelog": [
-      {
-        "version": "v1.2.0",
-        "date": "November 9, 2026",
-        "title": "Community Tracker & Search Overhaul",
-        "changes": [
-          "Added Community Song Tracker with 1,201 Juice WRLD songs across DRFL, OUT, GBGR, and WOD eras",
-          "Added Live Sync Status indicators (🟢 Synced with direct LRC player vs ⚪ Not Yet Synced)",
-          "Added Full Lyrics Search engine with live line preview & keyword highlighting",
-          "Added Song Aliases support with personal custom nicknames saved in browser",
-          "Added 1-click 'Suggest Alternative Name' contribution via GitHub Issues",
-          "Added Crypto Donation support with 1-click address copy and QR codes (BTC, ETH, SOL, LTC)",
-          "Added 'NEW' badges and '⭐ Recently Added' filter button"
-        ]
-      },
-      {
-        "version": "v1.1.0",
-        "date": "November 8, 2026",
-        "title": "Initial Library Release",
-        "changes": [
-          "114 synchronized Juice WRLD tracks across DRFL and OUT eras",
-          "Interactive karaoke auto-scroller and LRC file downloads",
-          "Zero-dependency static compilation for GitHub Pages"
-        ]
-      }
-    ]
-  },
   "aliases": {
     "Listen To This If You're Lost": [
       "Toxic Humans"
@@ -69377,34 +69218,6 @@
     "Cha Ching": [
       "Rental"
     ],
-    "Kiki": [
-      "Ready Aim Fire",
-      "Ready",
-      "Aim",
-      "Fire"
-    ],
-    "Ready Aim Fire": [
-      "Kiki"
-    ],
-    "Ready": [
-      "Kiki"
-    ],
-    "Aim": [
-      "Kiki"
-    ],
-    "Fire": [
-      "Kiki"
-    ],
-    "Astray": [
-      "Look At Me Now",
-      "Never Stray"
-    ],
-    "Look At Me Now": [
-      "Astray"
-    ],
-    "Never Stray": [
-      "Astray"
-    ],
     "All Life Long": [
       "Good Time",
       "Good Times"
@@ -69415,22 +69228,10 @@
     "Good Times": [
       "All Life Long"
     ],
-    "Party By Myself": [
-      "Heroin Music"
-    ],
-    "Heroin Music": [
-      "Party By Myself"
-    ],
-    "Chase The Dragon": [
-      "Chasing The Dragon"
-    ],
-    "Chasing The Dragon": [
-      "Chase The Dragon"
-    ],
     "Dark Side": [
-      "Dark Knight"
+      "Moonlight"
     ],
-    "Dark Knight": [
+    "Moonlight": [
       "Dark Side"
     ],
     "Rob And Scam": [
@@ -69444,7 +69245,117 @@
     ],
     "Bitty": [
       "Bity (with Trippie Redd)"
+    ],
+    "Ain't Nothing To It": [
+      "Racks v1"
+    ],
+    "Racks v1": [
+      "Ain't Nothing To It"
+    ],
+    "bigger": [
+      "Biscotti In The Air"
+    ],
+    "Biscotti In The Air": [
+      "bigger"
+    ],
+    "Blown Away": [
+      "Stainless"
+    ],
+    "Stainless": [
+      "Blown Away"
+    ],
+    "Blade": [
+      "Bloody Blade"
+    ],
+    "Bloody Blade": [
+      "Blade"
+    ],
+    "blue day": [
+      "Halo"
+    ],
+    "Halo": [
+      "blue day"
+    ],
+    "chasing the dragon": [
+      "Not My Fault"
+    ],
+    "Not My Fault": [
+      "chasing the dragon"
+    ],
+    "Choppa sang (v1)": [
+      "Happy Life"
+    ],
+    "Happy Life": [
+      "Choppa sang (v1)"
+    ],
+    "do it": [
+      "Another Thing To Do It"
+    ],
+    "Another Thing To Do It": [
+      "do it"
+    ],
+    "Drive me crazy": [
+      "Heart Racing"
+    ],
+    "Heart Racing": [
+      "Drive me crazy"
+    ],
+    "Dont forget me": [
+      "Forget Me Not"
+    ],
+    "Forget Me Not": [
+      "Dont forget me"
+    ],
+    "Fresh Air": [
+      "Bel Air"
+    ],
+    "Bel Air": [
+      "Fresh Air"
+    ],
+    "invasion": [
+      "Spaceships"
+    ],
+    "Spaceships": [
+      "invasion"
+    ],
+    "Lost my mind": [
+      "Hourglass"
+    ],
+    "Hourglass": [
+      "Lost my mind"
+    ],
+    "Me & You": [
+      "Me and You",
+      "Warning",
+      "End Of The Day"
+    ],
+    "Me and You": [
+      "Me & You"
+    ],
+    "Warning": [
+      "Me & You"
+    ],
+    "End Of The Day": [
+      "Me & You"
+    ],
+    "Murciélago": [
+      "Calm Down"
+    ],
+    "Calm Down": [
+      "Murciélago"
+    ],
+    "show stopper": [
+      "Two Cups"
+    ],
+    "Two Cups": [
+      "show stopper"
+    ],
+    "Switch": [
+      "Never Switch"
+    ],
+    "Never Switch": [
+      "Switch"
     ]
   },
-  "timestamp": "2026-11-14T20:35:15.677Z"
+  "timestamp": "2026-11-19T19:32:08.275Z"
 }

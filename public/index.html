@@ -58,13 +58,6 @@
 
       <!-- Header Action Buttons -->
       <div class="header-actions">
-        <button id="headerUpdatesBtn" class="btn-header-action" title="View Recent Updates & Changelog">
-          <span class="pulse-dot"></span>
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
-          </svg>
-          <span>Updates</span>
-        </button>
         <button id="headerDonateBtn" class="btn-header-action btn-donate" title="Support LyricSync with Crypto">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
             <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
@@ -151,9 +144,6 @@
               </button>
               <button class="filter-btn" data-era="WOD">
                 <span class="era-indicator wod-dot"></span> WOD Era <span class="badge" id="badgeWod">0</span>
-              </button>
-              <button class="filter-btn filter-btn-new" data-era="NEW" title="Show newly added songs">
-                <span class="era-indicator new-dot"></span> ⭐ Recently Added <span class="badge" id="badgeNew">8</span>
               </button>
             </div>
 
@@ -380,7 +370,6 @@
             </span>
             <span id="modalDuration" class="meta-badge">0:00</span>
             <span id="modalLineCount" class="meta-badge">0 lines</span>
-            <span id="modalNewBadge" class="new-neon-badge" style="display: none;">NEW</span>
           </div>
           <h2 id="modalSongTitle" class="modal-title">Song Title</h2>
           <div class="modal-sub-row">
@@ -585,35 +574,6 @@
     </div>
   </div>
 
-
-  <!-- ====================================================================
-       MODAL 3: UPDATES & CHANGELOG MODAL
-       ==================================================================== -->
-  <div id="updatesModal" class="modal-backdrop" aria-hidden="true">
-    <div class="modal-container modal-container-sm">
-      <div class="modal-header">
-        <div class="modal-song-info">
-          <div class="modal-tags">
-            <span class="era-badge" style="background: rgba(16, 185, 129, 0.15); color: #10b981; border-color: rgba(16, 185, 129, 0.3);">
-              ✨ WHAT'S NEW
-            </span>
-          </div>
-          <h2 class="modal-title">Release Notes & Updates</h2>
-          <div class="modal-artist">Recent improvements & new additions to LyricSync</div>
-        </div>
-        <button id="updatesModalCloseBtn" class="modal-close-btn" aria-label="Close">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <line x1="18" y1="6" x2="6" y2="18"></line>
-            <line x1="6" y1="6" x2="18" y2="18"></line>
-          </svg>
-        </button>
-      </div>
-
-      <div class="updates-modal-body" id="updatesModalTimeline">
-        <!-- Injected dynamically from data/updates.json -->
-      </div>
-    </div>
-  </div>
 
 
   <!-- ====================================================================

@@ -13,7 +13,6 @@
   let trackerSongs = [];
   let trackerStats = null;
   let donationsData = null;
-  let updatesData = null;
   let aliasesMap = {};
 
   // User custom nicknames stored in browser localStorage: { [songId]: ['Nickname1', 'Nickname2'] }
@@ -29,7 +28,7 @@
   let currentActiveView = 'library';
 
   // Library filters
-  let currentFilterEra = 'ALL'; // 'ALL' | 'DRFL' | 'OUT' | 'NEW'
+  let currentFilterEra = 'ALL'; // 'ALL' | 'DRFL' | 'OUT' | 'GBGR' | 'WOD'
   let searchMode = 'titles'; // 'titles' | 'lyrics'
   let searchQuery = '';
   let currentSort = 'title-asc';
@@ -64,7 +63,6 @@
   const brandHomeBtn = document.getElementById('brandHomeBtn');
 
   // Header Actions
-  const headerUpdatesBtn = document.getElementById('headerUpdatesBtn');
   const headerDonateBtn = document.getElementById('headerDonateBtn');
   const footerDonateBtn = document.getElementById('footerDonateBtn');
 
@@ -90,7 +88,6 @@
   const badgeOut = document.getElementById('badgeOut');
   const badgeGbgr = document.getElementById('badgeGbgr');
   const badgeWod = document.getElementById('badgeWod');
-  const badgeNew = document.getElementById('badgeNew');
 
   // Tracker Elements
   const trackerProgressBar = document.getElementById('trackerProgressBar');
@@ -143,7 +140,6 @@
   const modalEraBadge = document.getElementById('modalEraBadge');
   const modalDuration = document.getElementById('modalDuration');
   const modalLineCount = document.getElementById('modalLineCount');
-  const modalNewBadge = document.getElementById('modalNewBadge');
   const modalAliasesBox = document.getElementById('modalAliasesBox');
   const modalAliasesList = document.getElementById('modalAliasesList');
   const addAliasBtn = document.getElementById('addAliasBtn');
@@ -174,11 +170,6 @@
   const cryptoQrCode = document.getElementById('cryptoQrCode');
   const walletAddressText = document.getElementById('walletAddressText');
   const copyWalletAddressBtn = document.getElementById('copyWalletAddressBtn');
-
-  // Updates Modal Elements
-  const updatesModal = document.getElementById('updatesModal');
-  const updatesModalCloseBtn = document.getElementById('updatesModalCloseBtn');
-  const updatesModalTimeline = document.getElementById('updatesModalTimeline');
 
   // Alias Modal Elements
   const aliasModal = document.getElementById('aliasModal');
@@ -431,7 +422,6 @@
     trackerSongs = data.tracker || [];
     trackerStats = data.trackerStats || null;
     donationsData = data.donations || null;
-    updatesData = data.updates || null;
     aliasesMap = data.aliases || {};
 
     updateStats(data.eras, data.totalSongs);
@@ -444,20 +434,18 @@
     if (libraryTabBadge) libraryTabBadge.textContent = total || allSongs.length;
     if (badgeAll) badgeAll.textContent = total || allSongs.length;
 
-    let drfl = 0, out = 0, gbgr = 0, wod = 0, newCount = 0;
+    let drfl = 0, out = 0, gbgr = 0, wod = 0;
     allSongs.forEach(s => {
       if (s.era === 'DRFL') drfl++;
       else if (s.era === 'OUT') out++;
       else if (s.era === 'GBGR') gbgr++;
       else if (s.era === 'WOD') wod++;
-      if (s.isNew) newCount++;
     });
 
     if (badgeDrfl) badgeDrfl.textContent = drfl;
     if (badgeOut) badgeOut.textContent = out;
     if (badgeGbgr) badgeGbgr.textContent = gbgr;
     if (badgeWod) badgeWod.textContent = wod;
-    if (badgeNew) badgeNew.textContent = newCount;
   }
 
   function updateTrackerStatsDisplay() {
@@ -535,9 +523,7 @@
     let filtered = allSongs.slice();
 
     // 1. Era filter
-    if (currentFilterEra === 'NEW') {
-      filtered = filtered.filter(s => s.isNew);
-    } else if (currentFilterEra !== 'ALL') {
+    if (currentFilterEra !== 'ALL') {
       filtered = filtered.filter(s => s.era === currentFilterEra);
     }
 
@@ -628,8 +614,7 @@
 
     // Filter description
     let desc = '';
-    if (currentFilterEra === 'NEW') desc = '• Showing Recently Added';
-    else if (currentFilterEra !== 'ALL') desc = `• Filtered by ${currentFilterEra} Era`;
+    if (currentFilterEra !== 'ALL') desc = `• Filtered by ${currentFilterEra} Era`;
     if (searchQuery) desc += ` • Search: "${escapeHtml(searchQuery)}" (${searchMode === 'lyrics' ? 'Lyrics Mode' : 'Title Mode'})`;
     if (activeFilterDesc) activeFilterDesc.textContent = desc;
 
@@ -691,7 +676,6 @@
           <div class="card-body">
             <h3 class="song-title">
               <span>${escapeHtml(song.title)}</span>
-              ${song.isNew ? `<span class="new-neon-badge">NEW</span>` : ''}
             </h3>
             <div class="song-artist">${escapeHtml(song.artist || 'Juice WRLD')}</div>
             ${aliasHtml}
@@ -851,10 +835,6 @@
     modalEraBadge.className = `era-badge ${song.era === 'DRFL' ? 'badge-drfl' : 'badge-out'}`;
     modalDuration.textContent = song.durationFormatted || '0:00';
     modalLineCount.textContent = `${song.lineCount || 0} lines`;
-
-    if (modalNewBadge) {
-      modalNewBadge.style.display = song.isNew ? 'inline-block' : 'none';
-    }
 
     renderModalAliases(song);
 
@@ -1086,37 +1066,6 @@
   }
 
   // ==========================================================================
-  // Updates & Changelog Modal
-  // ==========================================================================
-  function openUpdatesModal() {
-    if (!updatesData || !updatesData.changelog) return;
-
-    const html = updatesData.changelog.map(item => `
-      <div class="timeline-card">
-        <div class="timeline-header">
-          <span class="timeline-ver">${escapeHtml(item.version)}</span>
-          <span class="timeline-date">${escapeHtml(item.date)}</span>
-        </div>
-        <div class="timeline-title">${escapeHtml(item.title)}</div>
-        <ul class="timeline-changes-list">
-          ${item.changes.map(c => `<li>${escapeHtml(c)}</li>`).join('')}
-        </ul>
-      </div>
-    `).join('');
-
-    updatesModalTimeline.innerHTML = html;
-    updatesModal.classList.add('active');
-    updatesModal.setAttribute('aria-hidden', 'false');
-    document.body.style.overflow = 'hidden';
-  }
-
-  function closeUpdatesModal() {
-    updatesModal.classList.remove('active');
-    updatesModal.setAttribute('aria-hidden', 'true');
-    document.body.style.overflow = '';
-  }
-
-  // ==========================================================================
   // Custom Nicknames / Aliases Modal
   // ==========================================================================
   function openAliasModal() {
@@ -1276,7 +1225,6 @@
     brandHomeBtn.addEventListener('click', () => switchView('library'));
 
     // Header buttons
-    headerUpdatesBtn.addEventListener('click', openUpdatesModal);
     headerDonateBtn.addEventListener('click', openCryptoModal);
     footerDonateBtn.addEventListener('click', openCryptoModal);
 
@@ -1316,7 +1264,6 @@
       if (e.key === 'Escape') {
         if (aliasModal.classList.contains('active')) closeAliasModal();
         else if (cryptoModal.classList.contains('active')) closeCryptoModal();
-        else if (updatesModal.classList.contains('active')) closeUpdatesModal();
         else if (lyricsModal.classList.contains('active')) closeSongModal();
       }
     });
@@ -1497,10 +1444,6 @@
       const addr = walletAddressText.textContent;
       if (addr) copyTextToClipboard(addr, `Copied ${walletCoinName.textContent} wallet address!`);
     });
-
-    // Updates modal events
-    updatesModalCloseBtn.addEventListener('click', closeUpdatesModal);
-    updatesModal.addEventListener('click', (e) => { if (e.target === updatesModal) closeUpdatesModal(); });
 
     // Alias modal events
     addAliasBtn.addEventListener('click', openAliasModal);
