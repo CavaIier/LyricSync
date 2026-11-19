@@ -13,16 +13,12 @@
   <link rel="stylesheet" href="styles.css?v=2.2">
 </head>
 <body>
-  <!-- Ambient background glow elements -->
-  <div class="bg-glow bg-glow-purple"></div>
-  <div class="bg-glow bg-glow-cyan"></div>
-
   <!-- Header -->
   <header class="site-header">
     <div class="header-inner container">
       <div class="brand" id="brandHomeBtn" role="button" tabindex="0" title="Return to home">
         <div class="brand-icon">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
             <path d="M9 18V5l12-2v13"></path>
             <circle cx="6" cy="18" r="3"></circle>
             <circle cx="18" cy="16" r="3"></circle>
@@ -30,7 +26,7 @@
         </div>
         <div class="brand-text">
           <div class="brand-title">Lyric<span>Sync</span></div>
-          <div class="brand-sub">Juice WRLD Era Vault • 999</div>
+          <div class="brand-sub">Juice WRLD Vault • 999</div>
         </div>
       </div>
 
@@ -77,23 +73,23 @@
     <section id="librarySection" class="view-section active">
       <!-- Hero / Search Section -->
       <section class="hero-section">
-        <h1 class="hero-title">Find, Copy & Download <span class="gradient-text">LRC Lyrics</span></h1>
-        <p class="hero-desc">Explore time-synchronized lyrics for unreleased & released tracks from <strong>Death Race For Love</strong> and <strong>The Outsiders</strong> eras.</p>
+        <h1 class="hero-title">Find, Copy & Download LRC Lyrics</h1>
+        <p class="hero-desc">Synchronized lyrics for unreleased and released tracks across Death Race For Love and The Outsiders eras.</p>
 
         <!-- Search Bar with Mode Toggle -->
         <div class="search-wrapper">
           <!-- Search Mode Selector -->
           <div class="search-mode-bar">
-            <span class="search-mode-label">Search In:</span>
+            <span class="search-mode-label">Search in</span>
             <div class="search-mode-pills" id="searchModePills">
               <button class="search-mode-pill active" data-mode="titles" title="Search by song title, features, or alternate aliases">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75">
                   <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
                 </svg>
                 <span>Titles & Aliases</span>
               </button>
               <button class="search-mode-pill" data-mode="lyrics" title="Search inside full song lyrics with live snippet preview">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75">
                   <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
                   <polyline points="14 2 14 8 20 8"></polyline>
                   <line x1="16" y1="13" x2="8" y2="13"></line>
@@ -190,7 +186,7 @@
           <span id="activeFilterDesc" class="filter-desc"></span>
         </div>
         <div class="quick-tips">
-          <span class="tip-pill">💡 Tip: Click any song to view karaoke sync, copy, or download</span>
+          <span class="tip-pill">Click any song to view interactive sync, copy, or download</span>
         </div>
       </div>
 
@@ -201,9 +197,14 @@
 
       <!-- Empty State -->
       <div id="emptyState" class="empty-state" style="display: none;">
-        <div class="empty-icon">🔍</div>
+        <div class="empty-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+        </div>
         <h3>No matching songs found</h3>
-        <p>Try searching for a different keyword or check your era filters.</p>
+        <p>Try searching for a different title, lyric fragment, or change era filters.</p>
         <button id="resetSearchBtn" class="btn btn-secondary">Reset Filters</button>
       </div>
     </section>
@@ -215,9 +216,9 @@
     <section id="trackerSection" class="view-section" style="display: none;">
       <div class="tracker-header">
         <div class="tracker-title-box">
-          <div class="tracker-tag">COMMUNITY DISCOGRAPHY</div>
-          <h1 class="tracker-main-title">Juice WRLD <span class="gradient-text">Master Song Tracker</span></h1>
-          <p class="tracker-desc">Tracking all 1,200+ known tracks across Death Race For Love, The Outsiders, Wrld On Drugs, and Goodbye & Good Riddance eras. See which songs are synced and request missing lyrics.</p>
+          <div class="tracker-tag">Community Discography</div>
+          <h1 class="tracker-main-title">Juice WRLD Master Song Tracker</h1>
+          <p class="tracker-desc">Tracking known tracks across Death Race For Love, The Outsiders, Wrld On Drugs, and Goodbye & Good Riddance eras.</p>
         </div>
 
         <!-- Tracker Analytics Overview -->
@@ -511,12 +512,12 @@
       <div class="modal-header">
         <div class="modal-song-info">
           <div class="modal-tags">
-            <span class="era-badge" style="background: rgba(247, 147, 26, 0.15); color: #f7931a; border-color: rgba(247, 147, 26, 0.3);">
-              💝 COMMUNITY SUPPORT
+            <span class="era-badge badge-support">
+              Community Support
             </span>
           </div>
           <h2 class="modal-title" id="donateModalTitle">Support LyricSync</h2>
-          <div class="modal-artist">Keep the archive free, ad-free & updated</div>
+          <div class="modal-artist">Help keep the archive hosted, open, and updated</div>
         </div>
         <button id="cryptoModalCloseBtn" class="modal-close-btn" aria-label="Close">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -568,7 +569,7 @@
             <line x1="12" y1="16" x2="12" y2="12"></line>
             <line x1="12" y1="8" x2="12.01" y2="8"></line>
           </svg>
-          <span>Addresses can be edited anytime in <code>data/donations.json</code>. Thank you for your support! 999 🕊️</span>
+          <span>Addresses can be edited anytime in <code>data/donations.json</code>. Thank you for your support • 999 Vault</span>
         </div>
       </div>
     </div>
@@ -584,8 +585,8 @@
       <div class="modal-header">
         <div class="modal-song-info">
           <div class="modal-tags">
-            <span class="era-badge" style="background: rgba(6, 182, 212, 0.15); color: #06b6d4; border-color: rgba(6, 182, 212, 0.3);">
-              🏷️ SONG ALIASES
+            <span class="era-badge badge-alias">
+              Song Aliases
             </span>
           </div>
           <h2 class="modal-title" id="aliasSongTitleHeading">Song Name</h2>
@@ -626,12 +627,12 @@
   <footer class="site-footer">
     <div class="container footer-content">
       <div class="footer-left">
-        <p><strong>LyricSync</strong> — Dedicated Juice WRLD Synced Lyrics & Master Tracker Archive</p>
-        <p class="footer-sub">All .LRC files formatted with standard RFC metadata and microsecond precision.</p>
+        <p><strong>LyricSync</strong> — Juice WRLD Synced Lyrics & Discography Archive</p>
+        <p class="footer-sub">Standard RFC LRC format with microsecond timestamp alignment.</p>
       </div>
       <div class="footer-right">
-        <button id="footerDonateBtn" class="footer-crypto-btn">💝 Support Project (Crypto)</button>
-        <span class="footer-badge">Long Live Jah & Juice 🕊️ 999</span>
+        <button id="footerDonateBtn" class="footer-crypto-btn">Support Project</button>
+        <span class="footer-badge">Long Live Juice • 999 Vault</span>
       </div>
     </div>
   </footer>

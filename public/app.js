@@ -747,7 +747,12 @@
     if (list.length === 0) {
       trackerListContainer.innerHTML = `
         <div class="empty-state" style="padding: 40px 20px;">
-          <div class="empty-icon">🔍</div>
+          <div class="empty-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+              <circle cx="11" cy="11" r="8"></circle>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+            </svg>
+          </div>
           <h3>No tracked songs match this filter</h3>
           <p>Try switching eras or clearing your search query.</p>
         </div>
@@ -1040,7 +1045,7 @@
     const wallets = donationsData.wallets || [];
     const html = wallets.map(w => `
       <button class="crypto-coin-tab ${w.id === activeDonationCoinId ? 'active' : ''}" data-coin="${w.id}">
-        <span class="coin-icon">${w.icon || '🪙'}</span>
+        <span class="coin-icon">${escapeHtml(w.icon || w.symbol || w.id.toUpperCase())}</span>
         <span>${escapeHtml(w.name)}</span>
       </button>
     `).join('');
