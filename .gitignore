@@ -5,3 +5,11 @@ Thumbs.db
 .vscode/
 .gemini/
 dist/
+**/_archive/
+# Backup of aliases (auto‑created)
+aliases.txt.bak
+
+# Test suite and temporary data
+test/
+# Mock music folder used in tests (if any)
+mock_music/

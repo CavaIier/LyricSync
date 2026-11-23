@@ -26,7 +26,7 @@
         </div>
         <div class="brand-text">
           <div class="brand-title">Lyric<span>Sync</span></div>
-          <div class="brand-sub">Juice WRLD Vault • 999</div>
+          <div class="brand-sub">Made by @Cavaleirr</div>
         </div>
       </div>
 
@@ -74,7 +74,7 @@
       <!-- Hero / Search Section -->
       <section class="hero-section">
         <h1 class="hero-title">Find, Copy & Download LRC Lyrics</h1>
-        <p class="hero-desc">Synchronized lyrics for unreleased and released tracks across Death Race For Love and The Outsiders eras.</p>
+        <p class="hero-desc">make synced lyrics for every good juice song is my goal</p>
 
         <!-- Search Bar with Mode Toggle -->
         <div class="search-wrapper">
@@ -129,17 +129,17 @@
               <button class="filter-btn active" data-era="ALL">
                 All Songs <span class="badge" id="badgeAll">114</span>
               </button>
-              <button class="filter-btn" data-era="DRFL">
-                <span class="era-indicator drfl-dot"></span> DRFL Era <span class="badge" id="badgeDrfl">0</span>
-              </button>
               <button class="filter-btn" data-era="OUT">
-                <span class="era-indicator out-dot"></span> Outsiders Era <span class="badge" id="badgeOut">0</span>
+                <span class="era-indicator out-dot"></span> OUT <span class="badge" id="badgeOut">0</span>
               </button>
-              <button class="filter-btn" data-era="GBGR">
-                <span class="era-indicator gbgr-dot"></span> GBGR Era <span class="badge" id="badgeGbgr">0</span>
+              <button class="filter-btn" data-era="DRFL">
+                <span class="era-indicator drfl-dot"></span> DRFL<span class="badge" id="badgeDrfl">0</span>
               </button>
               <button class="filter-btn" data-era="WOD">
-                <span class="era-indicator wod-dot"></span> WOD Era <span class="badge" id="badgeWod">0</span>
+                <span class="era-indicator wod-dot"></span> WOD <span class="badge" id="badgeWod">0</span>
+              </button>
+              <button class="filter-btn" data-era="GBGR">
+                <span class="era-indicator gbgr-dot"></span> GBGR <span class="badge" id="badgeGbgr">0</span>
               </button>
             </div>
 
@@ -216,9 +216,9 @@
     <section id="trackerSection" class="view-section" style="display: none;">
       <div class="tracker-header">
         <div class="tracker-title-box">
-          <div class="tracker-tag">Community Discography</div>
-          <h1 class="tracker-main-title">Juice WRLD Master Song Tracker</h1>
-          <p class="tracker-desc">Tracking known tracks across Death Race For Love, The Outsiders, Wrld On Drugs, and Goodbye & Good Riddance eras.</p>
+          <div class="tracker-tag">Discography</div>
+          <h1 class="tracker-main-title">Overall Progress</h1>
+          <p class="tracker-desc">This is whats done and whats not in all of juice's discog</p>
         </div>
 
         <!-- Tracker Analytics Overview -->
@@ -244,18 +244,6 @@
           <!-- Era mini stats -->
           <div class="tracker-stat-card">
             <div class="stat-card-header">
-              <span class="era-badge drfl-badge">DRFL</span>
-              <span class="stat-card-pct" id="drflTrackerPct">0%</span>
-            </div>
-            <div class="stat-mini-val"><span id="drflTrackerSynced">0</span> / <span id="drflTrackerTotal">0</span></div>
-            <div class="mini-progress-bar">
-              <div id="drflTrackerBar" class="progress-bar-fill drfl-fill" style="width: 0%;"></div>
-            </div>
-            <div class="stat-mini-label">Death Race For Love</div>
-          </div>
-
-          <div class="tracker-stat-card">
-            <div class="stat-card-header">
               <span class="era-badge out-badge">OUT</span>
               <span class="stat-card-pct" id="outTrackerPct">0%</span>
             </div>
@@ -268,14 +256,14 @@
 
           <div class="tracker-stat-card">
             <div class="stat-card-header">
-              <span class="era-badge gbgr-badge">GBGR</span>
-              <span class="stat-card-pct" id="gbgrTrackerPct">0%</span>
+              <span class="era-badge drfl-badge">DRFL</span>
+              <span class="stat-card-pct" id="drflTrackerPct">0%</span>
             </div>
-            <div class="stat-mini-val"><span id="gbgrTrackerSynced">0</span> / <span id="gbgrTrackerTotal">0</span></div>
+            <div class="stat-mini-val"><span id="drflTrackerSynced">0</span> / <span id="drflTrackerTotal">0</span></div>
             <div class="mini-progress-bar">
-              <div id="gbgrTrackerBar" class="progress-bar-fill gbgr-fill" style="width: 0%;"></div>
+              <div id="drflTrackerBar" class="progress-bar-fill drfl-fill" style="width: 0%;"></div>
             </div>
-            <div class="stat-mini-label">Goodbye & Good Riddance</div>
+            <div class="stat-mini-label">Death Race For Love</div>
           </div>
 
           <div class="tracker-stat-card">
@@ -289,6 +277,18 @@
             </div>
             <div class="stat-mini-label">Wrld On Drugs</div>
           </div>
+
+          <div class="tracker-stat-card">
+            <div class="stat-card-header">
+              <span class="era-badge gbgr-badge">GBGR</span>
+              <span class="stat-card-pct" id="gbgrTrackerPct">0%</span>
+            </div>
+            <div class="stat-mini-val"><span id="gbgrTrackerSynced">0</span> / <span id="gbgrTrackerTotal">0</span></div>
+            <div class="mini-progress-bar">
+              <div id="gbgrTrackerBar" class="progress-bar-fill gbgr-fill" style="width: 0%;"></div>
+            </div>
+            <div class="stat-mini-label">Goodbye & Good Riddance</div>
+          </div>
         </div>
 
         <!-- Tracker Filter & Search Bar -->
@@ -301,7 +301,7 @@
             <input 
               type="text" 
               id="trackerSearchInput" 
-              placeholder="Search all 1,200+ songs by title, feature, or notes..." 
+              placeholder="Search all songs by title, feature, or notes..." 
               autocomplete="off"
             >
             <button id="clearTrackerSearchBtn" class="clear-search-btn" title="Clear">
@@ -316,10 +316,10 @@
             <!-- Era pills -->
             <div class="tracker-pills-group" id="trackerEraPills">
               <button class="tracker-pill active" data-era="ALL">All Eras (<span id="trkCountAll">0</span>)</button>
-              <button class="tracker-pill" data-era="DRFL">DRFL (<span id="trkCountDrfl">0</span>)</button>
               <button class="tracker-pill" data-era="OUT">OUT (<span id="trkCountOut">0</span>)</button>
-              <button class="tracker-pill" data-era="GBGR">GBGR (<span id="trkCountGbgr">0</span>)</button>
+              <button class="tracker-pill" data-era="DRFL">DRFL (<span id="trkCountDrfl">0</span>)</button>
               <button class="tracker-pill" data-era="WOD">WOD (<span id="trkCountWod">0</span>)</button>
+              <button class="tracker-pill" data-era="GBGR">GBGR (<span id="trkCountGbgr">0</span>)</button>
             </div>
 
             <!-- Status filter pills -->
@@ -627,12 +627,12 @@
   <footer class="site-footer">
     <div class="container footer-content">
       <div class="footer-left">
-        <p><strong>LyricSync</strong> — Juice WRLD Synced Lyrics & Discography Archive</p>
-        <p class="footer-sub">Standard RFC LRC format with microsecond timestamp alignment.</p>
+        <p><strong>LyricSync</strong> • Juice WRLD Synced Lyrics Archive</p>
+        <p class="footer-sub">made with ❤️ by @cavaleirr</p>
       </div>
       <div class="footer-right">
         <button id="footerDonateBtn" class="footer-crypto-btn">Support Project</button>
-        <span class="footer-badge">Long Live Juice • 999 Vault</span>
+        <span class="footer-badge">@cavaleirr</span>
       </div>
     </div>
   </footer>

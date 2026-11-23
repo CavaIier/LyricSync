@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node server.js",
     "dev": "node server.js",
-    "build": "node scripts/build-static.js"
+    "build": "node scripts/build-static.js",
+    "scan-aliases": "node scripts/scan-aliases.js"
   },
   "keywords": [
     "lyrics",
